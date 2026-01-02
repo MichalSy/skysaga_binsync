@@ -1,4 +1,4 @@
-last_change = 2026-01-02T18:02:37.354510Z
+last_change = 2026-01-02T18:09:39.392135Z
 addr = 0x4ee7c0
 size = 0xd0
 name = "ClientTreeComponent::ApplyDescriptionOffsetChain"
@@ -10,3 +10,10 @@ addr = 0x4ee7c0
 type = "Vector3 *"
 
 [header.args]
+
+[stack_vars.-0x18]
+last_change = 2026-01-02T18:09:39.392135Z
+offset = -24
+name = "deltaZ"
+size = 0x4
+addr = 0x4ee7c0
