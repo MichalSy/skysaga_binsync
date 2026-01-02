@@ -1,0 +1,26 @@
+name = "TreeComponent"
+size = 0x5c
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "Component"
+size = 0x1c
+
+[members.0x1c]
+name = "GAP_TreeComponent"
+offset = 0x1c
+type = "char[4]"
+size = 0x4
+
+[members.0x20]
+name = "m_ParameterData"
+offset = 0x20
+type = "TreeComponent::ParameterData"
+size = 0x30
+
+[members.0x50]
+name = "UNK_TreeComponent"
+offset = 0x50
+type = "char[12]"
+size = 0xc
