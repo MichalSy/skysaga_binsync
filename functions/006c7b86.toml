@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7b86
+size = 0x6
+name = "EVP_PKEY_copy_parameters"
+type = "int"
+
+[header]
+name = "EVP_PKEY_copy_parameters"
+addr = 0x6c7b86
+type = "int"
+
+[header.args]

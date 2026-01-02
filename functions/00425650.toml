@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x425650
+size = 0x7
+name = "?GetNumExternalThreads@SchedulerProxy@details@Concurrency@@QAEIXZ"
+type = "unsigned int"
+
+[header]
+name = "?GetNumExternalThreads@SchedulerProxy@details@Concurrency@@QAEIXZ"
+addr = 0x425650
+type = "unsigned int"
+
+[header.args]

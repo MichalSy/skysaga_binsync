@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f5fc5
+size = 0xfc
+name = "_fputc"
+type = "int"
+
+[header]
+name = "_fputc"
+addr = 0x6f5fc5
+type = "int"
+
+[header.args]

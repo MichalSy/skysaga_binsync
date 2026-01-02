@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x275370
+size = 0xd
+name = "?SetScheduler@?$ListArray@VScheduleGroupBase@details@Concurrency@@@details@Concurrency@@QAEXPAVSchedulerBase@23@@Z"
+
+[header]
+name = "?SetScheduler@?$ListArray@VScheduleGroupBase@details@Concurrency@@@details@Concurrency@@QAEXPAVSchedulerBase@23@@Z"
+addr = 0x275370
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7bc8
+size = 0x6
+name = "BIO_ctrl"
+type = "int"
+
+[header]
+name = "BIO_ctrl"
+addr = 0x6c7bc8
+type = "int"
+
+[header.args]

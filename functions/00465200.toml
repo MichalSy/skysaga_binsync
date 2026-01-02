@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x465200
+size = 0xb9
+name = "??0ResourceData@@QAE@XZ"
+type = "ResourceData *"
+
+[header]
+name = "??0ResourceData@@QAE@XZ"
+addr = 0x465200
+type = "ResourceData *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4c5e
+size = 0x1e
+name = "?_Tidy@exception@std@@AAEXXZ"
+type = "void"
+
+[header]
+name = "?_Tidy@exception@std@@AAEXXZ"
+addr = 0x6f4c5e
+type = "void"
+
+[header.args]

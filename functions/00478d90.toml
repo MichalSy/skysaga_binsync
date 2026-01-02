@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x478d90
+size = 0xa6
+name = "pv::entity_manager::List::sub_879D90"
+type = "pv::entity_manager::ListNode *"
+
+[header]
+name = "pv::entity_manager::List::sub_879D90"
+addr = 0x478d90
+type = "pv::entity_manager::ListNode *"
+
+[header.args]

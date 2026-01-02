@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x711c3c
+size = 0x1b2
+name = "_ldexp"
+type = "double"
+
+[header]
+name = "_ldexp"
+addr = 0x711c3c
+type = "double"
+
+[header.args]

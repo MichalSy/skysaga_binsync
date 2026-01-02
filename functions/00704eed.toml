@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x704eed
+size = 0x63
+name = "_wcscpy_s"
+type = "errno_t"
+
+[header]
+name = "_wcscpy_s"
+addr = 0x704eed
+type = "errno_t"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x495290
+size = 0x22
+name = "SendPacket_sub_896290"
+type = "int"
+
+[header]
+name = "SendPacket_sub_896290"
+addr = 0x495290
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70cc27
+size = 0x28
+name = "__copysign"
+type = "double"
+
+[header]
+name = "__copysign"
+addr = 0x70cc27
+type = "double"
+
+[header.args]

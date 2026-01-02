@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6eddab
+size = 0x16
+name = "__atoi64"
+type = "long long"
+
+[header]
+name = "__atoi64"
+addr = 0x6eddab
+type = "long long"
+
+[header.args]

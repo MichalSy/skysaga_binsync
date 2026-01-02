@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f0c5f
+size = 0x194
+name = "__ftell_nolock"
+type = "int"
+
+[header]
+name = "__ftell_nolock"
+addr = 0x6f0c5f
+type = "int"
+
+[header.args]

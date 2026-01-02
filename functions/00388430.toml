@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x388430
+size = 0x12
+name = "??0DownloadCharacter@FrontEndState@@QAE@XZ"
+type = "FrontEndState *"
+
+[header]
+name = "??0DownloadCharacter@FrontEndState@@QAE@XZ"
+addr = 0x388430
+type = "FrontEndState *"
+
+[header.args]

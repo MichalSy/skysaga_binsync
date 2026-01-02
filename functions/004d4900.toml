@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4d4900
+size = 0x185
+name = "VoxelDamageComponent::sub_8D5900"
+type = "void"
+
+[header]
+name = "VoxelDamageComponent::sub_8D5900"
+addr = 0x4d4900
+type = "void"
+
+[header.args]

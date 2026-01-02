@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x706430
+size = 0x48
+name = "__SEH_prolog4_GS"
+
+[header]
+name = "__SEH_prolog4_GS"
+addr = 0x706430
+
+[header.args]

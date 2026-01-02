@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x34ae70
+size = 0x9a
+name = "PacketManager::Add_RPCKillOccurred"
+type = "void"
+
+[header]
+name = "PacketManager::Add_RPCKillOccurred"
+addr = 0x34ae70
+type = "void"
+
+[header.args]

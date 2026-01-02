@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x672d00
+size = 0x21
+name = "??0BitStream@RakNet@@QAE@XZ"
+type = "RakNet::BitStream *"
+
+[header]
+name = "??0BitStream@RakNet@@QAE@XZ"
+addr = 0x672d00
+type = "RakNet::BitStream *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7051ad
+size = 0x45
+name = "?ExFilterRethrow@@YAHPAU_EXCEPTION_POINTERS@@@Z"
+type = "int"
+
+[header]
+name = "?ExFilterRethrow@@YAHPAU_EXCEPTION_POINTERS@@@Z"
+addr = 0x7051ad
+type = "int"
+
+[header.args]

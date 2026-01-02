@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x5bfa40
+size = 0x3
+name = "Component::sub_9C0A40"
+type = "char"
+
+[header]
+name = "Component::sub_9C0A40"
+addr = 0x5bfa40
+type = "char"
+
+[header.args]

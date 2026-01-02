@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4d6a60
+size = 0x11f
+name = "CraftingDropSlotsComponent::ParameterData::Read"
+type = "char"
+
+[header]
+name = "CraftingDropSlotsComponent::ParameterData::Read"
+addr = 0x4d6a60
+type = "char"
+
+[header.args]

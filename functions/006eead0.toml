@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6eead0
+size = 0x4f
+name = "__CItan"
+
+[header]
+name = "__CItan"
+addr = 0x6eead0
+
+[header.args]

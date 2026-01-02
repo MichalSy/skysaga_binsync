@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3ea680
+size = 0x3b
+name = "??0ClientInventoryComponent@@QAE@XZ"
+type = "ClientInventoryComponent *"
+
+[header]
+name = "??0ClientInventoryComponent@@QAE@XZ"
+addr = 0x3ea680
+type = "ClientInventoryComponent *"
+
+[header.args]

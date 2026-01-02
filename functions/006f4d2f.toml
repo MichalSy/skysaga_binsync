@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4d2f
+size = 0x4c
+name = "__CxxThrowException@8"
+type = "void"
+
+[header]
+name = "__CxxThrowException@8"
+addr = 0x6f4d2f
+type = "void"
+
+[header.args]

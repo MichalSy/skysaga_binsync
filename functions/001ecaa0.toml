@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x1ecaa0
+size = 0xd
+name = "?SetExecutingCollection@ContextBase@details@Concurrency@@QAEXPAV_TaskCollectionBase@23@@Z"
+type = "void"
+
+[header]
+name = "?SetExecutingCollection@ContextBase@details@Concurrency@@QAEXPAV_TaskCollectionBase@23@@Z"
+addr = 0x1ecaa0
+type = "void"
+
+[header.args]

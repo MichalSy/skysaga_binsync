@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x8307a2
+size = 0x87
+name = "___mbtow_environ"
+
+[header]
+name = "___mbtow_environ"
+addr = 0x8307a2
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0xedd40
+size = 0x8
+name = "unknown_libname_3"
+
+[header]
+name = "unknown_libname_3"
+addr = 0xedd40
+
+[header.args]

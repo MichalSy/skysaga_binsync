@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7078a0
+size = 0x83
+name = "?doPchar@DName@@AAEXPBDH@Z"
+type = "void"
+
+[header]
+name = "?doPchar@DName@@AAEXPBDH@Z"
+addr = 0x7078a0
+type = "void"
+
+[header.args]

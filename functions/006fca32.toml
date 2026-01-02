@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fca32
+size = 0x10
+name = "__statfp"
+
+[header]
+name = "__statfp"
+addr = 0x6fca32
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4e25b0
+size = 0x4e
+name = "PhysicalPropertiesComponent_sub_8E35B0"
+type = "char"
+
+[header]
+name = "PhysicalPropertiesComponent_sub_8E35B0"
+addr = 0x4e25b0
+type = "char"
+
+[header.args]

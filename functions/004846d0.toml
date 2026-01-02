@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4846d0
+size = 0x4
+name = "EquippedItemComponent::GetStaminaComponent"
+type = "StaminaComponent *"
+
+[header]
+name = "EquippedItemComponent::GetStaminaComponent"
+addr = 0x4846d0
+type = "StaminaComponent *"
+
+[header.args]

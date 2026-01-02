@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x46b920
+size = 0x19
+name = "??0Parent@EntityInstance@@QAE@XZ"
+type = "EntityInstance::Parent *"
+
+[header]
+name = "??0Parent@EntityInstance@@QAE@XZ"
+addr = 0x46b920
+type = "EntityInstance::Parent *"
+
+[header.args]

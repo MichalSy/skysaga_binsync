@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x706565
+size = 0x1a
+name = "__mbsnbicoll"
+type = "int"
+
+[header]
+name = "__mbsnbicoll"
+addr = 0x706565
+type = "int"
+
+[header.args]

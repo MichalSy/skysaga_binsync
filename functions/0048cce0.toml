@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x48cce0
+size = 0x60
+name = "pv::world::unknown::sub_88DCE0"
+type = "int"
+
+[header]
+name = "pv::world::unknown::sub_88DCE0"
+addr = 0x48cce0
+type = "int"
+
+[header.args]

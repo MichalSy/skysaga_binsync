@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fcad6
+size = 0x72
+name = "___set_fpsr_sse2"
+
+[header]
+name = "___set_fpsr_sse2"
+addr = 0x6fcad6
+
+[header.args]

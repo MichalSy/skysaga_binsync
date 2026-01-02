@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a11d0
+size = 0xd4
+name = "pv::component_manager::sub_8A21D0"
+type = "void"
+
+[header]
+name = "pv::component_manager::sub_8A21D0"
+addr = 0x4a11d0
+type = "void"
+
+[header.args]

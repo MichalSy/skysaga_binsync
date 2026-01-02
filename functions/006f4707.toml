@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4707
+size = 0xb
+name = "??_V@YAXPAX@Z"
+type = "void"
+
+[header]
+name = "??_V@YAXPAX@Z"
+addr = 0x6f4707
+type = "void"
+
+[header.args]

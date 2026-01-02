@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x707fc8
+size = 0x24
+name = "??HDName@@QBE?AV0@PBD@Z"
+type = "int"
+
+[header]
+name = "??HDName@@QBE?AV0@PBD@Z"
+addr = 0x707fc8
+type = "int"
+
+[header.args]

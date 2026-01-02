@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f3d90
+size = 0x29d
+name = "?strtoxq@@YA_KPAUlocaleinfo_struct@@PBDPAPBDHH@Z"
+type = "unsigned long long"
+
+[header]
+name = "?strtoxq@@YA_KPAUlocaleinfo_struct@@PBDPAPBDHH@Z"
+addr = 0x6f3d90
+type = "unsigned long long"
+
+[header.args]

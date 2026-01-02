@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f6549
+size = 0xea
+name = "__lseeki64"
+type = "long long"
+
+[header]
+name = "__lseeki64"
+addr = 0x6f6549
+type = "long long"
+
+[header.args]

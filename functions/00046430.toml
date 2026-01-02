@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x46430
+size = 0x396
+name = "FESystem::sub_447430"
+type = "void"
+
+[header]
+name = "FESystem::sub_447430"
+addr = 0x46430
+type = "void"
+
+[header.args]

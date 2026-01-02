@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x517020
+size = 0xaa
+name = "??0PacketManager@@QAE@XZ"
+type = "PacketManager *"
+
+[header]
+name = "??0PacketManager@@QAE@XZ"
+addr = 0x517020
+type = "PacketManager *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4c7c
+size = 0x27
+name = "??0exception@std@@QAE@ABQBD@Z"
+type = "unsigned int"
+
+[header]
+name = "??0exception@std@@QAE@ABQBD@Z"
+addr = 0x6f4c7c
+type = "unsigned int"
+
+[header.args]

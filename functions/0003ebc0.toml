@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x3ebc0
+size = 0x30
+name = "ModeStack::sub_43FBC0"
+type = "int"
+
+[header]
+name = "ModeStack::sub_43FBC0"
+addr = 0x3ebc0
+type = "int"
+
+[header.args]

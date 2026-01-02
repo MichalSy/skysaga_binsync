@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x6747e0
+size = 0x5
+name = "j_?GetTimeUS_Windows@@YA_KXZ"
+type = "unsigned long long"
+
+[header]
+name = "j_?GetTimeUS_Windows@@YA_KXZ"
+addr = 0x6747e0
+type = "unsigned long long"
+
+[header.args]

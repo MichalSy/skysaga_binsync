@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x383670
+size = 0x1e
+name = "??0GamePlay@GameState@@QAE@XZ"
+type = "GameState::Gameplay *"
+
+[header]
+name = "??0GamePlay@GameState@@QAE@XZ"
+addr = 0x383670
+type = "GameState::Gameplay *"
+
+[header.args]

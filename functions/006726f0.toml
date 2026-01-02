@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x6726f0
+size = 0x162
+name = "?SplitURI@RakString@RakNet@@QAEXAAV12@00@Z"
+type = "void"
+
+[header]
+name = "?SplitURI@RakString@RakNet@@QAEXAAV12@00@Z"
+addr = 0x6726f0
+type = "void"
+
+[header.args]

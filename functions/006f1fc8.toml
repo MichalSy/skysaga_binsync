@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f1fc8
+size = 0xb5
+name = "_strncpy_s"
+type = "errno_t"
+
+[header]
+name = "_strncpy_s"
+addr = 0x6f1fc8
+type = "errno_t"
+
+[header.args]

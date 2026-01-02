@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f21f2
+size = 0xcd
+name = "_wcsncpy_s"
+type = "errno_t"
+
+[header]
+name = "_wcsncpy_s"
+addr = 0x6f21f2
+type = "errno_t"
+
+[header.args]

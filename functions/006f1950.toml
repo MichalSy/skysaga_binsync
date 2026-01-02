@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f1950
+size = 0xad
+name = "_memchr"
+type = "void *"
+
+[header]
+name = "_memchr"
+addr = 0x6f1950
+type = "void *"
+
+[header.args]

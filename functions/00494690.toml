@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x494690
+size = 0x84f
+name = "json_parse"
+type = "json_value *"
+
+[header]
+name = "json_parse"
+addr = 0x494690
+type = "json_value *"
+
+[header.args]

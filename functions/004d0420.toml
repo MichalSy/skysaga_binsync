@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4d0420
+size = 0x256
+name = "PlayerAspectsComponent::ParameterData::Read"
+type = "char"
+
+[header]
+name = "PlayerAspectsComponent::ParameterData::Read"
+addr = 0x4d0420
+type = "char"
+
+[header.args]

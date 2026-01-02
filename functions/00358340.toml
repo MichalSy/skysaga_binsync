@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x358340
+size = 0xd
+name = "pv::world::client::ClientWorldService::sub_759340"
+type = "int"
+
+[header]
+name = "pv::world::client::ClientWorldService::sub_759340"
+addr = 0x358340
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x381a50
+size = 0x19
+name = "??0LoadGeoData@GameState@@QAE@XZ"
+type = "GameState::LoadGeoData *"
+
+[header]
+name = "??0LoadGeoData@GameState@@QAE@XZ"
+addr = 0x381a50
+type = "GameState::LoadGeoData *"
+
+[header.args]

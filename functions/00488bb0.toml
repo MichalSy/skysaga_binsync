@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x488bb0
+size = 0x40
+name = "HealthComponent::ParameterData::sub_889BB0"
+type = "HealthComponent::ParameterData *"
+
+[header]
+name = "HealthComponent::ParameterData::sub_889BB0"
+addr = 0x488bb0
+type = "HealthComponent::ParameterData *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3918b0
+size = 0x9d
+name = "ClientEquippedItemComponent::sub_7928B0"
+type = "void"
+
+[header]
+name = "ClientEquippedItemComponent::sub_7928B0"
+addr = 0x3918b0
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6ef0a4
+size = 0x2a
+name = "__purecall"
+
+[header]
+name = "__purecall"
+addr = 0x6ef0a4
+
+[header.args]

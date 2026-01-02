@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7038a0
+size = 0x267
+name = "___loctotime64_t"
+
+[header]
+name = "___loctotime64_t"
+addr = 0x7038a0
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f9be5
+size = 0xd8
+name = "__ceil_default"
+type = "int"
+
+[header]
+name = "__ceil_default"
+addr = 0x6f9be5
+type = "int"
+
+[header.args]

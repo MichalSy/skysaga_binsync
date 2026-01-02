@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x338a50
+size = 0x20
+name = "Server::sub_739A50"
+type = "void"
+
+[header]
+name = "Server::sub_739A50"
+addr = 0x338a50
+type = "void"
+
+[header.args]

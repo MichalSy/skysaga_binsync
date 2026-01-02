@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f5a64
+size = 0x2e
+name = "_isdigit"
+type = "int"
+
+[header]
+name = "_isdigit"
+addr = 0x6f5a64
+type = "int"
+
+[header.args]

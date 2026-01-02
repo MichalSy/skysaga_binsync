@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x705d02
+size = 0x13
+name = "?unexpected@@YAXXZ"
+type = "void"
+
+[header]
+name = "?unexpected@@YAXXZ"
+addr = 0x705d02
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7121dd
+size = 0x17
+name = "__mbschr"
+type = "unsigned char *"
+
+[header]
+name = "__mbschr"
+addr = 0x7121dd
+type = "unsigned char *"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7a62
+size = 0x97
+name = "__cinit"
+
+[header]
+name = "__cinit"
+addr = 0x6f7a62
+
+[header.args]

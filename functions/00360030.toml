@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x360030
+size = 0x171
+name = "Chunk::sub_761030"
+type = "void"
+
+[header]
+name = "Chunk::sub_761030"
+addr = 0x360030
+type = "void"
+
+[header.args]

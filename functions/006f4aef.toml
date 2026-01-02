@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4aef
+size = 0x65
+name = "__threadstartex@4"
+type = "DWORD"
+
+[header]
+name = "__threadstartex@4"
+addr = 0x6f4aef
+type = "DWORD"
+
+[header.args]

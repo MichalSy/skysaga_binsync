@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f1fb2
+size = 0x16
+name = "__get_printf_count_output"
+type = "int"
+
+[header]
+name = "__get_printf_count_output"
+addr = 0x6f1fb2
+type = "int"
+
+[header.args]

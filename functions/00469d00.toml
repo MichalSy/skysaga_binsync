@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x469d00
+size = 0x9a
+name = "??0TransformComponent@@QAE@XZ"
+type = "TransformComponent *"
+
+[header]
+name = "??0TransformComponent@@QAE@XZ"
+addr = 0x469d00
+type = "TransformComponent *"
+
+[header.args]

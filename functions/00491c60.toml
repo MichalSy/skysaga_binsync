@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x491c60
+size = 0x4f
+name = "Component::sub_892C60"
+type = "void"
+
+[header]
+name = "Component::sub_892C60"
+addr = 0x491c60
+type = "void"
+
+[header.args]

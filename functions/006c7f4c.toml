@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7f4c
+size = 0x6
+name = "X509_free"
+type = "int"
+
+[header]
+name = "X509_free"
+addr = 0x6c7f4c
+type = "int"
+
+[header.args]

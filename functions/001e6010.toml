@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x1e6010
+size = 0x1db
+name = "CommandLineMgr::sub_5E7010"
+type = "int"
+
+[header]
+name = "CommandLineMgr::sub_5E7010"
+addr = 0x1e6010
+type = "int"
+
+[header.args]

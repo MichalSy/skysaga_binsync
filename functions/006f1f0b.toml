@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f1f0b
+size = 0xa7
+name = "_printf"
+type = "int"
+
+[header]
+name = "_printf"
+addr = 0x6f1f0b
+type = "int"
+
+[header.args]

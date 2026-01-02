@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x705247
+size = 0x29
+name = "___AdjustPointer"
+
+[header]
+name = "___AdjustPointer"
+addr = 0x705247
+
+[header.args]

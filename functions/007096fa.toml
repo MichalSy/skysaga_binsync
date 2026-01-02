@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7096fa
+size = 0x216
+name = "?getZName@UnDecorator@@CA?AVDName@@_N0@Z"
+
+[header]
+name = "?getZName@UnDecorator@@CA?AVDName@@_N0@Z"
+addr = 0x7096fa
+
+[header.args]

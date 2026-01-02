@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6ed73b
+size = 0x30
+name = "?_Xout_of_range@std@@YAXPBD@Z"
+type = "void"
+
+[header]
+name = "?_Xout_of_range@std@@YAXPBD@Z"
+addr = 0x6ed73b
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x707804
+size = 0x29
+name = "?getString@DNameStatusNode@@UBEPADPAD0@Z"
+type = "char *"
+
+[header]
+name = "?getString@DNameStatusNode@@UBEPADPAD0@Z"
+addr = 0x707804
+type = "char *"
+
+[header.args]

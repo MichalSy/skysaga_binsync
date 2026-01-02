@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f684a
+size = 0x2c
+name = "_toupper"
+type = "int"
+
+[header]
+name = "_toupper"
+addr = 0x6f684a
+type = "int"
+
+[header.args]

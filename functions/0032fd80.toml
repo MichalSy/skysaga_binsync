@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x32fd80
+size = 0x76
+name = "EntityInstance::GetPhysicalPropertiesComponent"
+type = "int"
+
+[header]
+name = "EntityInstance::GetPhysicalPropertiesComponent"
+addr = 0x32fd80
+type = "int"
+
+[header.args]

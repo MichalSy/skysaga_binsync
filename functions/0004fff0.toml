@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x4fff0
+size = 0xfc
+name = "??0FESystem@@QAE@XZ"
+type = "FESystem *"
+
+[header]
+name = "??0FESystem@@QAE@XZ"
+addr = 0x4fff0
+type = "FESystem *"
+
+[header.args]

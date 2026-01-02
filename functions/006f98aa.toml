@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f98aa
+size = 0x33
+name = "__ctrandisp1"
+type = "int"
+
+[header]
+name = "__ctrandisp1"
+addr = 0x6f98aa
+type = "int"
+
+[header.args]

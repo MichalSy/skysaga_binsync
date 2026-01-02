@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f1c89
+size = 0x22b
+name = "?strtoxl@@YAKPAUlocaleinfo_struct@@PBDPAPBDHH@Z"
+type = "unsigned int"
+
+[header]
+name = "?strtoxl@@YAKPAUlocaleinfo_struct@@PBDPAPBDHH@Z"
+addr = 0x6f1c89
+type = "unsigned int"
+
+[header.args]

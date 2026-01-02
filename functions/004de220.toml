@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4de220
+size = 0x67
+name = "PerformActionBase::sub_8DF220"
+type = "char"
+
+[header]
+name = "PerformActionBase::sub_8DF220"
+addr = 0x4de220
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x331ed0
+size = 0x7
+name = "ModeGlobal::GetPassword"
+type = "char *"
+
+[header]
+name = "ModeGlobal::GetPassword"
+addr = 0x331ed0
+type = "char *"
+
+[header.args]

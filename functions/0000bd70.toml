@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0xbd70
+size = 0x22
+name = "CClient::sub_40CD70"
+type = "unsigned int *"
+
+[header]
+name = "CClient::sub_40CD70"
+addr = 0xbd70
+type = "unsigned int *"
+
+[header.args]

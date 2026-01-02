@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x5c3c90
+size = 0x9b
+name = "VoxelInfo::Copy"
+type = "VoxelInfo *"
+
+[header]
+name = "VoxelInfo::Copy"
+addr = 0x5c3c90
+type = "VoxelInfo *"
+
+[header.args]

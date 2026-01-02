@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4d4f80
+size = 0xa6
+name = "??0VoxelDamageComponent@@QAE@XZ"
+type = "VoxelDamageComponent *"
+
+[header]
+name = "??0VoxelDamageComponent@@QAE@XZ"
+addr = 0x4d4f80
+type = "VoxelDamageComponent *"
+
+[header.args]

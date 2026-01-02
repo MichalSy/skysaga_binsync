@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x68ba00
+size = 0x9
+name = "unknown_libname_65"
+type = "int"
+
+[header]
+name = "unknown_libname_65"
+addr = 0x68ba00
+type = "int"
+
+[header.args]

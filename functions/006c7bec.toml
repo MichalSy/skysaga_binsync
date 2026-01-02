@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7bec
+size = 0x6
+name = "ERR_error_string_n"
+type = "int"
+
+[header]
+name = "ERR_error_string_n"
+addr = 0x6c7bec
+type = "int"
+
+[header.args]

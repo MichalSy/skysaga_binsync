@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7050d1
+size = 0xdc
+name = "___FrameUnwindToState"
+
+[header]
+name = "___FrameUnwindToState"
+addr = 0x7050d1
+
+[header.args]

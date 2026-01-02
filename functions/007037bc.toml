@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7037bc
+size = 0xc4
+name = "__sopen_helper"
+
+[header]
+name = "__sopen_helper"
+addr = 0x7037bc
+
+[header.args]

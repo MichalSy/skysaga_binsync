@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4f0bb0
+size = 0x84
+name = "TreeComponent::ParameterData::Write"
+type = "char"
+
+[header]
+name = "TreeComponent::ParameterData::Write"
+addr = 0x4f0bb0
+type = "char"
+
+[header.args]

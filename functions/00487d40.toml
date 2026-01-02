@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x487d40
+size = 0x51
+name = "HealthComponent::sub_888D40"
+type = "int"
+
+[header]
+name = "HealthComponent::sub_888D40"
+addr = 0x487d40
+type = "int"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7088e2
+size = 0xb3
+name = "?getStringEncoding@UnDecorator@@CA?AVDName@@PADH@Z"
+
+[header]
+name = "?getStringEncoding@UnDecorator@@CA?AVDName@@PADH@Z"
+addr = 0x7088e2
+
+[header.args]

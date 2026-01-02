@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f8acc
+size = 0x79
+name = "__getptd_noexit"
+type = "int"
+
+[header]
+name = "__getptd_noexit"
+addr = 0x6f8acc
+type = "int"
+
+[header.args]

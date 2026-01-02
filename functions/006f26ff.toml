@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f26ff
+size = 0x28
+name = "_ferror"
+type = "int"
+
+[header]
+name = "_ferror"
+addr = 0x6f26ff
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x6670
+size = 0x3c
+name = "CClient::GetInstance"
+type = "CClient *"
+
+[header]
+name = "CClient::GetInstance"
+addr = 0x6670
+type = "CClient *"
+
+[header.args]

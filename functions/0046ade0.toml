@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x46ade0
+size = 0x16e
+name = "TransformComponent::ParameterData::Write"
+type = "char"
+
+[header]
+name = "TransformComponent::ParameterData::Write"
+addr = 0x46ade0
+type = "char"
+
+[header.args]

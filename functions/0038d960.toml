@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x38d960
+size = 0x19
+name = "??0JoinHomeworld@FrontEndState@@QAE@XZ"
+type = "FrontEndState *"
+
+[header]
+name = "??0JoinHomeworld@FrontEndState@@QAE@XZ"
+addr = 0x38d960
+type = "FrontEndState *"
+
+[header.args]

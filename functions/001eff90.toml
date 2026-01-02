@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x1eff90
+size = 0x28
+name = "ModeHomeWorld::sub_5F0F90"
+type = "void"
+
+[header]
+name = "ModeHomeWorld::sub_5F0F90"
+addr = 0x1eff90
+type = "void"
+
+[header.args]

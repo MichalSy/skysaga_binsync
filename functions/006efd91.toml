@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6efd91
+size = 0x157
+name = "__fwrite_nolock"
+type = "size_t"
+
+[header]
+name = "__fwrite_nolock"
+addr = 0x6efd91
+type = "size_t"
+
+[header.args]

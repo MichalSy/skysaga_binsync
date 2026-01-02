@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x707456
+size = 0x6f
+name = "??0UnDecorator@@QAE@PADPBDHP6APADJ@ZK@Z"
+type = "UnDecorator *"
+
+[header]
+name = "??0UnDecorator@@QAE@PADPBDHP6APADJ@ZK@Z"
+addr = 0x707456
+type = "UnDecorator *"
+
+[header.args]

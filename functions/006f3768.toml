@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f3768
+size = 0x267
+name = "__wcstombs_l_helper"
+type = "int"
+
+[header]
+name = "__wcstombs_l_helper"
+addr = 0x6f3768
+type = "int"
+
+[header.args]

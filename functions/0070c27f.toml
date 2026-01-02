@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70c27f
+size = 0x2dc
+name = "__raise_exc_ex"
+type = "int"
+
+[header]
+name = "__raise_exc_ex"
+addr = 0x70c27f
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f087e
+size = 0x123
+name = "__strtod_l"
+type = "double"
+
+[header]
+name = "__strtod_l"
+addr = 0x6f087e
+type = "double"
+
+[header.args]

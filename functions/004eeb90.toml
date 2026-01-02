@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4eeb90
+size = 0x54
+name = "??0TreeComponent@@QAE@XZ"
+type = "TreeComponent *"
+
+[header]
+name = "??0TreeComponent@@QAE@XZ"
+addr = 0x4eeb90
+type = "TreeComponent *"
+
+[header.args]

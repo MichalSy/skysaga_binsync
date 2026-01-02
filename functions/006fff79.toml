@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fff79
+size = 0x9c
+name = "__close_nolock"
+type = "int"
+
+[header]
+name = "__close_nolock"
+addr = 0x6fff79
+type = "int"
+
+[header.args]

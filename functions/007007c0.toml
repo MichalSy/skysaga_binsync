@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7007c0
+size = 0x18
+name = "__CIasin_pentium4"
+
+[header]
+name = "__CIasin_pentium4"
+addr = 0x7007c0
+
+[header.args]

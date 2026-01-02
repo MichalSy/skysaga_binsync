@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7054cb
+size = 0x17f
+name = "___BuildCatchObjectHelper"
+type = "int"
+
+[header]
+name = "___BuildCatchObjectHelper"
+addr = 0x7054cb
+type = "int"
+
+[header.args]

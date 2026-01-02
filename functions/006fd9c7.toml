@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fd9c7
+size = 0x28
+name = "__callnewh"
+type = "int"
+
+[header]
+name = "__callnewh"
+addr = 0x6fd9c7
+type = "int"
+
+[header.args]

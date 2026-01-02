@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x36f1e0
+size = 0x89
+name = "??0NodeComponent@@QAE@XZ"
+type = "NodeComponent *"
+
+[header]
+name = "??0NodeComponent@@QAE@XZ"
+addr = 0x36f1e0
+type = "NodeComponent *"
+
+[header.args]

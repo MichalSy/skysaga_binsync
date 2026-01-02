@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x729180
+size = 0x56
+name = "_luaL_openlibs"
+type = "int"
+
+[header]
+name = "_luaL_openlibs"
+addr = 0x729180
+type = "int"
+
+[header.args]

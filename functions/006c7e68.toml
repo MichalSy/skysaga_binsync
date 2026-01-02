@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7e68
+size = 0x6
+name = "X509_get_ext_d2i"
+type = "int"
+
+[header]
+name = "X509_get_ext_d2i"
+addr = 0x6c7e68
+type = "int"
+
+[header.args]

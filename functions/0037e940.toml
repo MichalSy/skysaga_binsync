@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x37e940
+size = 0x3e6
+name = "GameState::CharacterCreation::sub_77F940"
+type = "void"
+
+[header]
+name = "GameState::CharacterCreation::sub_77F940"
+addr = 0x37e940
+type = "void"
+
+[header.args]

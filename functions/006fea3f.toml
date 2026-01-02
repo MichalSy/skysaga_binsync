@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fea3f
+size = 0x14b
+name = "___freetlocinfo"
+type = "int"
+
+[header]
+name = "___freetlocinfo"
+addr = 0x6fea3f
+type = "int"
+
+[header.args]

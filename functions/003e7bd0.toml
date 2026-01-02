@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3e7bd0
+size = 0x67
+name = "??0PerformAction@@UAE@XZ"
+type = "PerformAction *"
+
+[header]
+name = "??0PerformAction@@UAE@XZ"
+addr = 0x3e7bd0
+type = "PerformAction *"
+
+[header.args]

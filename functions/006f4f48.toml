@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4f48
+size = 0x9f
+name = "?TranslatorGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUTranslatorGuardRN@@PAX2@Z"
+type = "enum _EXCEPTION_DISPOSITION"
+
+[header]
+name = "?TranslatorGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUTranslatorGuardRN@@PAX2@Z"
+addr = 0x6f4f48
+type = "enum _EXCEPTION_DISPOSITION"
+
+[header.args]

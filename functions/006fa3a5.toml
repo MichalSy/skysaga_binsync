@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fa3a5
+size = 0x32
+name = "_usepowhlp"
+
+[header]
+name = "_usepowhlp"
+addr = 0x6fa3a5
+
+[header.args]

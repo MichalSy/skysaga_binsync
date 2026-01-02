@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x34f880
+size = 0x15
+name = "??0UserInterfaceService@client@userinterface@pv@@QAE@XZ"
+type = "pv::userinterface::client::UserInterfaceService *"
+
+[header]
+name = "??0UserInterfaceService@client@userinterface@pv@@QAE@XZ"
+addr = 0x34f880
+type = "pv::userinterface::client::UserInterfaceService *"
+
+[header.args]

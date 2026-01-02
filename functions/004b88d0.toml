@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4b88d0
+size = 0x144
+name = "FeatureUnlockComponent::ParameterData::Write"
+type = "char"
+
+[header]
+name = "FeatureUnlockComponent::ParameterData::Write"
+addr = 0x4b88d0
+type = "char"
+
+[header.args]

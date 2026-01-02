@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f1ac0
+size = 0x124
+name = "_strncpy"
+type = "char *"
+
+[header]
+name = "_strncpy"
+addr = 0x6f1ac0
+type = "char *"
+
+[header.args]

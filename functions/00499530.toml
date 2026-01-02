@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x499530
+size = 0x7
+name = "BaseRakNetServer::GetSession"
+type = "BaseRakNetServer::Session *"
+
+[header]
+name = "BaseRakNetServer::GetSession"
+addr = 0x499530
+type = "BaseRakNetServer::Session *"
+
+[header.args]

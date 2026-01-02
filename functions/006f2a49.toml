@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f2a49
+size = 0x1f
+name = "__ui64toa_s"
+type = "errno_t"
+
+[header]
+name = "__ui64toa_s"
+addr = 0x6f2a49
+type = "errno_t"
+
+[header.args]

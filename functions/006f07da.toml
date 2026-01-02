@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f07da
+size = 0x1d
+name = "_fread"
+type = "size_t"
+
+[header]
+name = "_fread"
+addr = 0x6f07da
+type = "size_t"
+
+[header.args]

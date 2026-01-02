@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70665e
+size = 0x24e
+name = "start_18"
+
+[header]
+name = "start_18"
+addr = 0x70665e
+
+[header.args]

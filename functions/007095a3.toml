@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7095a3
+size = 0x157
+name = "?getTemplateName@UnDecorator@@CA?AVDName@@_N@Z"
+
+[header]
+name = "?getTemplateName@UnDecorator@@CA?AVDName@@_N@Z"
+addr = 0x7095a3
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7815
+size = 0x2c
+name = "__invalid_parameter"
+type = "int"
+
+[header]
+name = "__invalid_parameter"
+addr = 0x6f7815
+type = "int"
+
+[header.args]

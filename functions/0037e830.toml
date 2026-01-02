@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x37e830
+size = 0x10c
+name = "GameState::CharacterCreation::Entered"
+type = "void"
+
+[header]
+name = "GameState::CharacterCreation::Entered"
+addr = 0x37e830
+type = "void"
+
+[header.args]

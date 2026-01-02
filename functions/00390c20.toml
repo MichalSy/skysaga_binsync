@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x390c20
+size = 0x16b
+name = "RakNet::BitStream::sub_791C20"
+type = "char"
+
+[header]
+name = "RakNet::BitStream::sub_791C20"
+addr = 0x390c20
+type = "char"
+
+[header.args]

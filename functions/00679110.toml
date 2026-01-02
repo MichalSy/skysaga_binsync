@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x679110
+size = 0x3ec
+name = "??0RakPeer@RakNet@@QAE@XZ"
+type = "RakNet::RakPeer *"
+
+[header]
+name = "??0RakPeer@RakNet@@QAE@XZ"
+addr = 0x679110
+type = "RakNet::RakPeer *"
+
+[header.args]

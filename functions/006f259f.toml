@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f259f
+size = 0x138
+name = "_fgets"
+type = "char *"
+
+[header]
+name = "_fgets"
+addr = 0x6f259f
+type = "char *"
+
+[header.args]

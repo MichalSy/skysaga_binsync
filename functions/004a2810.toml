@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a2810
+size = 0x72
+name = "??0PhysicsComponent@@QAE@XZ"
+type = "PhysicsComponent *"
+
+[header]
+name = "??0PhysicsComponent@@QAE@XZ"
+addr = 0x4a2810
+type = "PhysicsComponent *"
+
+[header.args]

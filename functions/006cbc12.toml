@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6cbc12
+size = 0x6
+name = "DES_set_odd_parity"
+type = "int"
+
+[header]
+name = "DES_set_odd_parity"
+addr = 0x6cbc12
+type = "int"
+
+[header.args]

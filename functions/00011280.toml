@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x11280
+size = 0x30
+name = "log_info::sub_412280"
+type = "void"
+
+[header]
+name = "log_info::sub_412280"
+addr = 0x11280
+type = "void"
+
+[header.args]

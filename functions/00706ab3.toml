@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x706ab3
+size = 0xb3
+name = "___dtold"
+
+[header]
+name = "___dtold"
+addr = 0x706ab3
+
+[header.args]

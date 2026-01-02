@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x372c80
+size = 0x21a
+name = "UpdateChunkletVisibility_sub_773C80"
+type = "unsigned short *"
+
+[header]
+name = "UpdateChunkletVisibility_sub_773C80"
+addr = 0x372c80
+type = "unsigned short *"
+
+[header.args]

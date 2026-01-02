@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x485110
+size = 0x93
+name = "EquippedItemComponent::sub_886110"
+type = "unsigned int *"
+
+[header]
+name = "EquippedItemComponent::sub_886110"
+addr = 0x485110
+type = "unsigned int *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4058
+size = 0x2c
+name = "__strtoui64"
+type = "unsigned long long"
+
+[header]
+name = "__strtoui64"
+addr = 0x6f4058
+type = "unsigned long long"
+
+[header.args]

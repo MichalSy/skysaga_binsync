@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x37e3d0
+size = 0x2a
+name = "??0CharacterCreation@GameState@@QAE@XZ"
+type = "GameState::CharacterCreation *"
+
+[header]
+name = "??0CharacterCreation@GameState@@QAE@XZ"
+addr = 0x37e3d0
+type = "GameState::CharacterCreation *"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7075c2
+size = 0x45
+name = "??0DName@@QAE@W4DNameStatus@@@Z"
+
+[header]
+name = "??0DName@@QAE@W4DNameStatus@@@Z"
+addr = 0x7075c2
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4786c0
+size = 0x5f
+name = "pv::entity_manager::AddEntity"
+type = "void"
+
+[header]
+name = "pv::entity_manager::AddEntity"
+addr = 0x4786c0
+type = "void"
+
+[header.args]

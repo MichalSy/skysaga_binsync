@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fc79e
+size = 0x133
+name = "__getstream"
+type = "int"
+
+[header]
+name = "__getstream"
+addr = 0x6fc79e
+type = "int"
+
+[header.args]

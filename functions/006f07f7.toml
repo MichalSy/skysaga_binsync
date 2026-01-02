@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f07f7
+size = 0x87
+name = "??0_LocaleUpdate@@QAE@PAUlocaleinfo_struct@@@Z"
+type = "_LocaleUpdate *"
+
+[header]
+name = "??0_LocaleUpdate@@QAE@PAUlocaleinfo_struct@@@Z"
+addr = 0x6f07f7
+type = "_LocaleUpdate *"
+
+[header.args]

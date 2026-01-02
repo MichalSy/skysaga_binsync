@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.360533Z
+addr = 0x853780
+size = 0x1
+name = "nullsub_4255"
+type = "void"
+
+[header]
+name = "nullsub_4255"
+addr = 0x853780
+type = "void"
+
+[header.args]

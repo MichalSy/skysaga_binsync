@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3b3760
+size = 0x76
+name = "EntityInstance::GetBreatheComponent"
+type = "void *"
+
+[header]
+name = "EntityInstance::GetBreatheComponent"
+addr = 0x3b3760
+type = "void *"
+
+[header.args]

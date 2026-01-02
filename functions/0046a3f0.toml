@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x46a3f0
+size = 0x50
+name = "GetTransformComponent"
+type = "unsigned int *"
+
+[header]
+name = "GetTransformComponent"
+addr = 0x46a3f0
+type = "unsigned int *"
+
+[header.args]

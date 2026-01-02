@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fb7aa
+size = 0xbe7
+name = "__output_l"
+type = "int"
+
+[header]
+name = "__output_l"
+addr = 0x6fb7aa
+type = "int"
+
+[header.args]

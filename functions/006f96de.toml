@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f96de
+size = 0x3d
+name = "__cintrindisp1"
+type = "int"
+
+[header]
+name = "__cintrindisp1"
+addr = 0x6f96de
+type = "int"
+
+[header.args]

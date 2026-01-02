@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x723b14
+size = 0x6
+name = "D3DXCheckCubeTextureRequirements"
+type = "int"
+
+[header]
+name = "D3DXCheckCubeTextureRequirements"
+addr = 0x723b14
+type = "int"
+
+[header.args]

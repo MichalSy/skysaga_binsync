@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3825c0
+size = 0x14f
+name = "GameState::LoadWorld::sub_7835C0"
+type = "void"
+
+[header]
+name = "GameState::LoadWorld::sub_7835C0"
+addr = 0x3825c0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4cd6e0
+size = 0x15c
+name = "decode_base64_sub_8CE6E0"
+type = "byte *"
+
+[header]
+name = "decode_base64_sub_8CE6E0"
+addr = 0x4cd6e0
+type = "byte *"
+
+[header.args]

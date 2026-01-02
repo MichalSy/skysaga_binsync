@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x83023e
+size = 0x55
+name = "_wfindenv"
+
+[header]
+name = "_wfindenv"
+addr = 0x83023e
+
+[header.args]

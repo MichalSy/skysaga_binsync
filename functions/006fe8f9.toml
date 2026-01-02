@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fe8f9
+size = 0x1e
+name = "___initmbctable"
+
+[header]
+name = "___initmbctable"
+addr = 0x6fe8f9
+
+[header.args]

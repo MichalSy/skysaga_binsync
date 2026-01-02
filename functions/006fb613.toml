@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fb613
+size = 0x164
+name = "__flsbuf"
+type = "int"
+
+[header]
+name = "__flsbuf"
+addr = 0x6fb613
+type = "int"
+
+[header.args]

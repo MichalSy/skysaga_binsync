@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f2d30
+size = 0x7b
+name = "?_store_num@@YAXHHPAPADPAII@Z"
+type = "void"
+
+[header]
+name = "?_store_num@@YAXHHPAPADPAII@Z"
+addr = 0x6f2d30
+type = "void"
+
+[header.args]

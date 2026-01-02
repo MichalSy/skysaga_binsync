@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x725930
+size = 0x13
+name = "_lua_error"
+type = "int"
+
+[header]
+name = "_lua_error"
+addr = 0x725930
+type = "int"
+
+[header.args]

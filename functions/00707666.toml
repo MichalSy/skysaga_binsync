@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x707666
+size = 0x48
+name = "?append@DName@@AAEXPAVDNameNode@@@Z"
+type = "void"
+
+[header]
+name = "?append@DName@@AAEXPAVDNameNode@@@Z"
+addr = 0x707666
+type = "void"
+
+[header.args]

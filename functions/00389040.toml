@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x389040
+size = 0x3be
+name = "FrontendState::GetReservedCharacterName::sub_78A040"
+type = "void"
+
+[header]
+name = "FrontendState::GetReservedCharacterName::sub_78A040"
+addr = 0x389040
+type = "void"
+
+[header.args]

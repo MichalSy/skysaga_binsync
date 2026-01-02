@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x2fc680
+size = 0x76
+name = "EntityInstance::GetClientCraftingComponent"
+type = "int"
+
+[header]
+name = "EntityInstance::GetClientCraftingComponent"
+addr = 0x2fc680
+type = "int"
+
+[header.args]

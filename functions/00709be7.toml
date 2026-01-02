@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x709be7
+size = 0xcba
+name = "?composeDeclaration@UnDecorator@@CA?AVDName@@ABV2@@Z"
+
+[header]
+name = "?composeDeclaration@UnDecorator@@CA?AVDName@@ABV2@@Z"
+addr = 0x709be7
+
+[header.args]

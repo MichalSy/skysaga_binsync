@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3855b0
+size = 0x12
+name = "??0Idle@FrontEndState@@QAE@XZ"
+type = "FrontEndState *"
+
+[header]
+name = "??0Idle@FrontEndState@@QAE@XZ"
+addr = 0x3855b0
+type = "FrontEndState *"
+
+[header.args]

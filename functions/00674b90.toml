@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x674b90
+size = 0xe
+name = "?Init@SimpleMutex@RakNet@@AAEXXZ"
+type = "void"
+
+[header]
+name = "?Init@SimpleMutex@RakNet@@AAEXXZ"
+addr = 0x674b90
+type = "void"
+
+[header.args]

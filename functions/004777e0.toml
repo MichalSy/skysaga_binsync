@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4777e0
+size = 0x33
+name = "pv::entity_manager::GetEntityInstance"
+type = "EntityInstance *"
+
+[header]
+name = "pv::entity_manager::GetEntityInstance"
+addr = 0x4777e0
+type = "EntityInstance *"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f572b
+size = 0x23
+name = "__dosmaperr"
+
+[header]
+name = "__dosmaperr"
+addr = 0x6f572b
+
+[header.args]

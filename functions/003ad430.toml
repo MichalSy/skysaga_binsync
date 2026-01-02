@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3ad430
+size = 0x1a4
+name = "ClientVoxelDamageComponent::sub_7AE430"
+type = "void"
+
+[header]
+name = "ClientVoxelDamageComponent::sub_7AE430"
+addr = 0x3ad430
+type = "void"
+
+[header.args]

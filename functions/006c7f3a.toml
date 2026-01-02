@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7f3a
+size = 0x6
+name = "SSL_get_peer_cert_chain"
+type = "int"
+
+[header]
+name = "SSL_get_peer_cert_chain"
+addr = 0x6c7f3a
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x706616
+size = 0x1d
+name = "_strnlen"
+type = "size_t"
+
+[header]
+name = "_strnlen"
+addr = 0x706616
+type = "size_t"
+
+[header.args]

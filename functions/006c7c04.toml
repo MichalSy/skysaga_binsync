@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7c04
+size = 0x6
+name = "ERR_remove_thread_state"
+type = "int"
+
+[header]
+name = "ERR_remove_thread_state"
+addr = 0x6c7c04
+type = "int"
+
+[header.args]

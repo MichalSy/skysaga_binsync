@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x723b26
+size = 0x6
+name = "VerQueryValueA"
+type = "BOOL"
+
+[header]
+name = "VerQueryValueA"
+addr = 0x723b26
+type = "BOOL"
+
+[header.args]

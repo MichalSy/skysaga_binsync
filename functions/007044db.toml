@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7044db
+size = 0x1d6
+name = "__isindst_nolock"
+
+[header]
+name = "__isindst_nolock"
+addr = 0x7044db
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7100a6
+size = 0xba7
+name = "__woutput_l"
+type = "int"
+
+[header]
+name = "__woutput_l"
+addr = 0x7100a6
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4f09d0
+size = 0x1d9
+name = "ReadDescriptionListFromStream"
+type = "void"
+
+[header]
+name = "ReadDescriptionListFromStream"
+addr = 0x4f09d0
+type = "void"
+
+[header.args]

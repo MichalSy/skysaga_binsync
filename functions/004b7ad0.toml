@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4b7ad0
+size = 0x37
+name = "??0FeatureUnlockComponent@@QAE@XZ"
+type = "FeatureUnlockComponent *"
+
+[header]
+name = "??0FeatureUnlockComponent@@QAE@XZ"
+addr = 0x4b7ad0
+type = "FeatureUnlockComponent *"
+
+[header.args]

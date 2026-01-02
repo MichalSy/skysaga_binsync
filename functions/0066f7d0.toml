@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x66f7d0
+size = 0x23
+name = "??9RakNetGUID@RakNet@@QBE_NABU01@@Z"
+type = "bool"
+
+[header]
+name = "??9RakNetGUID@RakNet@@QBE_NABU01@@Z"
+addr = 0x66f7d0
+type = "bool"
+
+[header.args]

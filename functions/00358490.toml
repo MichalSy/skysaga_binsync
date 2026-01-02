@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x358490
+size = 0x1e
+name = "pv::world::client::ClientWorldService::GetAdventureCRC"
+type = "int *"
+
+[header]
+name = "pv::world::client::ClientWorldService::GetAdventureCRC"
+addr = 0x358490
+type = "int *"
+
+[header.args]

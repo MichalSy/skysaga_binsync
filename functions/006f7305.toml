@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7305
+size = 0xed
+name = "__cftog_l"
+type = "int"
+
+[header]
+name = "__cftog_l"
+addr = 0x6f7305
+type = "int"
+
+[header.args]

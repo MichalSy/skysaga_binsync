@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x351700
+size = 0x39
+name = "ClientHealthComponent::sub_752700"
+type = "double"
+
+[header]
+name = "ClientHealthComponent::sub_752700"
+addr = 0x351700
+type = "double"
+
+[header.args]

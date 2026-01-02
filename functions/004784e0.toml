@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4784e0
+size = 0xf1
+name = "??0entity_manager@pv@@QAE@XZ"
+type = "pv::entity_manager *"
+
+[header]
+name = "??0entity_manager@pv@@QAE@XZ"
+addr = 0x4784e0
+type = "pv::entity_manager *"
+
+[header.args]

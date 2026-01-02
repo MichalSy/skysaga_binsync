@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f0457
+size = 0x3c
+name = "__unlock_file"
+type = "void"
+
+[header]
+name = "__unlock_file"
+addr = 0x6f0457
+type = "void"
+
+[header.args]

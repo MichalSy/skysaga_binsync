@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7d79
+size = 0xf2
+name = "?_Name_base@type_info@@CAPBDPBV1@PAU__type_info_node@@@Z"
+type = "const char *"
+
+[header]
+name = "?_Name_base@type_info@@CAPBDPBV1@PAU__type_info_node@@@Z"
+addr = 0x6f7d79
+type = "const char *"
+
+[header.args]

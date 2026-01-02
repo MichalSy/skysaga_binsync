@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x33a020
+size = 0x115
+name = "Server::Handle_RPCSetClientEntity"
+type = "void"
+
+[header]
+name = "Server::Handle_RPCSetClientEntity"
+addr = 0x33a020
+type = "void"
+
+[header.args]

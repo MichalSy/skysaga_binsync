@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7c74
+size = 0xf
+name = "__c_exit"
+type = "void"
+
+[header]
+name = "__c_exit"
+addr = 0x6f7c74
+type = "void"
+
+[header.args]

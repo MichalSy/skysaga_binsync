@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4d47e0
+size = 0x11b
+name = "VoxelDamageComponent::sub_8D57E0"
+type = "void"
+
+[header]
+name = "VoxelDamageComponent::sub_8D57E0"
+addr = 0x4d47e0
+type = "void"
+
+[header.args]

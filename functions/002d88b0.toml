@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x2d88b0
+size = 0x5b
+name = "crc32_to_upper"
+type = "unsigned int"
+
+[header]
+name = "crc32_to_upper"
+addr = 0x2d88b0
+type = "unsigned int"
+
+[header.args]

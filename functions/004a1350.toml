@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a1350
+size = 0x45
+name = "PacketStream::sub_9FBF80"
+type = "PacketStream *"
+
+[header]
+name = "PacketStream::sub_9FBF80"
+addr = 0x4a1350
+type = "PacketStream *"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x723b20
+size = 0x6
+name = "D3DXGetShaderConstantTable"
+
+[header]
+name = "D3DXGetShaderConstantTable"
+addr = 0x723b20
+
+[header.args]

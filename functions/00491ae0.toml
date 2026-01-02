@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x491ae0
+size = 0x46
+name = "Component::sub_892AE0"
+type = "bool"
+
+[header]
+name = "Component::sub_892AE0"
+addr = 0x491ae0
+type = "bool"
+
+[header.args]

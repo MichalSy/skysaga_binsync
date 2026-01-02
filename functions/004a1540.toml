@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a1540
+size = 0x27
+name = "Entity::GetParameter"
+type = "Entity::Parameter *"
+
+[header]
+name = "Entity::GetParameter"
+addr = 0x4a1540
+type = "Entity::Parameter *"
+
+[header.args]

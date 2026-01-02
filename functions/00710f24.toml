@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x710f24
+size = 0x42
+name = "___crtCompareStringA"
+type = "int"
+
+[header]
+name = "___crtCompareStringA"
+addr = 0x710f24
+type = "int"
+
+[header.args]

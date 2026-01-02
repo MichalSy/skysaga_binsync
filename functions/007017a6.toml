@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7017a6
+size = 0xec
+name = "__vsnprintf_s_l"
+type = "int"
+
+[header]
+name = "__vsnprintf_s_l"
+addr = 0x7017a6
+type = "int"
+
+[header.args]

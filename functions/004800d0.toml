@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4800d0
+size = 0x9
+name = "Voxel::HasNameHash"
+type = "BOOL"
+
+[header]
+name = "Voxel::HasNameHash"
+addr = 0x4800d0
+type = "BOOL"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7c83
+size = 0x1d
+name = "__amsg_exit"
+
+[header]
+name = "__amsg_exit"
+addr = 0x6f7c83
+
+[header.args]

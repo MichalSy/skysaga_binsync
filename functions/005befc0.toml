@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x5befc0
+size = 0x4e
+name = "IRCConnection::Disconnect"
+type = "int"
+
+[header]
+name = "IRCConnection::Disconnect"
+addr = 0x5befc0
+type = "int"
+
+[header.args]

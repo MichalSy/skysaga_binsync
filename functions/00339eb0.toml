@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x339eb0
+size = 0xea
+name = "Server::sub_73AEB0"
+type = "EntityInstance *"
+
+[header]
+name = "Server::sub_73AEB0"
+addr = 0x339eb0
+type = "EntityInstance *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x37eea0
+size = 0x49
+name = "json_value::sub_77FEA0"
+type = "bool"
+
+[header]
+name = "json_value::sub_77FEA0"
+addr = 0x37eea0
+type = "bool"
+
+[header.args]

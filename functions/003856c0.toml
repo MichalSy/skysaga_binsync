@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3856c0
+size = 0x1a
+name = "??0CharacterCreation@FrontEndState@@QAE@XZ"
+type = "FrontEndState::CharacterCreation *"
+
+[header]
+name = "??0CharacterCreation@FrontEndState@@QAE@XZ"
+addr = 0x3856c0
+type = "FrontEndState::CharacterCreation *"
+
+[header.args]

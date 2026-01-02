@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x501460
+size = 0x4f
+name = "json_value::get_name"
+type = "bool"
+
+[header]
+name = "json_value::get_name"
+addr = 0x501460
+type = "bool"
+
+[header.args]

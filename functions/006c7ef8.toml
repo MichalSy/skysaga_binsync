@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7ef8
+size = 0x6
+name = "i2t_ASN1_OBJECT"
+type = "int"
+
+[header]
+name = "i2t_ASN1_OBJECT"
+addr = 0x6c7ef8
+type = "int"
+
+[header.args]

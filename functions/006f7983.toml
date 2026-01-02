@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7983
+size = 0x33
+name = "__msize"
+type = "size_t"
+
+[header]
+name = "__msize"
+addr = 0x6f7983
+type = "size_t"
+
+[header.args]

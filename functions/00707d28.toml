@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x707d28
+size = 0x52
+name = "??YDName@@QAEAAV0@D@Z"
+type = "int"
+
+[header]
+name = "??YDName@@QAEAAV0@D@Z"
+addr = 0x707d28
+type = "int"
+
+[header.args]

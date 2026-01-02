@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x708783
+size = 0x15f
+name = "?getVfTableType@UnDecorator@@CA?AVDName@@ABV2@@Z"
+
+[header]
+name = "?getVfTableType@UnDecorator@@CA?AVDName@@ABV2@@Z"
+addr = 0x708783
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6ee500
+size = 0x4f
+name = "__CIlog10"
+
+[header]
+name = "__CIlog10"
+addr = 0x6ee500
+
+[header.args]

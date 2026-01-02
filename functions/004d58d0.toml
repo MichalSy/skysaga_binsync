@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4d58d0
+size = 0x52
+name = "VoxelDamageComponent::ParameterData::Print"
+type = "char"
+
+[header]
+name = "VoxelDamageComponent::ParameterData::Print"
+addr = 0x4d58d0
+type = "char"
+
+[header.args]

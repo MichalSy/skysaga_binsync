@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x488060
+size = 0x3f
+name = "HealthComponent::sub_889060"
+type = "void"
+
+[header]
+name = "HealthComponent::sub_889060"
+addr = 0x488060
+type = "void"
+
+[header.args]

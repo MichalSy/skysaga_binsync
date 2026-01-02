@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4fa640
+size = 0x30
+name = "??0Unknown@GeoData@@QAE@XZ"
+type = "GeoData::Unknown *"
+
+[header]
+name = "??0Unknown@GeoData@@QAE@XZ"
+addr = 0x4fa640
+type = "GeoData::Unknown *"
+
+[header.args]

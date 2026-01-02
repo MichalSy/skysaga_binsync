@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f6633
+size = 0x87
+name = "__getenv_helper_nolock"
+type = "int"
+
+[header]
+name = "__getenv_helper_nolock"
+addr = 0x6f6633
+type = "int"
+
+[header.args]

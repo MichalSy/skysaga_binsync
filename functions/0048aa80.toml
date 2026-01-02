@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x48aa80
+size = 0x151
+name = "InventoryComponent::sub_88BA80"
+type = "char"
+
+[header]
+name = "InventoryComponent::sub_88BA80"
+addr = 0x48aa80
+type = "char"
+
+[header.args]

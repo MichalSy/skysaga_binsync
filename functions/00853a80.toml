@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.361507Z
+addr = 0x853a80
+size = 0x1
+name = "nullsub_569"
+type = "void"
+
+[header]
+name = "nullsub_569"
+addr = 0x853a80
+type = "void"
+
+[header.args]

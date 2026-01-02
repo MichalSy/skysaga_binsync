@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x49d0b0
+size = 0x7d
+name = "StaminaComponent::sub_89E0B0"
+type = "BOOL"
+
+[header]
+name = "StaminaComponent::sub_89E0B0"
+addr = 0x49d0b0
+type = "BOOL"
+
+[header.args]

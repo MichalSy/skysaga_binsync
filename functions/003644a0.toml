@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3644a0
+size = 0x7
+name = "?Id@SchedulingRing@details@Concurrency@@QBEHXZ_0"
+type = "int"
+
+[header]
+name = "?Id@SchedulingRing@details@Concurrency@@QBEHXZ_0"
+addr = 0x3644a0
+type = "int"
+
+[header.args]

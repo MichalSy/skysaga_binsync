@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x380b10
+size = 0xd
+name = "GameState::Idle::sub_781B10"
+type = "void"
+
+[header]
+name = "GameState::Idle::sub_781B10"
+addr = 0x380b10
+type = "void"
+
+[header.args]

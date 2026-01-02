@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4df1b0
+size = 0x12
+name = "??0PlaceVoxelAction@@QAE@XZ"
+type = "PlaceVoxelAction *"
+
+[header]
+name = "??0PlaceVoxelAction@@QAE@XZ"
+addr = 0x4df1b0
+type = "PlaceVoxelAction *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x5bf080
+size = 0x1e4
+name = "IRCConnection::ReceiveData"
+type = "RakNet::RakString *"
+
+[header]
+name = "IRCConnection::ReceiveData"
+addr = 0x5bf080
+type = "RakNet::RakString *"
+
+[header.args]

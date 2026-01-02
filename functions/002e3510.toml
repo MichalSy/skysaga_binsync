@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x2e3510
+size = 0x108
+name = "SafeFree"
+type = "void"
+
+[header]
+name = "SafeFree"
+addr = 0x2e3510
+type = "void"
+
+[header.args]

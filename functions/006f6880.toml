@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f6880
+size = 0x3f
+name = "_log"
+type = "double"
+
+[header]
+name = "_log"
+addr = 0x6f6880
+type = "double"
+
+[header.args]

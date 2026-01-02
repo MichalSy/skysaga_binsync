@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x8309e7
+size = 0x20
+name = "_wcsnlen"
+type = "size_t"
+
+[header]
+name = "_wcsnlen"
+addr = 0x8309e7
+type = "size_t"
+
+[header.args]

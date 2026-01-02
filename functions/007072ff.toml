@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7072ff
+size = 0x16
+name = "?length@pDNameNode@@UBEHXZ"
+type = "int"
+
+[header]
+name = "?length@pDNameNode@@UBEHXZ"
+addr = 0x7072ff
+type = "int"
+
+[header.args]

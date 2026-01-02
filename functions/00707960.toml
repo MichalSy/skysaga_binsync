@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x707960
+size = 0xbf
+name = "??0DName@@QAE@AAPBDD@Z"
+type = "DName *"
+
+[header]
+name = "??0DName@@QAE@AAPBDD@Z"
+addr = 0x707960
+type = "DName *"
+
+[header.args]

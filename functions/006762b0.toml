@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x6762b0
+size = 0xe9
+name = "?GetRemoteSystemFromSystemAddress@RakPeer@RakNet@@IBEPAURemoteSystemStruct@12@USystemAddress@2@_N1@Z"
+type = "int"
+
+[header]
+name = "?GetRemoteSystemFromSystemAddress@RakPeer@RakNet@@IBEPAURemoteSystemStruct@12@USystemAddress@2@_N1@Z"
+addr = 0x6762b0
+type = "int"
+
+[header.args]

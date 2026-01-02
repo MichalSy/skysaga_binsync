@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6efee8
+size = 0x7a
+name = "_fwrite"
+type = "size_t"
+
+[header]
+name = "_fwrite"
+addr = 0x6efee8
+type = "size_t"
+
+[header.args]

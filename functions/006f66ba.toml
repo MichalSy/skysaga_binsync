@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f66ba
+size = 0x7a
+name = "_getenv"
+type = "char *"
+
+[header]
+name = "_getenv"
+addr = 0x6f66ba
+type = "char *"
+
+[header.args]

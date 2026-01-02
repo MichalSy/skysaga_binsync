@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x388900
+size = 0x1b7
+name = "FrontEndState::DownloadCharacter::Update"
+type = "LPCRITICAL_SECTION *"
+
+[header]
+name = "FrontEndState::DownloadCharacter::Update"
+addr = 0x388900
+type = "LPCRITICAL_SECTION *"
+
+[header.args]

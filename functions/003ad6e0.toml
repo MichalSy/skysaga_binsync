@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3ad6e0
+size = 0x1a8
+name = "ClientVoxelDamageComponent::sub_7AE6E0"
+type = "unsigned int"
+
+[header]
+name = "ClientVoxelDamageComponent::sub_7AE6E0"
+addr = 0x3ad6e0
+type = "unsigned int"
+
+[header.args]

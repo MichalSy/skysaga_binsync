@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x487640
+size = 0x64
+name = "EquippedItemComponent::ParameterData::Write"
+type = "char"
+
+[header]
+name = "EquippedItemComponent::ParameterData::Write"
+addr = 0x487640
+type = "char"
+
+[header.args]

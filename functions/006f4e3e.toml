@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4e3e
+size = 0x33
+name = "?CatchGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUCatchGuardRN@@PAX2@Z"
+type = "enum _EXCEPTION_DISPOSITION"
+
+[header]
+name = "?CatchGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUCatchGuardRN@@PAX2@Z"
+addr = 0x6f4e3e
+type = "enum _EXCEPTION_DISPOSITION"
+
+[header.args]

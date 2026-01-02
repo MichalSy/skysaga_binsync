@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4fb640
+size = 0x36
+name = "VoxelData::sub_8FC640"
+type = "int"
+
+[header]
+name = "VoxelData::sub_8FC640"
+addr = 0x4fb640
+type = "int"
+
+[header.args]

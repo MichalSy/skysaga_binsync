@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x67b0
+size = 0x24f
+name = "CClient::sub_4077B0"
+type = "char *"
+
+[header]
+name = "CClient::sub_4077B0"
+addr = 0x67b0
+type = "char *"
+
+[header.args]

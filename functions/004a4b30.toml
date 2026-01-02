@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a4b30
+size = 0x23
+name = "??0SmoothedTransformComponent@@QAE@XZ"
+type = "SmoothedTransformComponent *"
+
+[header]
+name = "??0SmoothedTransformComponent@@QAE@XZ"
+addr = 0x4a4b30
+type = "SmoothedTransformComponent *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x50cae0
+size = 0x2f
+name = "pv::component_list::sub_90DAE0"
+type = "int"
+
+[header]
+name = "pv::component_list::sub_90DAE0"
+addr = 0x50cae0
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a6e60
+size = 0x6
+name = "GetClientVersionNumber"
+type = "int *"
+
+[header]
+name = "GetClientVersionNumber"
+addr = 0x4a6e60
+type = "int *"
+
+[header.args]

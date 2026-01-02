@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x321500
+size = 0x3
+name = "Component_sub_722500"
+type = "char"
+
+[header]
+name = "Component_sub_722500"
+addr = 0x321500
+type = "char"
+
+[header.args]

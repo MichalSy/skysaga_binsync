@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3841d0
+size = 0x147
+name = "RPCTeleportBegins::ReadPacket"
+type = "void"
+
+[header]
+name = "RPCTeleportBegins::ReadPacket"
+addr = 0x3841d0
+type = "void"
+
+[header.args]

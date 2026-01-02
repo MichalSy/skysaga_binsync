@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fd654
+size = 0x4a
+name = "__mtinitlocks"
+type = "int"
+
+[header]
+name = "__mtinitlocks"
+addr = 0x6fd654
+type = "int"
+
+[header.args]

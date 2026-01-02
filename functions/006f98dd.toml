@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f98dd
+size = 0x3c
+name = "__fload"
+type = "int"
+
+[header]
+name = "__fload"
+addr = 0x6f98dd
+type = "int"
+
+[header.args]

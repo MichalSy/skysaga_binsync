@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f5cf2
+size = 0x30
+name = "_isprint"
+type = "int"
+
+[header]
+name = "_isprint"
+addr = 0x6f5cf2
+type = "int"
+
+[header.args]

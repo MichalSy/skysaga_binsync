@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x511700
+size = 0x1f
+name = "EquippedItemComponent::EquippedAction::sub_912700"
+type = "void"
+
+[header]
+name = "EquippedItemComponent::EquippedAction::sub_912700"
+addr = 0x511700
+type = "void"
+
+[header.args]

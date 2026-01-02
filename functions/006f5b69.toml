@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f5b69
+size = 0x2e
+name = "_isspace"
+type = "int"
+
+[header]
+name = "_isspace"
+addr = 0x6f5b69
+type = "int"
+
+[header.args]

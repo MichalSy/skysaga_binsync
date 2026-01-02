@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7ef8
+size = 0x42
+name = "?__CxxUnhandledExceptionFilter@@YGJPAU_EXCEPTION_POINTERS@@@Z"
+type = "LONG"
+
+[header]
+name = "?__CxxUnhandledExceptionFilter@@YGJPAU_EXCEPTION_POINTERS@@@Z"
+addr = 0x6f7ef8
+type = "LONG"
+
+[header.args]

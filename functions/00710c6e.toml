@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x710c6e
+size = 0x36
+name = "__EH_prolog3_catch"
+
+[header]
+name = "__EH_prolog3_catch"
+addr = 0x710c6e
+
+[header.args]

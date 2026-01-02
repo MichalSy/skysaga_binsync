@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7077d5
+size = 0x12
+name = "?getLastChar@pcharNode@@UBEDXZ"
+type = "char"
+
+[header]
+name = "?getLastChar@pcharNode@@UBEDXZ"
+addr = 0x7077d5
+type = "char"
+
+[header.args]

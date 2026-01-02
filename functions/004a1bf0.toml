@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a1bf0
+size = 0x16
+name = "Entity::GetComponentByHash"
+type = "Entity::Component *"
+
+[header]
+name = "Entity::GetComponentByHash"
+addr = 0x4a1bf0
+type = "Entity::Component *"
+
+[header.args]

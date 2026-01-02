@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7a0b
+size = 0x33
+name = "__init_pointers"
+type = "int"
+
+[header]
+name = "__init_pointers"
+addr = 0x6f7a0b
+type = "int"
+
+[header.args]

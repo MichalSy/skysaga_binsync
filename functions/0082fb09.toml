@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x82fb09
+size = 0xf4
+name = "_fgetc"
+type = "int"
+
+[header]
+name = "_fgetc"
+addr = 0x82fb09
+type = "int"
+
+[header.args]

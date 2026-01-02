@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x6739f0
+size = 0x1e
+name = "?Write0@BitStream@RakNet@@QAEXXZ"
+type = "unsigned int"
+
+[header]
+name = "?Write0@BitStream@RakNet@@QAEXXZ"
+addr = 0x6739f0
+type = "unsigned int"
+
+[header.args]

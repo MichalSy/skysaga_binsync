@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x704d78
+size = 0x2a
+name = "__itow_s"
+type = "errno_t"
+
+[header]
+name = "__itow_s"
+addr = 0x704d78
+type = "errno_t"
+
+[header.args]

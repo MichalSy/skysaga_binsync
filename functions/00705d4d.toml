@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x705d4d
+size = 0x11
+name = "__initp_eh_hooks"
+
+[header]
+name = "__initp_eh_hooks"
+addr = 0x705d4d
+
+[header.args]

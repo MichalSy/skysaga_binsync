@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x49be80
+size = 0x9c
+name = "Chunk::sub_89CE80"
+type = "int *"
+
+[header]
+name = "Chunk::sub_89CE80"
+addr = 0x49be80
+type = "int *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6edf57
+size = 0xa
+name = "start"
+type = "int"
+
+[header]
+name = "start"
+addr = 0x6edf57
+type = "int"
+
+[header.args]

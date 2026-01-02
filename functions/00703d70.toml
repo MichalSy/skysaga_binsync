@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x703d70
+size = 0x35
+name = "__ValidateImageBase"
+
+[header]
+name = "__ValidateImageBase"
+addr = 0x703d70
+
+[header.args]

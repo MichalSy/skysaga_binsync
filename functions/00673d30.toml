@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x673d30
+size = 0x73
+name = "?WriteAlignedBytes@BitStream@RakNet@@QAEXPBEI@Z"
+type = "int"
+
+[header]
+name = "?WriteAlignedBytes@BitStream@RakNet@@QAEXPBEI@Z"
+addr = 0x673d30
+type = "int"
+
+[header.args]

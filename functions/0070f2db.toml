@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70f2db
+size = 0x1ba
+name = "__ungetwc_nolock"
+type = "wint_t"
+
+[header]
+name = "__ungetwc_nolock"
+addr = 0x70f2db
+type = "wint_t"
+
+[header.args]

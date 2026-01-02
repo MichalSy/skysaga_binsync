@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x6600
+size = 0x69
+name = "CClient::Initialize"
+type = "void"
+
+[header]
+name = "CClient::Initialize"
+addr = 0x6600
+type = "void"
+
+[header.args]

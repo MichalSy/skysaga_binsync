@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x47cc80
+size = 0x22c
+name = "InventoryItemComponent::CreateItemEntity"
+type = "InventoryItemComponent *"
+
+[header]
+name = "InventoryItemComponent::CreateItemEntity"
+addr = 0x47cc80
+type = "InventoryItemComponent *"
+
+[header.args]

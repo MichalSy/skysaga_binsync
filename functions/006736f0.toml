@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x6736f0
+size = 0x27
+name = "?ReverseBytes@BitStream@RakNet@@SAXPAE0I@Z"
+type = "void"
+
+[header]
+name = "?ReverseBytes@BitStream@RakNet@@SAXPAE0I@Z"
+addr = 0x6736f0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4c0290
+size = 0x44
+name = "UnknownStruct4::sub_8C1290"
+type = "void"
+
+[header]
+name = "UnknownStruct4::sub_8C1290"
+addr = 0x4c0290
+type = "void"
+
+[header.args]

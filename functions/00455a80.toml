@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x455a80
+size = 0xa1
+name = "??0WorldService@world@pv@@QAE@XZ"
+type = "pv::world::WorldService *"
+
+[header]
+name = "??0WorldService@world@pv@@QAE@XZ"
+addr = 0x455a80
+type = "pv::world::WorldService *"
+
+[header.args]

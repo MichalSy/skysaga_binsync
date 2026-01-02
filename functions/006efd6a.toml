@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6efd6a
+size = 0x27
+name = "__gmtime64"
+type = "struct tm *"
+
+[header]
+name = "__gmtime64"
+addr = 0x6efd6a
+type = "struct tm *"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fa371
+size = 0x25
+name = "_isintTOS"
+
+[header]
+name = "_isintTOS"
+addr = 0x6fa371
+
+[header.args]

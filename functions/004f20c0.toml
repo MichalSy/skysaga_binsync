@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4f20c0
+size = 0x6
+name = "__RTC_NumErrors_1"
+type = "int"
+
+[header]
+name = "__RTC_NumErrors_1"
+addr = 0x4f20c0
+type = "int"
+
+[header.args]

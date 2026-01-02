@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x496860
+size = 0x1279
+name = "ParseGeoData"
+type = "void"
+
+[header]
+name = "ParseGeoData"
+addr = 0x496860
+type = "void"
+
+[header.args]

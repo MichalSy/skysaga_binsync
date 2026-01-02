@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x44ba10
+size = 0x23
+name = "??0ClientVoxelLinkComponent@@QAE@XZ"
+type = "unsigned int *"
+
+[header]
+name = "??0ClientVoxelLinkComponent@@QAE@XZ"
+addr = 0x44ba10
+type = "unsigned int *"
+
+[header.args]

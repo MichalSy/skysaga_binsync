@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7f5e
+size = 0x6
+name = "SSL_pending"
+type = "int"
+
+[header]
+name = "SSL_pending"
+addr = 0x6c7f5e
+type = "int"
+
+[header.args]

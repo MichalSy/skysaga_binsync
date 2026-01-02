@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7c52
+size = 0x6
+name = "SSL_SESSION_free"
+type = "int"
+
+[header]
+name = "SSL_SESSION_free"
+addr = 0x6c7c52
+type = "int"
+
+[header.args]

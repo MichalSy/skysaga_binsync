@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4fb090
+size = 0x1c
+name = "idk_sub_8FC090"
+type = "BaseResourceInstance *"
+
+[header]
+name = "idk_sub_8FC090"
+addr = 0x4fb090
+type = "BaseResourceInstance *"
+
+[header.args]

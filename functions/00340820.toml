@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x340820
+size = 0x94
+name = "PacketManager::Add_RPCEntityEvent"
+type = "void"
+
+[header]
+name = "PacketManager::Add_RPCEntityEvent"
+addr = 0x340820
+type = "void"
+
+[header.args]

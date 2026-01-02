@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70c762
+size = 0x2d
+name = "__set_errno_from_matherr"
+
+[header]
+name = "__set_errno_from_matherr"
+addr = 0x70c762
+
+[header.args]

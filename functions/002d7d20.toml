@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x2d7d20
+size = 0x14
+name = "CClientInfo::SetLoadType"
+type = "void"
+
+[header]
+name = "CClientInfo::SetLoadType"
+addr = 0x2d7d20
+type = "void"
+
+[header.args]

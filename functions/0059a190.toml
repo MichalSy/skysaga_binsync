@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x59a190
+size = 0x8
+name = "unknown_libname_49"
+
+[header]
+name = "unknown_libname_49"
+addr = 0x59a190
+
+[header.args]

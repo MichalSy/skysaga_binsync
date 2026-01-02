@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x452990
+size = 0x4
+name = "GameConfig::sub_853990"
+type = "int"
+
+[header]
+name = "GameConfig::sub_853990"
+addr = 0x452990
+type = "int"
+
+[header.args]

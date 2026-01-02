@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x707607
+size = 0x5f
+name = "?getString@DName@@QBEPADPADH@Z"
+type = "char *"
+
+[header]
+name = "?getString@DName@@QBEPADPADH@Z"
+addr = 0x707607
+type = "char *"
+
+[header.args]

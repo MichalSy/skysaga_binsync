@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4e7830
+size = 0x1d1
+name = "pv::component_list::Add_CharacterStateComponent"
+type = "int"
+
+[header]
+name = "pv::component_list::Add_CharacterStateComponent"
+addr = 0x4e7830
+type = "int"
+
+[header.args]

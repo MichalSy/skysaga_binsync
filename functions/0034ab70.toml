@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x34ab70
+size = 0x76
+name = "EntityInstance::GetClientInputComponent"
+type = "int"
+
+[header]
+name = "EntityInstance::GetClientInputComponent"
+addr = 0x34ab70
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x723b0e
+size = 0x6
+name = "D3DXCheckTextureRequirements"
+type = "int"
+
+[header]
+name = "D3DXCheckTextureRequirements"
+addr = 0x723b0e
+type = "int"
+
+[header.args]

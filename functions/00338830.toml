@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x338830
+size = 0xc
+name = "?__uncaught_exception@@YA_NXZ"
+type = "BOOL"
+
+[header]
+name = "?__uncaught_exception@@YA_NXZ"
+addr = 0x338830
+type = "BOOL"
+
+[header.args]

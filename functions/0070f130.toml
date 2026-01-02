@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70f130
+size = 0x1ab
+name = "__fgetwc_nolock"
+type = "wint_t"
+
+[header]
+name = "__fgetwc_nolock"
+addr = 0x70f130
+type = "wint_t"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f56c3
+size = 0x42
+name = "__get_errno_from_oserr"
+
+[header]
+name = "__get_errno_from_oserr"
+addr = 0x6f56c3
+
+[header.args]

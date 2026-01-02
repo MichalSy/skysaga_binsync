@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4f0390
+size = 0x8e
+name = "CopyDescriptionList"
+type = "void ***"
+
+[header]
+name = "CopyDescriptionList"
+addr = 0x4f0390
+type = "void ***"
+
+[header.args]

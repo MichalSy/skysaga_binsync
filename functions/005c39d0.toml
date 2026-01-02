@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x5c39d0
+size = 0x33
+name = "??0Voxel@@QAE@XZ_0"
+type = "Voxel *"
+
+[header]
+name = "??0Voxel@@QAE@XZ_0"
+addr = 0x5c39d0
+type = "Voxel *"
+
+[header.args]

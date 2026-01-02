@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x382f40
+size = 0x1e4
+name = "BaseRakNetServer::Session::Send_RPCClientReadyToSync"
+type = "int"
+
+[header]
+name = "BaseRakNetServer::Session::Send_RPCClientReadyToSync"
+addr = 0x382f40
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x673a10
+size = 0x31
+name = "?Write1@BitStream@RakNet@@QAEXXZ"
+type = "void"
+
+[header]
+name = "?Write1@BitStream@RakNet@@QAEXXZ"
+addr = 0x673a10
+type = "void"
+
+[header.args]

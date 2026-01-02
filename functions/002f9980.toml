@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x2f9980
+size = 0x70
+name = "GetChunkAtLocalCoords"
+type = "Chunk *"
+
+[header]
+name = "GetChunkAtLocalCoords"
+addr = 0x2f9980
+type = "Chunk *"
+
+[header.args]

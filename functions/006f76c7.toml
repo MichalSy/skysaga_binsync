@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f76c7
+size = 0x129
+name = "__call_reportfault"
+
+[header]
+name = "__call_reportfault"
+addr = 0x6f76c7
+
+[header.args]

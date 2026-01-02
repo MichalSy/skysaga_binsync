@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7c70
+size = 0x6
+name = "X509_NAME_ENTRY_get_data"
+type = "int"
+
+[header]
+name = "X509_NAME_ENTRY_get_data"
+addr = 0x6c7c70
+type = "int"
+
+[header.args]

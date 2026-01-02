@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x35ada0
+size = 0xc4
+name = "Chunk::sub_75BDA0"
+type = "char"
+
+[header]
+name = "Chunk::sub_75BDA0"
+addr = 0x35ada0
+type = "char"
+
+[header.args]

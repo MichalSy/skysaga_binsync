@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x358290
+size = 0x34
+name = "??0ClientWorldService@client@world@pv@@QAE@XZ"
+type = "pv::world::client::ClientWorldService *"
+
+[header]
+name = "??0ClientWorldService@client@world@pv@@QAE@XZ"
+addr = 0x358290
+type = "pv::world::client::ClientWorldService *"
+
+[header.args]

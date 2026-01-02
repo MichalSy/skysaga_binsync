@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x710f66
+size = 0xea
+name = "__strnicoll_l"
+type = "int"
+
+[header]
+name = "__strnicoll_l"
+addr = 0x710f66
+type = "int"
+
+[header.args]

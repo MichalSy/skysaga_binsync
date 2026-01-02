@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fca02
+size = 0x19
+name = "@_EH4_GlobalUnwind2@8"
+type = "int"
+
+[header]
+name = "@_EH4_GlobalUnwind2@8"
+addr = 0x6fca02
+type = "int"
+
+[header.args]

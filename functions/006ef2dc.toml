@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6ef2dc
+size = 0x8e
+name = "__hw_cw"
+
+[header]
+name = "__hw_cw"
+addr = 0x6ef2dc
+
+[header.args]

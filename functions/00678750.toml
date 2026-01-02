@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x678750
+size = 0x71
+name = "?GetRemoteSystem@RakPeer@RakNet@@IBEPAURemoteSystemStruct@12@UAddressOrGUID@2@_N1@Z"
+type = "RakNet::RakPeer::RemoteSystemStruct *"
+
+[header]
+name = "?GetRemoteSystem@RakPeer@RakNet@@IBEPAURemoteSystemStruct@12@UAddressOrGUID@2@_N1@Z"
+addr = 0x678750
+type = "RakNet::RakPeer::RemoteSystemStruct *"
+
+[header.args]

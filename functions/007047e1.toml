@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7047e1
+size = 0x5f
+name = "_strcpy_s"
+type = "errno_t"
+
+[header]
+name = "_strcpy_s"
+addr = 0x7047e1
+type = "errno_t"
+
+[header.args]

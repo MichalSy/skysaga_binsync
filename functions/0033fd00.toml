@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x33fd00
+size = 0x233
+name = "RPCMapDefinition::ReadPacket"
+type = "void"
+
+[header]
+name = "RPCMapDefinition::ReadPacket"
+addr = 0x33fd00
+type = "void"
+
+[header.args]

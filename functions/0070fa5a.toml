@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70fa5a
+size = 0x49
+name = "__getcwd"
+type = "char *"
+
+[header]
+name = "__getcwd"
+addr = 0x70fa5a
+type = "char *"
+
+[header.args]

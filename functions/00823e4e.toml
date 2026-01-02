@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x823e4e
+size = 0x6
+name = "RtlUnwind"
+type = "void"
+
+[header]
+name = "RtlUnwind"
+addr = 0x823e4e
+type = "void"
+
+[header.args]

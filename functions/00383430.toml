@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x383430
+size = 0x1ff
+name = "GameState::EntitySync::Update"
+type = "char"
+
+[header]
+name = "GameState::EntitySync::Update"
+addr = 0x383430
+type = "char"
+
+[header.args]

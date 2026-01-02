@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70d11b
+size = 0x14c
+name = "__mbsnbcmp_l"
+type = "int"
+
+[header]
+name = "__mbsnbcmp_l"
+addr = 0x70d11b
+type = "int"
+
+[header.args]

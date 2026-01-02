@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f0313
+size = 0xb1
+name = "___initstdio"
+
+[header]
+name = "___initstdio"
+addr = 0x6f0313
+
+[header.args]

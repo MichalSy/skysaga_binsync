@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f6a44
+size = 0x82
+name = "__cropzeros_l"
+type = "int"
+
+[header]
+name = "__cropzeros_l"
+addr = 0x6f6a44
+type = "int"
+
+[header.args]

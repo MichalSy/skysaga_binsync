@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4787b0
+size = 0x29e
+name = "EntityOrganiser::UpdateEntities"
+type = "void"
+
+[header]
+name = "EntityOrganiser::UpdateEntities"
+addr = 0x4787b0
+type = "void"
+
+[header.args]

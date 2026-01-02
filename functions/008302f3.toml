@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x8302f3
+size = 0x280
+name = "___crtwsetenv"
+
+[header]
+name = "___crtwsetenv"
+addr = 0x8302f3
+
+[header.args]

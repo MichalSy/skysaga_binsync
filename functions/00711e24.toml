@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x711e24
+size = 0x130
+name = "__filwbuf"
+type = "int"
+
+[header]
+name = "__filwbuf"
+addr = 0x711e24
+type = "int"
+
+[header.args]

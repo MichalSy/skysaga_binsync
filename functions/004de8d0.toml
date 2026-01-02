@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4de8d0
+size = 0x1
+name = "nullsub_2379"
+type = "int"
+
+[header]
+name = "nullsub_2379"
+addr = 0x4de8d0
+type = "int"
+
+[header.args]

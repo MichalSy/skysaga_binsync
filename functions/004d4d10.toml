@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4d4d10
+size = 0x171
+name = "VoxelDamageComponent::sub_8D5D10"
+type = "signed int"
+
+[header]
+name = "VoxelDamageComponent::sub_8D5D10"
+addr = 0x4d4d10
+type = "signed int"
+
+[header.args]

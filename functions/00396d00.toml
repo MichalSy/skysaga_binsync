@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x396d00
+size = 0x1b
+name = "??0NetworkService@client@network@pv@@QAE@XZ"
+type = "pv::network::client::NetworkService *"
+
+[header]
+name = "??0NetworkService@client@network@pv@@QAE@XZ"
+addr = 0x396d00
+type = "pv::network::client::NetworkService *"
+
+[header.args]

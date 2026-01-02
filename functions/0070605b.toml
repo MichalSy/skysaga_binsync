@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70605b
+size = 0x81
+name = "__set_osfhnd"
+type = "int"
+
+[header]
+name = "__set_osfhnd"
+addr = 0x70605b
+type = "int"
+
+[header.args]

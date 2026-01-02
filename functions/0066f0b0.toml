@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x66f0b0
+size = 0x2e
+name = "??4SystemAddress@RakNet@@QAEAAU01@ABU01@@Z"
+type = "RakNet::SystemAddress *"
+
+[header]
+name = "??4SystemAddress@RakNet@@QAEAAU01@ABU01@@Z"
+addr = 0x66f0b0
+type = "RakNet::SystemAddress *"
+
+[header.args]

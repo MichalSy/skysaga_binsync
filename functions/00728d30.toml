@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x728d30
+size = 0x51
+name = "_luaL_typerror"
+type = "int"
+
+[header]
+name = "_luaL_typerror"
+addr = 0x728d30
+type = "int"
+
+[header.args]

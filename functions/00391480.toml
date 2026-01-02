@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x391480
+size = 0x88
+name = "ClientEquippedItemComponent::sub_792480"
+type = "char"
+
+[header]
+name = "ClientEquippedItemComponent::sub_792480"
+addr = 0x391480
+type = "char"
+
+[header.args]

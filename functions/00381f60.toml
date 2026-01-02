@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x381f60
+size = 0xd
+name = "GameState::ConnectToServer::sub_782F60"
+type = "void"
+
+[header]
+name = "GameState::ConnectToServer::sub_782F60"
+addr = 0x381f60
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7018d0
+size = 0xb2
+name = "_ValidateScopeTableHandlers"
+
+[header]
+name = "_ValidateScopeTableHandlers"
+addr = 0x7018d0
+
+[header.args]

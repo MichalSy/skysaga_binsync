@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x332b90
+size = 0x4c
+name = "ModeGlobal::GetClientEntity"
+type = "EntityInstance *"
+
+[header]
+name = "ModeGlobal::GetClientEntity"
+addr = 0x332b90
+type = "EntityInstance *"
+
+[header.args]

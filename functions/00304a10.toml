@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x304a10
+size = 0x1b8
+name = "ItemSpec::sub_705A10"
+type = "void"
+
+[header]
+name = "ItemSpec::sub_705A10"
+addr = 0x304a10
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x475420
+size = 0xd
+name = "EntityInstance::GetServiceManager"
+type = "ServiceManager *"
+
+[header]
+name = "EntityInstance::GetServiceManager"
+addr = 0x475420
+type = "ServiceManager *"
+
+[header.args]

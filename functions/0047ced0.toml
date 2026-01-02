@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x47ced0
+size = 0x15e
+name = "InventoryItemComponent::sub_87DED0"
+type = "ItemSpec *"
+
+[header]
+name = "InventoryItemComponent::sub_87DED0"
+addr = 0x47ced0
+type = "ItemSpec *"
+
+[header.args]

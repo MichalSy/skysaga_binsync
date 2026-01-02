@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x672ea0
+size = 0x2a
+name = "?ReadBit@BitStream@RakNet@@QAE_NXZ"
+type = "bool"
+
+[header]
+name = "?ReadBit@BitStream@RakNet@@QAE_NXZ"
+addr = 0x672ea0
+type = "bool"
+
+[header.args]

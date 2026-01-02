@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f82a0
+size = 0x5f
+name = "__wincmdln"
+type = "int"
+
+[header]
+name = "__wincmdln"
+addr = 0x6f82a0
+type = "int"
+
+[header.args]

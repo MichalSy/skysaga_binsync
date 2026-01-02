@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x351780
+size = 0x67
+name = "??0ClientHealthComponent@@QAE@XZ"
+type = "ClientHealthComponent *"
+
+[header]
+name = "??0ClientHealthComponent@@QAE@XZ"
+addr = 0x351780
+type = "ClientHealthComponent *"
+
+[header.args]

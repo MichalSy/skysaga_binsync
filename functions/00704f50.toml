@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x704f50
+size = 0x3f
+name = "__set_error_mode"
+type = "int"
+
+[header]
+name = "__set_error_mode"
+addr = 0x704f50
+type = "int"
+
+[header.args]

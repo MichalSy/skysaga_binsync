@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x45fef0
+size = 0x277f
+name = "GeoData::sub_860EF0"
+type = "void"
+
+[header]
+name = "GeoData::sub_860EF0"
+addr = 0x45fef0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x47a4a0
+size = 0x71
+name = "??$Write@_K@BitStream@RakNet@@QAEXAB_K@Z"
+type = "int"
+
+[header]
+name = "??$Write@_K@BitStream@RakNet@@QAEXAB_K@Z"
+addr = 0x47a4a0
+type = "int"
+
+[header.args]

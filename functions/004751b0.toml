@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4751b0
+size = 0x10
+name = "EntityInstance::sub_8761B0"
+type = "void"
+
+[header]
+name = "EntityInstance::sub_8761B0"
+addr = 0x4751b0
+type = "void"
+
+[header.args]

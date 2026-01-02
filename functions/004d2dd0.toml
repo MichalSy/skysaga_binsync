@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4d2dd0
+size = 0xa2
+name = "UISettingsComponent::ParameterData::Print"
+type = "char"
+
+[header]
+name = "UISettingsComponent::ParameterData::Print"
+addr = 0x4d2dd0
+type = "char"
+
+[header.args]

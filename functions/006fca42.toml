@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fca42
+size = 0x11
+name = "__clrfp"
+
+[header]
+name = "__clrfp"
+addr = 0x6fca42
+
+[header.args]

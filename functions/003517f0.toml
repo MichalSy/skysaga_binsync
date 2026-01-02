@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3517f0
+size = 0x3b
+name = "ClientHealthComponent::sub_7527F0"
+type = "int"
+
+[header]
+name = "ClientHealthComponent::sub_7527F0"
+addr = 0x3517f0
+type = "int"
+
+[header.args]

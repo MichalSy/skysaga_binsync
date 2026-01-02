@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x711102
+size = 0x242
+name = "___crtsetenv"
+
+[header]
+name = "___crtsetenv"
+addr = 0x711102
+
+[header.args]

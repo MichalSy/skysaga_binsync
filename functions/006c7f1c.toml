@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7f1c
+size = 0x6
+name = "BN_bn2bin"
+type = "int"
+
+[header]
+name = "BN_bn2bin"
+addr = 0x6c7f1c
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f40a2
+size = 0x665
+name = "__wassert"
+type = "void"
+
+[header]
+name = "__wassert"
+addr = 0x6f40a2
+type = "void"
+
+[header.args]

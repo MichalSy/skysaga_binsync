@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x477c90
+size = 0x25
+name = "GetEntityByName_sub_878C90"
+type = "int"
+
+[header]
+name = "GetEntityByName_sub_878C90"
+addr = 0x477c90
+type = "int"
+
+[header.args]

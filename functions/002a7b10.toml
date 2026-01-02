@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x2a7b10
+size = 0xd
+name = "?set_bound@?$source_link_manager@V?$multi_link_registry@V?$ISource@W4agent_status@Concurrency@@@Concurrency@@@Concurrency@@@Concurrency@@QAEXI@Z"
+
+[header]
+name = "?set_bound@?$source_link_manager@V?$multi_link_registry@V?$ISource@W4agent_status@Concurrency@@@Concurrency@@@Concurrency@@@Concurrency@@QAEXI@Z"
+addr = 0x2a7b10
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x2fbb10
+size = 0x92
+name = "GetUserInterfaceService"
+type = "void"
+
+[header]
+name = "GetUserInterfaceService"
+addr = 0x2fbb10
+type = "void"
+
+[header.args]

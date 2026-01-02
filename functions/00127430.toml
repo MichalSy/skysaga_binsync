@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x127430
+size = 0x8
+name = "??$_Unchecked@V?$_Vector_val@U?$_Simple_types@PAX@std@@@std@@@std@@YAPBQAXV?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@PAX@std@@@std@@@0@@Z"
+
+[header]
+name = "??$_Unchecked@V?$_Vector_val@U?$_Simple_types@PAX@std@@@std@@@std@@YAPBQAXV?$_Vector_const_iterator@V?$_Vector_val@U?$_Simple_types@PAX@std@@@std@@@0@@Z"
+addr = 0x127430
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x71003f
+size = 0x67
+name = "_write_string_0"
+
+[header]
+name = "_write_string_0"
+addr = 0x71003f
+
+[header.args]

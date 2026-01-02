@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6ed8ba
+size = 0xb
+name = "??3@YAXPAX@Z"
+type = "void"
+
+[header]
+name = "??3@YAXPAX@Z"
+addr = 0x6ed8ba
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x34add0
+size = 0x9a
+name = "PacketManager::Add_RPCEntityRemoved"
+type = "void"
+
+[header]
+name = "PacketManager::Add_RPCEntityRemoved"
+addr = 0x34add0
+type = "void"
+
+[header.args]

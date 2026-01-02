@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f7d09
+size = 0x70
+name = "?_Type_info_dtor@type_info@@CAXPAV1@@Z"
+type = "void"
+
+[header]
+name = "?_Type_info_dtor@type_info@@CAXPAV1@@Z"
+addr = 0x6f7d09
+type = "void"
+
+[header.args]

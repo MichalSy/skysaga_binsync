@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x1d9030
+size = 0x8
+name = "?MarkInactive@ExternalStatistics@details@Concurrency@@QAEXXZ"
+type = "void"
+
+[header]
+name = "?MarkInactive@ExternalStatistics@details@Concurrency@@QAEXXZ"
+addr = 0x1d9030
+type = "void"
+
+[header.args]

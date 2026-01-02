@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x475f80
+size = 0x2a8
+name = "EntityInstance::sub_876F80"
+type = "int"
+
+[header]
+name = "EntityInstance::sub_876F80"
+addr = 0x475f80
+type = "int"
+
+[header.args]

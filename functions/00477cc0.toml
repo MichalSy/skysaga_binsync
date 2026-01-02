@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x477cc0
+size = 0x16a
+name = "EntityOrganiser::DeallocateEntity"
+type = "void"
+
+[header]
+name = "EntityOrganiser::DeallocateEntity"
+addr = 0x477cc0
+type = "void"
+
+[header.args]

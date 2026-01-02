@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6edd8a
+size = 0x16
+name = "_atol"
+type = "int"
+
+[header]
+name = "_atol"
+addr = 0x6edd8a
+type = "int"
+
+[header.args]

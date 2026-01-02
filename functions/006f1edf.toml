@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f1edf
+size = 0x2c
+name = "_strtoul"
+type = "unsigned int"
+
+[header]
+name = "_strtoul"
+addr = 0x6f1edf
+type = "unsigned int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fd57b
+size = 0xd9
+name = "__commit"
+type = "int"
+
+[header]
+name = "__commit"
+addr = 0x6fd57b
+type = "int"
+
+[header.args]

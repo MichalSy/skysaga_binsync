@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x33f9d0
+size = 0x76
+name = "EntityInstance::GetStaminaComponent"
+type = "StaminaComponent *"
+
+[header]
+name = "EntityInstance::GetStaminaComponent"
+addr = 0x33f9d0
+type = "StaminaComponent *"
+
+[header.args]

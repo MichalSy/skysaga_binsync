@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6ef0d0
+size = 0x1f
+name = "__allshl"
+
+[header]
+name = "__allshl"
+addr = 0x6ef0d0
+
+[header.args]

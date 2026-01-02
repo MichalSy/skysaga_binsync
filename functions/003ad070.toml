@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3ad070
+size = 0x12e
+name = "??0ClientVoxelDamageComponent@@QAE@XZ"
+type = "ClientVoxelDamageComponent *"
+
+[header]
+name = "??0ClientVoxelDamageComponent@@QAE@XZ"
+addr = 0x3ad070
+type = "ClientVoxelDamageComponent *"
+
+[header.args]

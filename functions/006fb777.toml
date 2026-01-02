@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fb777
+size = 0x33
+name = "_write_char"
+type = "int"
+
+[header]
+name = "_write_char"
+addr = 0x6fb777
+type = "int"
+
+[header.args]

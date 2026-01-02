@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x82fda9
+size = 0xce
+name = "_frexp"
+type = "double"
+
+[header]
+name = "_frexp"
+addr = 0x82fda9
+type = "double"
+
+[header.args]

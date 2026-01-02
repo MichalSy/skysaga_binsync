@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x489fb0
+size = 0x97
+name = "InventoryComponent::sub_88AFB0"
+type = "void"
+
+[header]
+name = "InventoryComponent::sub_88AFB0"
+addr = 0x489fb0
+type = "void"
+
+[header.args]

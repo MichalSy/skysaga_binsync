@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3e7d80
+size = 0x182
+name = "PerformAction::sub_7E8D80"
+type = "void"
+
+[header]
+name = "PerformAction::sub_7E8D80"
+addr = 0x3e7d80
+type = "void"
+
+[header.args]

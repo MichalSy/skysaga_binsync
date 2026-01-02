@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x37fde0
+size = 0x63
+name = "??0ServerDetails@@QAE@XZ"
+type = "ServerDetails *"
+
+[header]
+name = "??0ServerDetails@@QAE@XZ"
+addr = 0x37fde0
+type = "ServerDetails *"
+
+[header.args]

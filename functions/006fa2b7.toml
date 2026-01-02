@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6fa2b7
+size = 0x1
+name = "zerotoxdone"
+
+[header]
+name = "zerotoxdone"
+addr = 0x6fa2b7
+
+[header.args]

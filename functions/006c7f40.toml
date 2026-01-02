@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7f40
+size = 0x6
+name = "X509_check_issued"
+type = "int"
+
+[header]
+name = "X509_check_issued"
+addr = 0x6c7f40
+type = "int"
+
+[header.args]

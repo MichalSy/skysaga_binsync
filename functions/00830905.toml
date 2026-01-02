@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x830905
+size = 0x58
+name = "___crtGetEnvironmentStringsW"
+
+[header]
+name = "___crtGetEnvironmentStringsW"
+addr = 0x830905
+
+[header.args]

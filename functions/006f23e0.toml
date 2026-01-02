@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f23e0
+size = 0x22
+name = "_sscanf"
+type = "int"
+
+[header]
+name = "_sscanf"
+addr = 0x6f23e0
+type = "int"
+
+[header.args]

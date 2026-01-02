@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x708cd7
+size = 0xe7
+name = "?getPtrRefDataType@UnDecorator@@CA?AVDName@@ABV2@H@Z"
+
+[header]
+name = "?getPtrRefDataType@UnDecorator@@CA?AVDName@@ABV2@H@Z"
+addr = 0x708cd7
+
+[header.args]

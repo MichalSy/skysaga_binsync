@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f89db
+size = 0x3d
+name = "__mtterm"
+type = "int"
+
+[header]
+name = "__mtterm"
+addr = 0x6f89db
+type = "int"
+
+[header.args]

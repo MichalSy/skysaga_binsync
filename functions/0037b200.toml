@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x37b200
+size = 0x5
+name = "??1CharacterList@@QAE@XZ"
+type = "void"
+
+[header]
+name = "??1CharacterList@@QAE@XZ"
+addr = 0x37b200
+type = "void"
+
+[header.args]

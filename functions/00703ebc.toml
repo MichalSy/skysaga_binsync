@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x703ebc
+size = 0x115
+name = "__modf_default"
+type = "double"
+
+[header]
+name = "__modf_default"
+addr = 0x703ebc
+type = "double"
+
+[header.args]

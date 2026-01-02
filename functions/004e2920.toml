@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4e2920
+size = 0x12c
+name = "InventoryItemComponent_sub_8E3920"
+type = "char"
+
+[header]
+name = "InventoryItemComponent_sub_8E3920"
+addr = 0x4e2920
+type = "char"
+
+[header.args]

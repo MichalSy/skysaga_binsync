@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x443b20
+size = 0x25
+name = "??0ClientPhysicsComponent@@QAE@XZ"
+type = "ClientPhysicsComponent *"
+
+[header]
+name = "??0ClientPhysicsComponent@@QAE@XZ"
+addr = 0x443b20
+type = "ClientPhysicsComponent *"
+
+[header.args]

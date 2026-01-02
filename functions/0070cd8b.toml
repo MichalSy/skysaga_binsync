@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70cd8b
+size = 0x155
+name = "__wctomb_s_l"
+type = "errno_t"
+
+[header]
+name = "__wctomb_s_l"
+addr = 0x70cd8b
+type = "errno_t"
+
+[header.args]

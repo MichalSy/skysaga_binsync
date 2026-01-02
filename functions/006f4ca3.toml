@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4ca3
+size = 0x35
+name = "??4exception@std@@QAEAAV01@ABV01@@Z"
+type = "int"
+
+[header]
+name = "??4exception@std@@QAEAAV01@ABV01@@Z"
+addr = 0x6f4ca3
+type = "int"
+
+[header.args]

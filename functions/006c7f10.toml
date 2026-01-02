@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7f10
+size = 0x6
+name = "X509_EXTENSION_get_object"
+type = "int"
+
+[header]
+name = "X509_EXTENSION_get_object"
+addr = 0x6c7f10
+type = "int"
+
+[header.args]

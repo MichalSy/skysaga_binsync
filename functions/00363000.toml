@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x363000
+size = 0x6ae
+name = "??0unknown@world@pv@@QAE@XZ"
+type = "pv::world::unknown *"
+
+[header]
+name = "??0unknown@world@pv@@QAE@XZ"
+addr = 0x363000
+type = "pv::world::unknown *"
+
+[header.args]

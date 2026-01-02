@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f2a68
+size = 0x288
+name = "__localtime64_s"
+type = "errno_t"
+
+[header]
+name = "__localtime64_s"
+addr = 0x6f2a68
+type = "errno_t"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x516ec0
+size = 0x15d
+name = "PacketManager::sub_917EC0"
+type = "unsigned int"
+
+[header]
+name = "PacketManager::sub_917EC0"
+addr = 0x516ec0
+type = "unsigned int"
+
+[header.args]

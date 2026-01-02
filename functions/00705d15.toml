@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x705d15
+size = 0x38
+name = "?_inconsistency@@YAXXZ"
+type = "void"
+
+[header]
+name = "?_inconsistency@@YAXXZ"
+addr = 0x705d15
+type = "void"
+
+[header.args]

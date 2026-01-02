@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x60d3c0
+size = 0x3
+name = "nullsub_4050"
+
+[header]
+name = "nullsub_4050"
+addr = 0x60d3c0
+
+[header.args]

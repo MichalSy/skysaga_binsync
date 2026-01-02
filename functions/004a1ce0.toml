@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a1ce0
+size = 0x7b
+name = "??0Entity@@QAE@XZ"
+type = "Entity *"
+
+[header]
+name = "??0Entity@@QAE@XZ"
+addr = 0x4a1ce0
+type = "Entity *"
+
+[header.args]

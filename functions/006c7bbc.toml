@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7bbc
+size = 0x6
+name = "SSL_CTX_set_default_passwd_cb_userdata"
+type = "int"
+
+[header]
+name = "SSL_CTX_set_default_passwd_cb_userdata"
+addr = 0x6c7bbc
+type = "int"
+
+[header.args]

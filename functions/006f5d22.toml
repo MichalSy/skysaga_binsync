@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f5d22
+size = 0x56
+name = "__isgraph_l"
+type = "int"
+
+[header]
+name = "__isgraph_l"
+addr = 0x6f5d22
+type = "int"
+
+[header.args]

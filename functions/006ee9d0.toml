@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6ee9d0
+size = 0x14
+name = "__CIsqrt"
+
+[header]
+name = "__CIsqrt"
+addr = 0x6ee9d0
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x338940
+size = 0x4
+name = "Server::ClientEntitiesSyncFinished"
+type = "bool"
+
+[header]
+name = "Server::ClientEntitiesSyncFinished"
+addr = 0x338940
+type = "bool"
+
+[header.args]

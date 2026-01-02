@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x673140
+size = 0xa8
+name = "?AddBitsAndReallocate@BitStream@RakNet@@QAEXI@Z"
+type = "unsigned int"
+
+[header]
+name = "?AddBitsAndReallocate@BitStream@RakNet@@QAEXI@Z"
+addr = 0x673140
+type = "unsigned int"
+
+[header.args]

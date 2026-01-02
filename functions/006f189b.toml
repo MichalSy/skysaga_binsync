@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f189b
+size = 0x12
+name = "_srand"
+type = "void"
+
+[header]
+name = "_srand"
+addr = 0x6f189b
+type = "void"
+
+[header.args]

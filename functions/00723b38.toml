@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x723b38
+size = 0x6
+name = "__WSAFDIsSet"
+type = "int"
+
+[header]
+name = "__WSAFDIsSet"
+addr = 0x723b38
+type = "int"
+
+[header.args]

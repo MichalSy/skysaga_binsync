@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fa32e
+size = 0x43
+name = "__ffexpm1"
+
+[header]
+name = "__ffexpm1"
+addr = 0x6fa32e
+
+[header.args]

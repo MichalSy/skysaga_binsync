@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7c0a
+size = 0x6
+name = "ERR_free_strings"
+type = "int"
+
+[header]
+name = "ERR_free_strings"
+addr = 0x6c7c0a
+type = "int"
+
+[header.args]

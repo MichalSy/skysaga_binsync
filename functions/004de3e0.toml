@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4de3e0
+size = 0x2e
+name = "??0WalletComponent@@QAE@XZ"
+type = "WalletComponent *"
+
+[header]
+name = "??0WalletComponent@@QAE@XZ"
+addr = 0x4de3e0
+type = "WalletComponent *"
+
+[header.args]

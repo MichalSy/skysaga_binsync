@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7e3850
+size = 0x16
+name = "__fputchar"
+type = "int"
+
+[header]
+name = "__fputchar"
+addr = 0x7e3850
+type = "int"
+
+[header.args]

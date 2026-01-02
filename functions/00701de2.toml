@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x701de2
+size = 0x16
+name = "__inc"
+
+[header]
+name = "__inc"
+addr = 0x701de2
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fa311
+size = 0x10
+name = "__rtinfnpop"
+
+[header]
+name = "__rtinfnpop"
+addr = 0x6fa311
+
+[header.args]

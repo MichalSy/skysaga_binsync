@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4651a0
+size = 0x5a
+name = "GeoData::List::GetNode"
+type = "GeoData::ListNode *"
+
+[header]
+name = "GeoData::List::GetNode"
+addr = 0x4651a0
+type = "GeoData::ListNode *"
+
+[header.args]

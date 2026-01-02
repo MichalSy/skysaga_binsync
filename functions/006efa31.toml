@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6efa31
+size = 0xac
+name = "__snprintf"
+type = "int"
+
+[header]
+name = "__snprintf"
+addr = 0x6efa31
+type = "int"
+
+[header.args]

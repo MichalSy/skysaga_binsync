@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7077e7
+size = 0x1d
+name = "?getString@pcharNode@@UBEPADPAD0@Z"
+type = "char *"
+
+[header]
+name = "?getString@pcharNode@@UBEPADPAD0@Z"
+addr = 0x7077e7
+type = "char *"
+
+[header.args]

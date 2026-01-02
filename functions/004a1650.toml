@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a1650
+size = 0x54
+name = "Entity::sub_8A2650"
+type = "Entity::Parameter *"
+
+[header]
+name = "Entity::sub_8A2650"
+addr = 0x4a1650
+type = "Entity::Parameter *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70564a
+size = 0x92
+name = "___BuildCatchObject"
+type = "int"
+
+[header]
+name = "___BuildCatchObject"
+addr = 0x70564a
+type = "int"
+
+[header.args]

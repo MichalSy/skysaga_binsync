@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x830573
+size = 0x120
+name = "__wcsnicoll_l"
+type = "int"
+
+[header]
+name = "__wcsnicoll_l"
+addr = 0x830573
+type = "int"
+
+[header.args]

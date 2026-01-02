@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4e75b0
+size = 0x277
+name = "pv::component_list::Add_MovingTransformComponentComponent"
+type = "void"
+
+[header]
+name = "pv::component_list::Add_MovingTransformComponentComponent"
+addr = 0x4e75b0
+type = "void"
+
+[header.args]

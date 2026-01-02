@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7074fe
+size = 0x3a
+name = "?getThisType@UnDecorator@@CA?AVDName@@XZ"
+
+[header]
+name = "?getThisType@UnDecorator@@CA?AVDName@@XZ"
+addr = 0x7074fe
+
+[header.args]

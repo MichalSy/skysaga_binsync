@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x723b44
+size = 0x6
+name = "GetProcessMemoryInfo"
+type = "int"
+
+[header]
+name = "GetProcessMemoryInfo"
+addr = 0x723b44
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x675a20
+size = 0x86
+name = "?GetRemoteSystemFromGUID@RakPeer@RakNet@@IBEPAURemoteSystemStruct@12@URakNetGUID@2@_N@Z"
+type = "int"
+
+[header]
+name = "?GetRemoteSystemFromGUID@RakPeer@RakNet@@IBEPAURemoteSystemStruct@12@URakNetGUID@2@_N@Z"
+addr = 0x675a20
+type = "int"
+
+[header.args]

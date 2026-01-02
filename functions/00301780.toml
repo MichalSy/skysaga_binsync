@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x301780
+size = 0x50
+name = "??0ItemSpec@@QAE@XZ"
+type = "ItemSpec *"
+
+[header]
+name = "??0ItemSpec@@QAE@XZ"
+addr = 0x301780
+type = "ItemSpec *"
+
+[header.args]

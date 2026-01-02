@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x708388
+size = 0x1c8
+name = "?getExtendedDataIndirectType@UnDecorator@@CA?AVDName@@AAPBDAA_NH@Z"
+
+[header]
+name = "?getExtendedDataIndirectType@UnDecorator@@CA?AVDName@@AAPBDAA_NH@Z"
+addr = 0x708388
+
+[header.args]

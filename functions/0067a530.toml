@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x67a530
+size = 0x27
+name = "??$OP_NEW@VRakPeer@RakNet@@@RakNet@@YAPAVRakPeer@0@PBDI@Z"
+type = "char *"
+
+[header]
+name = "??$OP_NEW@VRakPeer@RakNet@@@RakNet@@YAPAVRakPeer@0@PBDI@Z"
+addr = 0x67a530
+type = "char *"
+
+[header.args]

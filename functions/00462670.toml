@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x462670
+size = 0x5a4
+name = "GeoData::sub_863670"
+type = "int"
+
+[header]
+name = "GeoData::sub_863670"
+addr = 0x462670
+type = "int"
+
+[header.args]

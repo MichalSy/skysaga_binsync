@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4cdbe0
+size = 0x10
+name = "??0_ReaderWriterLock@details@Concurrency@@QAE@XZ_2"
+type = "unsigned int"
+
+[header]
+name = "??0_ReaderWriterLock@details@Concurrency@@QAE@XZ_2"
+addr = 0x4cdbe0
+type = "unsigned int"
+
+[header.args]

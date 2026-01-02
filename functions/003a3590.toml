@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3a3590
+size = 0x76
+name = "EntityInstance::GetWalletComponent"
+type = "WalletComponent *"
+
+[header]
+name = "EntityInstance::GetWalletComponent"
+addr = 0x3a3590
+type = "WalletComponent *"
+
+[header.args]

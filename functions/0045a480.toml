@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x45a480
+size = 0x25
+name = "GeoData::GetBiome"
+type = "void *"
+
+[header]
+name = "GeoData::GetBiome"
+addr = 0x45a480
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x706c05
+size = 0x6e
+name = "__recalloc"
+type = "void *"
+
+[header]
+name = "__recalloc"
+addr = 0x706c05
+type = "void *"
+
+[header.args]

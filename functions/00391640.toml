@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x391640
+size = 0x8e
+name = "ClientEquippedItemComponent::sub_792640"
+type = "void"
+
+[header]
+name = "ClientEquippedItemComponent::sub_792640"
+addr = 0x391640
+type = "void"
+
+[header.args]

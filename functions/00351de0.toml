@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x351de0
+size = 0x3b
+name = "ClientHealthComponent::sub_752DE0"
+type = "unsigned int *"
+
+[header]
+name = "ClientHealthComponent::sub_752DE0"
+addr = 0x351de0
+type = "unsigned int *"
+
+[header.args]

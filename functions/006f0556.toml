@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f0556
+size = 0x3a
+name = "_free"
+type = "void"
+
+[header]
+name = "_free"
+addr = 0x6f0556
+type = "void"
+
+[header.args]

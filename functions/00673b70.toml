@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x673b70
+size = 0x57
+name = "NumOfBitsRequired_int_"
+type = "int"
+
+[header]
+name = "NumOfBitsRequired_int_"
+addr = 0x673b70
+type = "int"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f898a
+size = 0x34
+name = "___set_flsgetvalue"
+
+[header]
+name = "___set_flsgetvalue"
+addr = 0x6f898a
+
+[header.args]

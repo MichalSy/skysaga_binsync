@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x707dde
+size = 0x106
+name = "?getArgumentList@UnDecorator@@CA?AVDName@@XZ"
+
+[header]
+name = "?getArgumentList@UnDecorator@@CA?AVDName@@XZ"
+addr = 0x707dde
+
+[header.args]

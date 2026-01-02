@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x711f54
+size = 0x187
+name = "__fputwc_nolock"
+type = "wint_t"
+
+[header]
+name = "__fputwc_nolock"
+addr = 0x711f54
+type = "wint_t"
+
+[header.args]

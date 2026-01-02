@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4c13a0
+size = 0x76
+name = "EntityInstance::GetTreeComponent"
+type = "TreeComponent *"
+
+[header]
+name = "EntityInstance::GetTreeComponent"
+addr = 0x4c13a0
+type = "TreeComponent *"
+
+[header.args]

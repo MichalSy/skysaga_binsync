@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x704981
+size = 0x2a
+name = "__vswprintf_c_l"
+type = "int"
+
+[header]
+name = "__vswprintf_c_l"
+addr = 0x704981
+type = "int"
+
+[header.args]

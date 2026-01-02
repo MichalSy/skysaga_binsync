@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4bd320
+size = 0xf
+name = "pv::world::sub_8BE320"
+type = "void"
+
+[header]
+name = "pv::world::sub_8BE320"
+addr = 0x4bd320
+type = "void"
+
+[header.args]

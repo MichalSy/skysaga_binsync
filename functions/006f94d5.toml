@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f94d5
+size = 0x14
+name = "__check_overflow_exit"
+
+[header]
+name = "__check_overflow_exit"
+addr = 0x6f94d5
+
+[header.args]

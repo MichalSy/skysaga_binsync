@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6ef227
+size = 0x17
+name = "_fopen"
+type = "FILE *"
+
+[header]
+name = "_fopen"
+addr = 0x6ef227
+type = "FILE *"
+
+[header.args]

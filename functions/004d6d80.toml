@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4d6d80
+size = 0x3b
+name = "BreatheComponent::OnEvent"
+type = "void"
+
+[header]
+name = "BreatheComponent::OnEvent"
+addr = 0x4d6d80
+type = "void"
+
+[header.args]

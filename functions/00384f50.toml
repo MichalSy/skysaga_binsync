@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x384f50
+size = 0x342
+name = "GameState::ReadyToPlay::Update"
+type = "void"
+
+[header]
+name = "GameState::ReadyToPlay::Update"
+addr = 0x384f50
+type = "void"
+
+[header.args]

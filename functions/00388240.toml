@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x388240
+size = 0x39
+name = "FrontEndState::UserLoginPage::Entered"
+type = "void"
+
+[header]
+name = "FrontEndState::UserLoginPage::Entered"
+addr = 0x388240
+type = "void"
+
+[header.args]

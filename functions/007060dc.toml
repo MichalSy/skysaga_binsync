@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7060dc
+size = 0x86
+name = "__free_osfhnd"
+
+[header]
+name = "__free_osfhnd"
+addr = 0x7060dc
+
+[header.args]

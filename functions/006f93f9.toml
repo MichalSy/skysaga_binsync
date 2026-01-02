@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f93f9
+size = 0x1
+name = "chsifnegret"
+
+[header]
+name = "chsifnegret"
+addr = 0x6f93f9
+
+[header.args]

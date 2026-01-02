@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x38b6c0
+size = 0x5
+name = "j_nullsub_5354_8"
+
+[header]
+name = "j_nullsub_5354_8"
+addr = 0x38b6c0
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x703c7b
+size = 0x13
+name = "__mbctolower"
+type = "unsigned int"
+
+[header]
+name = "__mbctolower"
+addr = 0x703c7b
+type = "unsigned int"
+
+[header.args]

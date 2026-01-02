@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f74e8
+size = 0x106
+name = "___report_gsfailure"
+type = "void"
+
+[header]
+name = "___report_gsfailure"
+addr = 0x6f74e8
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x5dda80
+size = 0x1
+name = "nullsub_3652"
+
+[header]
+name = "nullsub_3652"
+addr = 0x5dda80
+
+[header.args]

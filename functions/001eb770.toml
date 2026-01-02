@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x1eb770
+size = 0xf
+name = "?_Get_future_error_what@std@@YAPBDH@Z"
+type = "const char *"
+
+[header]
+name = "?_Get_future_error_what@std@@YAPBDH@Z"
+addr = 0x1eb770
+type = "const char *"
+
+[header.args]

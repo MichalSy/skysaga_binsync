@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4c0390
+size = 0x5d
+name = "??0UnknownStruct4@@UAE@XZ"
+type = "UnknownStruct4 *"
+
+[header]
+name = "??0UnknownStruct4@@UAE@XZ"
+addr = 0x4c0390
+type = "UnknownStruct4 *"
+
+[header.args]

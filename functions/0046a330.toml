@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x46a330
+size = 0x4
+name = "InventoryComponent::sub_86B330"
+type = "InventoryComponent::ParameterData *"
+
+[header]
+name = "InventoryComponent::sub_86B330"
+addr = 0x46a330
+type = "InventoryComponent::ParameterData *"
+
+[header.args]

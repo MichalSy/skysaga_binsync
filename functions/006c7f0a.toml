@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7f0a
+size = 0x6
+name = "X509_EXTENSION_get_critical"
+type = "int"
+
+[header]
+name = "X509_EXTENSION_get_critical"
+addr = 0x6c7f0a
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x384e70
+size = 0x12
+name = "??0ReadyToPlay@GameState@@QAE@XZ"
+type = "GameState::ReadyToPlay *"
+
+[header]
+name = "??0ReadyToPlay@GameState@@QAE@XZ"
+addr = 0x384e70
+type = "GameState::ReadyToPlay *"
+
+[header.args]

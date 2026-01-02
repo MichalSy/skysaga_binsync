@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6edd0e
+size = 0x17
+name = "_atexit"
+type = "int"
+
+[header]
+name = "_atexit"
+addr = 0x6edd0e
+type = "int"
+
+[header.args]

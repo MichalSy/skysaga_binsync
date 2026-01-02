@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x380ad0
+size = 0x19
+name = "??0Idle@GameState@@QAE@XZ"
+type = "GameState::Idle *"
+
+[header]
+name = "??0Idle@GameState@@QAE@XZ"
+addr = 0x380ad0
+type = "GameState::Idle *"
+
+[header.args]

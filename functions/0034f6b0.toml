@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x34f6b0
+size = 0x27
+name = "pv::userinterface::client::UserInterfaceService::sub_7506B0"
+type = "int *"
+
+[header]
+name = "pv::userinterface::client::UserInterfaceService::sub_7506B0"
+addr = 0x34f6b0
+type = "int *"
+
+[header.args]

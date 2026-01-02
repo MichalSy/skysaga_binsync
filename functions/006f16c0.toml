@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f16c0
+size = 0xbe
+name = "_strchr"
+type = "char *"
+
+[header]
+name = "_strchr"
+addr = 0x6f16c0
+type = "char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f03e4
+size = 0x41
+name = "__lock_file"
+type = "void"
+
+[header]
+name = "__lock_file"
+addr = 0x6f03e4
+type = "void"
+
+[header.args]

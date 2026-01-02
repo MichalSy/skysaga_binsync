@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x50d2d0
+size = 0x7a
+name = "PhysicalPropertiesComponent_sub_90E2D0"
+type = "char"
+
+[header]
+name = "PhysicalPropertiesComponent_sub_90E2D0"
+addr = 0x50d2d0
+type = "char"
+
+[header.args]

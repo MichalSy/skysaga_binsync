@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x475260
+size = 0x10f
+name = "EntityInstance::sub_876260"
+type = "unsigned int *"
+
+[header]
+name = "EntityInstance::sub_876260"
+addr = 0x475260
+type = "unsigned int *"
+
+[header.args]

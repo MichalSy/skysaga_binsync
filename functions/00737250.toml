@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x737250
+size = 0x8f
+name = "str_dump"
+type = "int"
+
+[header]
+name = "str_dump"
+addr = 0x737250
+type = "int"
+
+[header.args]

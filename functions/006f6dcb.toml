@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f6dcb
+size = 0x376
+name = "__cftoa_l"
+type = "int"
+
+[header]
+name = "__cftoa_l"
+addr = 0x6f6dcb
+type = "int"
+
+[header.args]

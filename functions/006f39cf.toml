@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f39cf
+size = 0xb2
+name = "__wcstombs_s_l"
+type = "errno_t"
+
+[header]
+name = "__wcstombs_s_l"
+addr = 0x6f39cf
+type = "errno_t"
+
+[header.args]

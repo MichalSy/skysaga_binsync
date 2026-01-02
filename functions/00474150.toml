@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x474150
+size = 0x10
+name = "??0ComponentReference@@QAE@XZ"
+type = "ComponentReference *"
+
+[header]
+name = "??0ComponentReference@@QAE@XZ"
+addr = 0x474150
+type = "ComponentReference *"
+
+[header.args]

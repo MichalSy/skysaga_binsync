@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3a5920
+size = 0xd
+name = "?MarkAsVirtualProcessorRoot@ExecutionResource@details@Concurrency@@QAEXPAVVirtualProcessorRoot@23@@Z"
+type = "void"
+
+[header]
+name = "?MarkAsVirtualProcessorRoot@ExecutionResource@details@Concurrency@@QAEXPAVVirtualProcessorRoot@23@@Z"
+addr = 0x3a5920
+type = "void"
+
+[header.args]

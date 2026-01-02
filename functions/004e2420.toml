@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4e2420
+size = 0x12c
+name = "TransformComponent::GetParameterIndexFromName"
+type = "char"
+
+[header]
+name = "TransformComponent::GetParameterIndexFromName"
+addr = 0x4e2420
+type = "char"
+
+[header.args]

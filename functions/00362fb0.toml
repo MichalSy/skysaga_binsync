@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x362fb0
+size = 0x42
+name = "pv::world::unknown::GetChunkAtCoords"
+type = "Chunk *"
+
+[header]
+name = "pv::world::unknown::GetChunkAtCoords"
+addr = 0x362fb0
+type = "Chunk *"
+
+[header.args]

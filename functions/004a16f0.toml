@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a16f0
+size = 0x7d
+name = "Entity::sub_8A26F0"
+type = "void"
+
+[header]
+name = "Entity::sub_8A26F0"
+addr = 0x4a16f0
+type = "void"
+
+[header.args]

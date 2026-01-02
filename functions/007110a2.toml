@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7110a2
+size = 0x60
+name = "_copy_environ"
+
+[header]
+name = "_copy_environ"
+addr = 0x7110a2
+
+[header.args]

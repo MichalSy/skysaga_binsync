@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x702f1d
+size = 0xbd
+name = "___dtoxmode"
+type = "int"
+
+[header]
+name = "___dtoxmode"
+addr = 0x702f1d
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x673620
+size = 0x14
+name = "?IgnoreBytes@BitStream@RakNet@@QAEXI@Z"
+type = "void"
+
+[header]
+name = "?IgnoreBytes@BitStream@RakNet@@QAEXI@Z"
+addr = 0x673620
+type = "void"
+
+[header.args]

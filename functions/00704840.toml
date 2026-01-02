@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x704840
+size = 0x38
+name = "__isleadbyte_l"
+type = "int"
+
+[header]
+name = "__isleadbyte_l"
+addr = 0x704840
+type = "int"
+
+[header.args]

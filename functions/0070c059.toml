@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70c059
+size = 0x79
+name = "?getExternalDataType@UnDecorator@@CA?AVDName@@ABV2@@Z"
+
+[header]
+name = "?getExternalDataType@UnDecorator@@CA?AVDName@@ABV2@@Z"
+addr = 0x70c059
+
+[header.args]

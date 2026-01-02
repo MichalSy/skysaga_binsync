@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x488860
+size = 0xe5
+name = "HealthComponent::ParameterData::Write"
+type = "char"
+
+[header]
+name = "HealthComponent::ParameterData::Write"
+addr = 0x488860
+type = "char"
+
+[header.args]

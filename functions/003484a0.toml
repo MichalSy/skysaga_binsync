@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3484a0
+size = 0x163
+name = "??0ModeHomeWorld@@QAE@XZ"
+type = "ModeHomeWorld *"
+
+[header]
+name = "??0ModeHomeWorld@@QAE@XZ"
+addr = 0x3484a0
+type = "ModeHomeWorld *"
+
+[header.args]

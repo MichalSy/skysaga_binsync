@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x850100
+size = 0xb
+name = "??1CClient@@QAE@XZ"
+type = "void"
+
+[header]
+name = "??1CClient@@QAE@XZ"
+addr = 0x850100
+type = "void"
+
+[header.args]

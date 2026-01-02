@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4bd8b0
+size = 0x2e8
+name = "pv::world::sub_8BE8B0"
+type = "unsigned int *"
+
+[header]
+name = "pv::world::sub_8BE8B0"
+addr = 0x4bd8b0
+type = "unsigned int *"
+
+[header.args]

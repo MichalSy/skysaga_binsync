@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3f0f40
+size = 0x3b
+name = "??0ClientFeatureUnlockComponent@@QAE@XZ"
+type = "ClientFeatureUnlockComponent *"
+
+[header]
+name = "??0ClientFeatureUnlockComponent@@QAE@XZ"
+addr = 0x3f0f40
+type = "ClientFeatureUnlockComponent *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f5c16
+size = 0x56
+name = "__isalnum_l"
+type = "int"
+
+[header]
+name = "__isalnum_l"
+addr = 0x6f5c16
+type = "int"
+
+[header.args]

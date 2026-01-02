@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x674b70
+size = 0x8
+name = "?Unlock@SimpleMutex@RakNet@@QAEXXZ"
+type = "void"
+
+[header]
+name = "?Unlock@SimpleMutex@RakNet@@QAEXXZ"
+addr = 0x674b70
+type = "void"
+
+[header.args]

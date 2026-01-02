@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x517190
+size = 0xe9
+name = "PacketManager::sub_918190"
+type = "void"
+
+[header]
+name = "PacketManager::sub_918190"
+addr = 0x517190
+type = "void"
+
+[header.args]

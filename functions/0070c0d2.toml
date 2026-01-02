@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70c0d2
+size = 0x53
+name = "?x_ismbbtype_l@@YAHPAUlocaleinfo_struct@@IHH@Z"
+type = "int"
+
+[header]
+name = "?x_ismbbtype_l@@YAHPAUlocaleinfo_struct@@IHH@Z"
+addr = 0x70c0d2
+type = "int"
+
+[header.args]

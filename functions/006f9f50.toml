@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f9f50
+size = 0x18
+name = "__CIlog10_pentium4"
+
+[header]
+name = "__CIlog10_pentium4"
+addr = 0x6f9f50
+
+[header.args]

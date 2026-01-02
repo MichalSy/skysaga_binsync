@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x704da2
+size = 0xd6
+name = "_wcsncat_s"
+type = "errno_t"
+
+[header]
+name = "_wcsncat_s"
+addr = 0x704da2
+type = "errno_t"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x406cc0
+size = 0x12c
+name = "ClientPickupComponent_sub_807CC0"
+type = "char"
+
+[header]
+name = "ClientPickupComponent_sub_807CC0"
+addr = 0x406cc0
+type = "char"
+
+[header.args]

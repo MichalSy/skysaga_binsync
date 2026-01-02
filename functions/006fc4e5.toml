@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fc4e5
+size = 0x1f
+name = "__NLG_Notify"
+
+[header]
+name = "__NLG_Notify"
+addr = 0x6fc4e5
+
+[header.args]

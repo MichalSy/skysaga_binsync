@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x1e5c10
+size = 0x2d2
+name = "CommandLineMgr::sub_5E6C10"
+type = "void"
+
+[header]
+name = "CommandLineMgr::sub_5E6C10"
+addr = 0x1e5c10
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x5b96c0
+size = 0x9f
+name = "CreateEntity"
+type = "EntityInstance *"
+
+[header]
+name = "CreateEntity"
+addr = 0x5b96c0
+type = "EntityInstance *"
+
+[header.args]

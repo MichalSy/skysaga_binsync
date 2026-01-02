@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6d9580
+size = 0x10
+name = "?UNSAFE_SetVirtualProcessor@InternalContextBase@details@Concurrency@@IAEXPAVVirtualProcessor@23@@Z"
+type = "void"
+
+[header]
+name = "?UNSAFE_SetVirtualProcessor@InternalContextBase@details@Concurrency@@IAEXPAVVirtualProcessor@23@@Z"
+addr = 0x6d9580
+type = "void"
+
+[header.args]

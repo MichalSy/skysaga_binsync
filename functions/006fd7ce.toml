@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fd7ce
+size = 0x33
+name = "__lock"
+
+[header]
+name = "__lock"
+addr = 0x6fd7ce
+
+[header.args]

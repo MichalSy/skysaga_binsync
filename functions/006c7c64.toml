@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7c64
+size = 0x6
+name = "CRYPTO_malloc"
+type = "int"
+
+[header]
+name = "CRYPTO_malloc"
+addr = 0x6c7c64
+type = "int"
+
+[header.args]

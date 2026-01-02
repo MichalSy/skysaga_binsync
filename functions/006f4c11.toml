@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4c11
+size = 0xd
+name = "?what@exception@@UBEPBDXZ_0"
+type = "const char *"
+
+[header]
+name = "?what@exception@@UBEPBDXZ_0"
+addr = 0x6f4c11
+type = "const char *"
+
+[header.args]

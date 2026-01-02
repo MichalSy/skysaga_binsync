@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a0e10
+size = 0x76
+name = "??0component_manager@pv@@QAE@XZ"
+type = "pv::component_manager *"
+
+[header]
+name = "??0component_manager@pv@@QAE@XZ"
+addr = 0x4a0e10
+type = "pv::component_manager *"
+
+[header.args]

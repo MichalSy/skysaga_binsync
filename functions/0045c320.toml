@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x45c320
+size = 0x140
+name = "GeoData::ParseAdventures"
+type = "char"
+
+[header]
+name = "GeoData::ParseAdventures"
+addr = 0x45c320
+type = "char"
+
+[header.args]

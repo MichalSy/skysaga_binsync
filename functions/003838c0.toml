@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3838c0
+size = 0x453
+name = "GameState::Gameplay::Entered"
+type = "void"
+
+[header]
+name = "GameState::Gameplay::Entered"
+addr = 0x3838c0
+type = "void"
+
+[header.args]

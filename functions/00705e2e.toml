@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x705e2e
+size = 0x1e7
+name = "?__crtLCMapStringA_stat@@YAHPAUlocaleinfo_struct@@KKPBDHPADHHH@Z"
+type = "int"
+
+[header]
+name = "?__crtLCMapStringA_stat@@YAHPAUlocaleinfo_struct@@KKPBDHPADHHH@Z"
+addr = 0x705e2e
+type = "int"
+
+[header.args]

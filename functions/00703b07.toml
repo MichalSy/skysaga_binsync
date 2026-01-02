@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x703b07
+size = 0xce
+name = "__getdrive"
+type = "int"
+
+[header]
+name = "__getdrive"
+addr = 0x703b07
+type = "int"
+
+[header.args]

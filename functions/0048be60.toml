@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x48be60
+size = 0x48
+name = "InventoryComponent::sub_88CE60"
+type = "unsigned int *"
+
+[header]
+name = "InventoryComponent::sub_88CE60"
+addr = 0x48be60
+type = "unsigned int *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x674730
+size = 0xa3
+name = "?GetTimeUS@RakNet@@YA_KXZ"
+type = "unsigned long long"
+
+[header]
+name = "?GetTimeUS@RakNet@@YA_KXZ"
+addr = 0x674730
+type = "unsigned long long"
+
+[header.args]

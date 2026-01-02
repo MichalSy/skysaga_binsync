@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x723b1a
+size = 0x6
+name = "D3DXLoadSurfaceFromMemory"
+type = "int"
+
+[header]
+name = "D3DXLoadSurfaceFromMemory"
+addr = 0x723b1a
+type = "int"
+
+[header.args]

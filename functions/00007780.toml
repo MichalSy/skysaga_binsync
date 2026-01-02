@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x7780
+size = 0x7f
+name = "CClient::sub_408780"
+type = "void"
+
+[header]
+name = "CClient::sub_408780"
+addr = 0x7780
+type = "void"
+
+[header.args]

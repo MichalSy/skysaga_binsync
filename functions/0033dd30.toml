@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x33dd30
+size = 0x182
+name = "RPCBeginSync::ReadPacket"
+type = "void"
+
+[header]
+name = "RPCBeginSync::ReadPacket"
+addr = 0x33dd30
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4e7150
+size = 0x204
+name = "pv::component_list::Add_TransformComponent"
+type = "void"
+
+[header]
+name = "pv::component_list::Add_TransformComponent"
+addr = 0x4e7150
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x706d0c
+size = 0x4c0
+name = "?getTypeEncoding@UnDecorator@@CAHXZ"
+type = "int"
+
+[header]
+name = "?getTypeEncoding@UnDecorator@@CAHXZ"
+addr = 0x706d0c
+type = "int"
+
+[header.args]

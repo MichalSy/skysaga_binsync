@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4bfd50
+size = 0x9c
+name = "??$Read@_K@BitStream@RakNet@@QAE_NAA_K@Z"
+type = "bool"
+
+[header]
+name = "??$Read@_K@BitStream@RakNet@@QAE_NAA_K@Z"
+addr = 0x4bfd50
+type = "bool"
+
+[header.args]

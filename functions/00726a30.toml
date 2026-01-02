@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x726a30
+size = 0x69
+name = "_luaD_seterrorobj"
+type = "int"
+
+[header]
+name = "_luaD_seterrorobj"
+addr = 0x726a30
+type = "int"
+
+[header.args]

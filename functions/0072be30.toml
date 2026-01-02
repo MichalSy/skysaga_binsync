@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x72be30
+size = 0x2a
+name = "luaC_step"
+type = "int"
+
+[header]
+name = "luaC_step"
+addr = 0x72be30
+type = "int"
+
+[header.args]

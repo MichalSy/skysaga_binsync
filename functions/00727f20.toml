@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x727f20
+size = 0x83
+name = "_luaL_where"
+type = "int"
+
+[header]
+name = "_luaL_where"
+addr = 0x727f20
+type = "int"
+
+[header.args]

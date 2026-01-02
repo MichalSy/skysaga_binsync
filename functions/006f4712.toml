@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4712
+size = 0xe2
+name = "__strnicmp_l"
+type = "int"
+
+[header]
+name = "__strnicmp_l"
+addr = 0x6f4712
+type = "int"
+
+[header.args]

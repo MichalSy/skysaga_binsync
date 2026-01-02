@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70ccec
+size = 0x49
+name = "__getbuf"
+
+[header]
+name = "__getbuf"
+addr = 0x70ccec
+
+[header.args]

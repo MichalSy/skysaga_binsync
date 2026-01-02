@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7b8c
+size = 0x6
+name = "SSL_get_privatekey"
+type = "int"
+
+[header]
+name = "SSL_get_privatekey"
+addr = 0x6c7b8c
+type = "int"
+
+[header.args]

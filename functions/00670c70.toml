@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x670c70
+size = 0x50
+name = "?Assign@RakString@RakNet@@IAEXPBD@Z"
+type = "void"
+
+[header]
+name = "?Assign@RakString@RakNet@@IAEXPBD@Z"
+addr = 0x670c70
+type = "void"
+
+[header.args]

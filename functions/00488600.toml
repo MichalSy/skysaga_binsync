@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x488600
+size = 0x54
+name = "HealthComponent::sub_889600"
+type = "unsigned int *"
+
+[header]
+name = "HealthComponent::sub_889600"
+addr = 0x488600
+type = "unsigned int *"
+
+[header.args]

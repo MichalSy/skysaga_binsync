@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f2410
+size = 0x18f
+name = "__except_handler4"
+type = "int"
+
+[header]
+name = "__except_handler4"
+addr = 0x6f2410
+type = "int"
+
+[header.args]

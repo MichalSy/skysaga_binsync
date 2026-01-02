@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x388b20
+size = 0x90
+name = "FrontEndState::DownloadCharacter::Entered"
+type = "void"
+
+[header]
+name = "FrontEndState::DownloadCharacter::Entered"
+addr = 0x388b20
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f60e9
+size = 0x6a
+name = "_strerror"
+type = "char *"
+
+[header]
+name = "_strerror"
+addr = 0x6f60e9
+type = "char *"
+
+[header.args]

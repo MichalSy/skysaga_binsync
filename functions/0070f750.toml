@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70f750
+size = 0x40
+name = "_strpbrk"
+type = "char *"
+
+[header]
+name = "_strpbrk"
+addr = 0x70f750
+type = "char *"
+
+[header.args]

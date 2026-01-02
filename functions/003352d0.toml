@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3352d0
+size = 0xbd
+name = "ServiceManager::AddAnalyticsService"
+type = "void"
+
+[header]
+name = "ServiceManager::AddAnalyticsService"
+addr = 0x3352d0
+type = "void"
+
+[header.args]

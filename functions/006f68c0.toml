@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f68c0
+size = 0x4f
+name = "__CIlog"
+
+[header]
+name = "__CIlog"
+addr = 0x6f68c0
+
+[header.args]

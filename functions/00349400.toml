@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x349400
+size = 0x5c
+name = "PacketManager::sub_74A400"
+type = "int"
+
+[header]
+name = "PacketManager::sub_74A400"
+addr = 0x349400
+type = "int"
+
+[header.args]

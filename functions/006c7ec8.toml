@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7ec8
+size = 0x6
+name = "SSLv3_client_method"
+type = "int"
+
+[header]
+name = "SSLv3_client_method"
+addr = 0x6c7ec8
+type = "int"
+
+[header.args]

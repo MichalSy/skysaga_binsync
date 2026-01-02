@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x469260
+size = 0x1a3
+name = "Chunk::Unknown::sub_86A260"
+type = "void"
+
+[header]
+name = "Chunk::Unknown::sub_86A260"
+addr = 0x469260
+type = "void"
+
+[header.args]

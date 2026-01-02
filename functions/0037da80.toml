@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x37da80
+size = 0x3a
+name = "json_value::sub_77EA80"
+type = "int"
+
+[header]
+name = "json_value::sub_77EA80"
+addr = 0x37da80
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x511940
+size = 0x275
+name = "??0EquippedAction@EquippedItemComponent@@UAE@XZ"
+type = "EquippedItemComponent::EquippedAction *"
+
+[header]
+name = "??0EquippedAction@EquippedItemComponent@@UAE@XZ"
+addr = 0x511940
+type = "EquippedItemComponent::EquippedAction *"
+
+[header.args]

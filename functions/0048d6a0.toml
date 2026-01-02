@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x48d6a0
+size = 0x69
+name = "ChunkList::sub_88E6A0"
+type = "void"
+
+[header]
+name = "ChunkList::sub_88E6A0"
+addr = 0x48d6a0
+type = "void"
+
+[header.args]

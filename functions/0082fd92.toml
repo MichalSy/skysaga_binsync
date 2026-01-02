@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x82fd92
+size = 0x17
+name = "_strcoll"
+type = "int"
+
+[header]
+name = "_strcoll"
+addr = 0x82fd92
+type = "int"
+
+[header.args]

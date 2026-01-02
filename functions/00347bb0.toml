@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x347bb0
+size = 0xd8
+name = "ModeHomeWorld::sub_748BB0"
+type = "int"
+
+[header]
+name = "ModeHomeWorld::sub_748BB0"
+addr = 0x347bb0
+type = "int"
+
+[header.args]

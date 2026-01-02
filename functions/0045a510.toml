@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x45a510
+size = 0x34
+name = "GeoData::GetResource"
+type = "BaseResourceInstance **"
+
+[header]
+name = "GeoData::GetResource"
+addr = 0x45a510
+type = "BaseResourceInstance **"
+
+[header.args]

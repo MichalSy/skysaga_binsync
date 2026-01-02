@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x706162
+size = 0x69
+name = "__get_osfhandle"
+type = "intptr_t"
+
+[header]
+name = "__get_osfhandle"
+addr = 0x706162
+type = "intptr_t"
+
+[header.args]

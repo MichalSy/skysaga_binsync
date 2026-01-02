@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x45a950
+size = 0x2b
+name = "GeoData::GetAdventureByNameCRC"
+type = "int"
+
+[header]
+name = "GeoData::GetAdventureByNameCRC"
+addr = 0x45a950
+type = "int"
+
+[header.args]

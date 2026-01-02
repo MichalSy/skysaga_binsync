@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70c9e3
+size = 0xda
+name = "__except2"
+
+[header]
+name = "__except2"
+addr = 0x70c9e3
+
+[header.args]

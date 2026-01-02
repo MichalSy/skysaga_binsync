@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6ef71c
+size = 0x315
+name = "__controlfp"
+type = "unsigned int"
+
+[header]
+name = "__controlfp"
+addr = 0x6ef71c
+type = "unsigned int"
+
+[header.args]

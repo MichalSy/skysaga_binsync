@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x673c40
+size = 0x63
+name = "?Write@BitStream@RakNet@@QAEXPBDI@Z"
+type = "size_t"
+
+[header]
+name = "?Write@BitStream@RakNet@@QAEXPBDI@Z"
+addr = 0x673c40
+type = "size_t"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f4084
+size = 0x1e
+name = "_swprintf"
+type = "int"
+
+[header]
+name = "_swprintf"
+addr = 0x6f4084
+type = "int"
+
+[header.args]

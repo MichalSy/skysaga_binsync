@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x476960
+size = 0x12
+name = "EntityInstance::sub_877960"
+type = "int"
+
+[header]
+name = "EntityInstance::sub_877960"
+addr = 0x476960
+type = "int"
+
+[header.args]

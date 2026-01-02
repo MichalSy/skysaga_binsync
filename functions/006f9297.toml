@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f9297
+size = 0x8c
+name = "__trandisp2"
+
+[header]
+name = "__trandisp2"
+addr = 0x6f9297
+
+[header.args]

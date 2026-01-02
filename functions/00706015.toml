@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x706015
+size = 0x46
+name = "___crtLCMapStringA"
+type = "int"
+
+[header]
+name = "___crtLCMapStringA"
+addr = 0x706015
+type = "int"
+
+[header.args]

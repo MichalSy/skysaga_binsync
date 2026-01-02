@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7c3a
+size = 0x6
+name = "ERR_get_error"
+type = "int"
+
+[header]
+name = "ERR_get_error"
+addr = 0x6c7c3a
+type = "int"
+
+[header.args]

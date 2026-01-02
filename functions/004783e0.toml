@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4783e0
+size = 0x95
+name = "pv::entity_manager::sub_8793E0"
+type = "int"
+
+[header]
+name = "pv::entity_manager::sub_8793E0"
+addr = 0x4783e0
+type = "int"
+
+[header.args]

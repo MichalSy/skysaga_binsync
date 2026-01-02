@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7eda
+size = 0x6
+name = "SSL_CIPHER_get_name"
+type = "int"
+
+[header]
+name = "SSL_CIPHER_get_name"
+addr = 0x6c7eda
+type = "int"
+
+[header.args]

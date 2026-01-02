@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x703db0
+size = 0x44
+name = "__FindPESection"
+
+[header]
+name = "__FindPESection"
+addr = 0x703db0
+
+[header.args]

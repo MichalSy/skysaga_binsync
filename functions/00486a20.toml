@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x486a20
+size = 0x287
+name = "EquippedItemComponent::sub_887A20"
+type = "Component *"
+
+[header]
+name = "EquippedItemComponent::sub_887A20"
+addr = 0x486a20
+type = "Component *"
+
+[header.args]

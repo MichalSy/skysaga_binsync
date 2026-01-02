@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3389c0
+size = 0xd
+name = "Server::SetWorldLoaded"
+type = "void"
+
+[header]
+name = "Server::SetWorldLoaded"
+addr = 0x3389c0
+type = "void"
+
+[header.args]

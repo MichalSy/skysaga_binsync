@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x724bf0
+size = 0x2d
+name = "_lua_pushvfstring"
+type = "int"
+
+[header]
+name = "_lua_pushvfstring"
+addr = 0x724bf0
+type = "int"
+
+[header.args]

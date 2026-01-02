@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f515f
+size = 0x40
+name = "_calloc"
+type = "void *"
+
+[header]
+name = "_calloc"
+addr = 0x6f515f
+type = "void *"
+
+[header.args]

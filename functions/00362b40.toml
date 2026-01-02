@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x362b40
+size = 0x7
+name = "pv::world::unknown::sub_763B40"
+type = "void"
+
+[header]
+name = "pv::world::unknown::sub_763B40"
+addr = 0x362b40
+type = "void"
+
+[header.args]

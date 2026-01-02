@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x701000
+size = 0x6a9
+name = "___strgtold12_l"
+
+[header]
+name = "___strgtold12_l"
+addr = 0x701000
+
+[header.args]

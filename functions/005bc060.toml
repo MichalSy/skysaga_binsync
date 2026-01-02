@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x5bc060
+size = 0x8
+name = "_DllMain@12_0"
+type = "BOOL"
+
+[header]
+name = "_DllMain@12_0"
+addr = 0x5bc060
+type = "BOOL"
+
+[header.args]

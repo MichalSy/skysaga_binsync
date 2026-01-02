@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x44e060
+size = 0x1
+name = "nullsub_20"
+type = "int"
+
+[header]
+name = "nullsub_20"
+addr = 0x44e060
+type = "int"
+
+[header.args]

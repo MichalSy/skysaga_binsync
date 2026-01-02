@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x6736b0
+size = 0x32
+name = "?IsNetworkOrderInternal@BitStream@RakNet@@SA_NXZ"
+type = "char"
+
+[header]
+name = "?IsNetworkOrderInternal@BitStream@RakNet@@SA_NXZ"
+addr = 0x6736b0
+type = "char"
+
+[header.args]

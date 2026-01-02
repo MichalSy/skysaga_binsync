@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x6731f0
+size = 0x4
+name = "?GetNumberOfBitsAllocated@BitStream@RakNet@@QBEIXZ"
+type = "unsigned int"
+
+[header]
+name = "?GetNumberOfBitsAllocated@BitStream@RakNet@@QBEIXZ"
+addr = 0x6731f0
+type = "unsigned int"
+
+[header.args]

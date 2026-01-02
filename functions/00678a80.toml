@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x678a80
+size = 0xa4
+name = "?GetClockDifferential@RakPeer@RakNet@@UAE_KUAddressOrGUID@2@@Z"
+type = "unsigned long long"
+
+[header]
+name = "?GetClockDifferential@RakPeer@RakNet@@UAE_KUAddressOrGUID@2@@Z"
+addr = 0x678a80
+type = "unsigned long long"
+
+[header.args]

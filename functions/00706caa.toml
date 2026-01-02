@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x706caa
+size = 0x62
+name = "?getNumberOfDimensions@UnDecorator@@CAHXZ"
+type = "int"
+
+[header]
+name = "?getNumberOfDimensions@UnDecorator@@CAHXZ"
+addr = 0x706caa
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x37fdc0
+size = 0xc
+name = "ServerDetails::HasPort"
+type = "bool"
+
+[header]
+name = "ServerDetails::HasPort"
+addr = 0x37fdc0
+type = "bool"
+
+[header.args]

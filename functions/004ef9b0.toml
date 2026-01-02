@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4ef9b0
+size = 0x6d
+name = "BitStream::ReadInt32_7Bit_Plus1"
+type = "bool"
+
+[header]
+name = "BitStream::ReadInt32_7Bit_Plus1"
+addr = 0x4ef9b0
+type = "bool"
+
+[header.args]

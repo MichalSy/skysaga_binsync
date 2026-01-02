@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x82fbfd
+size = 0xd1
+name = "__freopen_helper"
+type = "int"
+
+[header]
+name = "__freopen_helper"
+addr = 0x82fbfd
+type = "int"
+
+[header.args]

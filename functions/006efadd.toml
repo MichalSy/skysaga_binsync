@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6efadd
+size = 0x33
+name = "_abort"
+type = "void"
+
+[header]
+name = "_abort"
+addr = 0x6efadd
+type = "void"
+
+[header.args]

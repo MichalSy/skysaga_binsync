@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x2d9be0
+size = 0xbd
+name = "string_compare_insensitive"
+type = "int"
+
+[header]
+name = "string_compare_insensitive"
+addr = 0x2d9be0
+type = "int"
+
+[header.args]

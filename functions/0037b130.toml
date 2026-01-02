@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x37b130
+size = 0x31
+name = "CharacterList::Add"
+type = "char"
+
+[header]
+name = "CharacterList::Add"
+addr = 0x37b130
+type = "char"
+
+[header.args]

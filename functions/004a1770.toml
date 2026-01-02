@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4a1770
+size = 0x16
+name = "Entity::sub_8A2770"
+type = "int"
+
+[header]
+name = "Entity::sub_8A2770"
+addr = 0x4a1770
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7e62
+size = 0x6
+name = "sk_num"
+type = "int"
+
+[header]
+name = "sk_num"
+addr = 0x6c7e62
+type = "int"
+
+[header.args]

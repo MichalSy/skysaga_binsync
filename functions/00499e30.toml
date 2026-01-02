@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x499e30
+size = 0x15
+name = "??0AnalyticsService@analytics@pv@@QAE@XZ"
+type = "pv::analytics::AnalyticsService *"
+
+[header]
+name = "??0AnalyticsService@analytics@pv@@QAE@XZ"
+addr = 0x499e30
+type = "pv::analytics::AnalyticsService *"
+
+[header.args]

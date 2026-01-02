@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.357515Z
+addr = 0x67a6a0
+size = 0x141
+name = "?Send@RakPeer@RakNet@@UAEIPBVBitStream@2@W4PacketPriority@@W4PacketReliability@@DUAddressOrGUID@2@_NI@Z"
+type = "unsigned int"
+
+[header]
+name = "?Send@RakPeer@RakNet@@UAEIPBVBitStream@2@W4PacketPriority@@W4PacketReliability@@DUAddressOrGUID@2@_NI@Z"
+addr = 0x67a6a0
+type = "unsigned int"
+
+[header.args]

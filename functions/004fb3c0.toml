@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4fb3c0
+size = 0x231
+name = "??0VoxelData@@QAE@XZ_0"
+type = "VoxelData *"
+
+[header]
+name = "??0VoxelData@@QAE@XZ_0"
+addr = 0x4fb3c0
+type = "VoxelData *"
+
+[header.args]

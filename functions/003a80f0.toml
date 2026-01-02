@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x3a80f0
+size = 0x7
+name = "?GetAnonymousScheduleGroup@SchedulerBase@details@Concurrency@@QAEPAVScheduleGroupBase@23@XZ"
+type = "struct Concurrency::details::ScheduleGroupBase *"
+
+[header]
+name = "?GetAnonymousScheduleGroup@SchedulerBase@details@Concurrency@@QAEPAVScheduleGroupBase@23@XZ"
+addr = 0x3a80f0
+type = "struct Concurrency::details::ScheduleGroupBase *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x7cfe82
+size = 0x6
+name = "MiniDumpWriteDump"
+type = "BOOL"
+
+[header]
+name = "MiniDumpWriteDump"
+addr = 0x7cfe82
+type = "BOOL"
+
+[header.args]

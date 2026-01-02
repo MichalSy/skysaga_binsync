@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.352505Z
+addr = 0x1e5840
+size = 0xae
+name = "CommandLineMgr::GetString"
+type = "char *"
+
+[header]
+name = "CommandLineMgr::GetString"
+addr = 0x1e5840
+type = "char *"
+
+[header.args]

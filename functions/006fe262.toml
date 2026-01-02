@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fe262
+size = 0x64
+name = "?setSBCS@@YAXPAUthreadmbcinfostruct@@@Z"
+type = "void"
+
+[header]
+name = "?setSBCS@@YAXPAUthreadmbcinfostruct@@@Z"
+addr = 0x6fe262
+type = "void"
+
+[header.args]

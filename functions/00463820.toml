@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x463820
+size = 0xb4f
+name = "??0GeoData@@QAE@XZ_0"
+type = "int"
+
+[header]
+name = "??0GeoData@@QAE@XZ_0"
+addr = 0x463820
+type = "int"
+
+[header.args]

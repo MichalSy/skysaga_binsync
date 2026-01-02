@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4f7630
+size = 0x4b
+name = "NodeComponent::ParameterData::Write"
+type = "char"
+
+[header]
+name = "NodeComponent::ParameterData::Write"
+addr = 0x4f7630
+type = "char"
+
+[header.args]

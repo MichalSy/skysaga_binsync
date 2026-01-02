@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x380b20
+size = 0x39
+name = "GameState::Idle::Exited"
+type = "LPCRITICAL_SECTION *"
+
+[header]
+name = "GameState::Idle::Exited"
+addr = 0x380b20
+type = "LPCRITICAL_SECTION *"
+
+[header.args]

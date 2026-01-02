@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x36b4e0
+size = 0x3f
+name = "UserInterface2D::sub_76C4E0"
+type = "void"
+
+[header]
+name = "UserInterface2D::sub_76C4E0"
+addr = 0x36b4e0
+type = "void"
+
+[header.args]

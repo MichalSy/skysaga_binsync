@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fc9b6
+size = 0x1c
+name = "__seh_longjmp_unwind4@4"
+
+[header]
+name = "__seh_longjmp_unwind4@4"
+addr = 0x6fc9b6
+
+[header.args]

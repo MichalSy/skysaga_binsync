@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f5718
+size = 0x13
+name = "___doserrno"
+type = "unsigned int *"
+
+[header]
+name = "___doserrno"
+addr = 0x6f5718
+type = "unsigned int *"
+
+[header.args]

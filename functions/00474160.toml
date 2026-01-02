@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x474160
+size = 0x34
+name = "ComponentReference::sub_875160"
+type = "void"
+
+[header]
+name = "ComponentReference::sub_875160"
+addr = 0x474160
+type = "void"
+
+[header.args]

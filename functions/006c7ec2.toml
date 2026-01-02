@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7ec2
+size = 0x6
+name = "SSL_CTX_new"
+type = "int"
+
+[header]
+name = "SSL_CTX_new"
+addr = 0x6c7ec2
+type = "int"
+
+[header.args]

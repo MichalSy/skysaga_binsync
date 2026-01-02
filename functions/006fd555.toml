@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x6fd555
+size = 0x26
+name = "__fileno"
+type = "int"
+
+[header]
+name = "__fileno"
+addr = 0x6fd555
+type = "int"
+
+[header.args]

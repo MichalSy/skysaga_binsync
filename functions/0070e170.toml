@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x70e170
+size = 0x40
+name = "___crtGetStringTypeA"
+type = "int"
+
+[header]
+name = "___crtGetStringTypeA"
+addr = 0x70e170
+type = "int"
+
+[header.args]

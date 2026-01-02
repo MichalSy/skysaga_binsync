@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x371700
+size = 0x10
+name = "ModeHomeWorld::SetMapSizeIndex"
+type = "int"
+
+[header]
+name = "ModeHomeWorld::SetMapSizeIndex"
+addr = 0x371700
+type = "int"
+
+[header.args]

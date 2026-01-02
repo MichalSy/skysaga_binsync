@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4528f0
+size = 0x10
+name = "GetNextAvailableServiceIndex"
+type = "int"
+
+[header]
+name = "GetNextAvailableServiceIndex"
+addr = 0x4528f0
+type = "int"
+
+[header.args]

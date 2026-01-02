@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x405e50
+size = 0x99
+name = "ClientEquippedItemComponent_sub_806E50"
+type = "char"
+
+[header]
+name = "ClientEquippedItemComponent_sub_806E50"
+addr = 0x405e50
+type = "char"
+
+[header.args]

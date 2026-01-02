@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6e45f0
+size = 0x10
+name = "??0DNameNode@@IAE@XZ_4"
+type = "DNameNode *"
+
+[header]
+name = "??0DNameNode@@IAE@XZ_4"
+addr = 0x6e45f0
+type = "DNameNode *"
+
+[header.args]

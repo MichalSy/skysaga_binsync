@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x82fffc
+size = 0x1fd
+name = "__putenv_helper"
+type = "int"
+
+[header]
+name = "__putenv_helper"
+addr = 0x82fffc
+type = "int"
+
+[header.args]

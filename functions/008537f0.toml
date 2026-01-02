@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.360533Z
+addr = 0x8537f0
+size = 0xa
+name = "??1GeoData@@QAE@XZ"
+type = "void"
+
+[header]
+name = "??1GeoData@@QAE@XZ"
+addr = 0x8537f0
+type = "void"
+
+[header.args]

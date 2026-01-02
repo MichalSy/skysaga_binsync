@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6effca
+size = 0x48
+name = "__fflush_nolock"
+type = "int"
+
+[header]
+name = "__fflush_nolock"
+addr = 0x6effca
+type = "int"
+
+[header.args]

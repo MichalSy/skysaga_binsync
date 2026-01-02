@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4faa40
+size = 0xec
+name = "pv::entity_manager::List::sub_8FBA40"
+type = "void"
+
+[header]
+name = "pv::entity_manager::List::sub_8FBA40"
+addr = 0x4faa40
+type = "void"
+
+[header.args]

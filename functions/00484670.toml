@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x484670
+size = 0x13
+name = "EquippedItemComponent::sub_885670"
+type = "int"
+
+[header]
+name = "EquippedItemComponent::sub_885670"
+addr = 0x484670
+type = "int"
+
+[header.args]

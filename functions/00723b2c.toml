@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x723b2c
+size = 0x6
+name = "GetFileVersionInfoA"
+type = "BOOL"
+
+[header]
+name = "GetFileVersionInfoA"
+addr = 0x723b2c
+type = "BOOL"
+
+[header.args]

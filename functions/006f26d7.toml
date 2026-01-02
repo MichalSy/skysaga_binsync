@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f26d7
+size = 0x28
+name = "_feof"
+type = "int"
+
+[header]
+name = "_feof"
+addr = 0x6f26d7
+type = "int"
+
+[header.args]

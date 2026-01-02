@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7b56
+size = 0x6
+name = "RAND_status"
+type = "int"
+
+[header]
+name = "RAND_status"
+addr = 0x6c7b56
+type = "int"
+
+[header.args]

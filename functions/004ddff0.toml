@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4ddff0
+size = 0x8d
+name = "??0PerformActionBase@@UAE@XZ"
+type = "PerformActionBase *"
+
+[header]
+name = "??0PerformActionBase@@UAE@XZ"
+addr = 0x4ddff0
+type = "PerformActionBase *"
+
+[header.args]

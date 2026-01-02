@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x4777d0
+size = 0xa
+name = "?size@?$vector@PAXV?$allocator@PAX@std@@@std@@QBEIXZ"
+type = "int"
+
+[header]
+name = "?size@?$vector@PAXV?$allocator@PAX@std@@@std@@QBEIXZ"
+addr = 0x4777d0
+type = "int"
+
+[header.args]

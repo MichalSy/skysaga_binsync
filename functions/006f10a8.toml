@@ -1,0 +1,10 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f10a8
+size = 0xae
+name = "start_7"
+
+[header]
+name = "start_7"
+addr = 0x6f10a8
+
+[header.args]

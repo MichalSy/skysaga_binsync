@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.353514Z
+addr = 0x358440
+size = 0x4b
+name = "pv::world::client::ClientWorldService::GetBiomeType"
+type = "void"
+
+[header]
+name = "pv::world::client::ClientWorldService::GetBiomeType"
+addr = 0x358440
+type = "void"
+
+[header.args]

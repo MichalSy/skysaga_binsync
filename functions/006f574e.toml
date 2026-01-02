@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f574e
+size = 0x115
+name = "__tolower_l"
+type = "int"
+
+[header]
+name = "__tolower_l"
+addr = 0x6f574e
+type = "int"
+
+[header.args]

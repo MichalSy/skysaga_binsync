@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x5b9760
+size = 0x9b
+name = "pv::component_manager::unknown::sub_9BA760"
+type = "void"
+
+[header]
+name = "pv::component_manager::unknown::sub_9BA760"
+addr = 0x5b9760
+type = "void"
+
+[header.args]

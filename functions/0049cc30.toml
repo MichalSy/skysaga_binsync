@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x49cc30
+size = 0x38
+name = "StaminaComponent::sub_89DC30"
+type = "double"
+
+[header]
+name = "StaminaComponent::sub_89DC30"
+addr = 0x49cc30
+type = "double"
+
+[header.args]

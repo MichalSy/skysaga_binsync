@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6c7be0
+size = 0x6
+name = "X509_get_subject_name"
+type = "int"
+
+[header]
+name = "X509_get_subject_name"
+addr = 0x6c7be0
+type = "int"
+
+[header.args]

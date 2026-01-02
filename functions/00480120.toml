@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x480120
+size = 0x172
+name = "ResourceData::Copy"
+type = "void"
+
+[header]
+name = "ResourceData::Copy"
+addr = 0x480120
+type = "void"
+
+[header.args]

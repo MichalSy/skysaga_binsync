@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x46ba20
+size = 0x56
+name = "EntityInstance::Parent::sub_86CA20"
+type = "void"
+
+[header]
+name = "EntityInstance::Parent::sub_86CA20"
+addr = 0x46ba20
+type = "void"
+
+[header.args]

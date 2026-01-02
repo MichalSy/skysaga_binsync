@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x499520
+size = 0x7
+name = "RakNetServer::sub_89A520"
+type = "struct RakNet::RakPeer *"
+
+[header]
+name = "RakNetServer::sub_89A520"
+addr = 0x499520
+type = "struct RakNet::RakPeer *"
+
+[header.args]

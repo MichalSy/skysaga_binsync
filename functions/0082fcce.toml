@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.359505Z
+addr = 0x82fcce
+size = 0x26
+name = "_freopen"
+type = "FILE *"
+
+[header]
+name = "_freopen"
+addr = 0x82fcce
+type = "FILE *"
+
+[header.args]

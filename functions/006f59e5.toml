@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f59e5
+size = 0x2e
+name = "_islower"
+type = "int"
+
+[header]
+name = "_islower"
+addr = 0x6f59e5
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.354510Z
+addr = 0x494570
+size = 0x34
+name = "json_value::sub_895570"
+type = "json_value *"
+
+[header]
+name = "json_value::sub_895570"
+addr = 0x494570
+type = "json_value *"
+
+[header.args]

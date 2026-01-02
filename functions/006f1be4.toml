@@ -1,0 +1,12 @@
+last_change = 2026-01-02T18:02:37.358524Z
+addr = 0x6f1be4
+size = 0x84
+name = "_sprintf"
+type = "int"
+
+[header]
+name = "_sprintf"
+addr = 0x6f1be4
+type = "int"
+
+[header.args]
