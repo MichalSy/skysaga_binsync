@@ -1,0 +1,26 @@
+name = "TreeDescriptionList"
+size = 0x10
+
+[members.0x0]
+name = "UNK_TreeDescriptionList"
+offset = 0x0
+type = "char[4]"
+size = 0x4
+
+[members.0x4]
+name = "m_pStart"
+offset = 0x4
+type = "TreeDescriptionList::Node *"
+size = 0x4
+
+[members.0x8]
+name = "m_pEnd"
+offset = 0x8
+type = "TreeDescriptionList::Node *"
+size = 0x4
+
+[members.0xc]
+name = "m_nCapacity"
+offset = 0xc
+type = "int"
+size = 0x4
