@@ -1,9 +1,11 @@
-last_change = 2026-01-03T15:32:51.502614Z
+last_change = 2026-01-03T15:32:59.769886Z
 addr = 0x4919d0
 size = 0x14
+name = "TreeComponent::sub_8929D0"
 
 [header]
-last_change = 2026-01-03T15:32:51.502614Z
+last_change = 2026-01-03T15:32:59.769886Z
+name = "TreeComponent::sub_8929D0"
 addr = 0x4919d0
 
 [header.args.0x0]
