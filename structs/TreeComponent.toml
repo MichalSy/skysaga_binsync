@@ -1,5 +1,6 @@
+last_change = 2026-01-03T15:25:59.197542Z
 name = "TreeComponent"
-size = 0x5c
+size = 0x60
 
 [members.0x0]
 name = ""
@@ -24,3 +25,9 @@ name = "UNK_TreeComponent"
 offset = 0x50
 type = "char[12]"
 size = 0xc
+
+[members.0x5c]
+name = "Test"
+offset = 0x5c
+type = "BYTE"
+size = 0x1
