@@ -1,12 +1,12 @@
-last_change = 2026-01-03T15:30:53.851610Z
+last_change = 2026-01-03T15:31:05.511035Z
 addr = 0x446820
 size = 0xd5
 
 [header]
-last_change = 2026-01-03T15:30:53.851610Z
+last_change = 2026-01-03T15:31:05.511035Z
 addr = 0x446820
 
 [header.args.0x0]
 offset = 0x0
-type = "Component *"
+type = "TreeComponent *"
 size = 0x4
