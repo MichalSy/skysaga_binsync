@@ -1,0 +1,12 @@
+last_change = 2026-01-03T15:44:19.967617Z
+addr = 0x4f0780
+size = 0x249
+
+[header]
+last_change = 2026-01-03T15:44:19.967617Z
+addr = 0x4f0780
+
+[header.args.0x1]
+offset = 0x1
+type = "TreeDescriptionList *"
+size = 0x4
