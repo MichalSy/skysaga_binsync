@@ -1,6 +1,10 @@
-last_change = 2026-01-02T18:12:45.466893Z
+last_change = 2026-01-03T15:27:05.122919Z
 addr = 0x445720
 size = 0x125
+
+[header]
+last_change = 2026-01-03T15:27:05.122919Z
+addr = 0x445720
 
 [stack_vars.-0xc]
 last_change = 2026-01-02T18:12:45.466893Z
@@ -8,3 +12,8 @@ offset = -12
 type = "Vector3"
 size = 0xc
 addr = 0x445720
+
+[header.args.0x0]
+offset = 0x0
+type = "TreeComponent *"
+size = 0x4
