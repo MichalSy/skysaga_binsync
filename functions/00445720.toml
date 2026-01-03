@@ -1,11 +1,11 @@
-last_change = 2026-01-03T15:27:11.514917Z
+last_change = 2026-01-03T15:27:20.797014Z
 addr = 0x445720
 size = 0x125
-name = "TreeComponent::TreeComponent::sub_846720"
+name = "TreeComponent::sub_846720"
 
 [header]
-last_change = 2026-01-03T15:27:11.514917Z
-name = "TreeComponent::TreeComponent::sub_846720"
+last_change = 2026-01-03T15:27:20.797014Z
+name = "TreeComponent::sub_846720"
 addr = 0x445720
 
 [stack_vars.-0xc]
