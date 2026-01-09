@@ -157,20 +157,20 @@ addr = 0xa89074
 name = "dword_E8A074"
 size = 0x4
 
-[0xa8911c]
-last_change = 2026-01-09T19:36:09.461818Z
-addr = 0xa8911c
-name = "dword_E8A11C"
+[0xa89120]
+last_change = 2026-01-09T19:36:09.539876Z
+addr = 0xa89120
+name = "dword_E8A120"
 size = 0x4
 
-[0xa891c8]
-last_change = 2026-01-09T19:36:13.853398Z
-addr = 0xa891c8
-name = "dword_E8A1C8"
+[0xa891cc]
+last_change = 2026-01-09T19:36:13.915978Z
+addr = 0xa891cc
+name = "dword_E8A1CC"
 size = 0x4
 
-[0xa89298]
-last_change = 2026-01-09T19:36:18.464600Z
-addr = 0xa89298
-name = "dword_E8A298"
+[0xa8929c]
+last_change = 2026-01-09T19:36:18.542728Z
+addr = 0xa8929c
+name = "dword_E8A29C"
 size = 0x4
