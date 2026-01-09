@@ -1,3 +1,11 @@
-last_change = 2026-01-09T19:38:41.411332Z
+last_change = 2026-01-09T19:48:15.525128Z
 addr = 0x2e3060
 size = 0xa8
+type = "LONG *"
+
+[header]
+last_change = 2026-01-09T19:48:15.525128Z
+addr = 0x2e3060
+type = "LONG *"
+
+[header.args]
