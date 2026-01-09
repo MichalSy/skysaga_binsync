@@ -38,10 +38,10 @@ type = "struct _RTL_CRITICAL_SECTION"
 size = 0x18
 
 [0xa88ac0]
-last_change = 2026-01-09T19:35:39.932751Z
+last_change = 2026-01-09T19:36:54.119974Z
 addr = 0xa88ac0
-name = "dword_E89AC0"
-size = 0x4
+name = ""
+size = 0xfb0
 
 [0xa88bd4]
 last_change = 2026-01-09T19:35:40.323367Z
@@ -210,9 +210,3 @@ last_change = 2026-01-09T19:36:47.422316Z
 addr = 0xa89968
 name = "dword_E8A968"
 size = 0x4
-
-[0xa88abc]
-last_change = 2026-01-09T19:36:54.041910Z
-addr = 0xa88abc
-name = ""
-size = 0xfb4
