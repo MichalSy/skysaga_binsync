@@ -1,6 +1,6 @@
-last_change = 2026-01-09T20:03:02.999661Z
+last_change = 2026-01-09T20:03:37.920334Z
 name = "TempByteAllocatorGlobals"
-size = 0xfb4
+size = 0xfb0
 
 [members.0x0]
 name = "init_flags"
@@ -27,13 +27,7 @@ type = "int32_t"
 size = 0x4
 
 [members.0x10]
-name = "pool_padding"
-offset = 0x10
-type = "char[4]"
-size = 0x4
-
-[members.0x14]
 name = "byte_pool"
-offset = 0x14
+offset = 0x10
 type = "char[4000]"
 size = 0xfa0
