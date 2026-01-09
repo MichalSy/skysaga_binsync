@@ -211,14 +211,14 @@ addr = 0xa89a1c
 name = "dword_E8AA1C"
 size = 0x4
 
-[0xa88cc0]
-last_change = 2026-01-09T19:36:57.245884Z
-addr = 0xa88cc0
+[0xa88cc4]
+last_change = 2026-01-09T19:36:57.324074Z
+addr = 0xa88cc4
 name = ""
-size = 0xdb0
+size = 0xdac
 
-[0xa88ddc]
-last_change = 2026-01-09T19:37:04.890159Z
-addr = 0xa88ddc
+[0xa88de0]
+last_change = 2026-01-09T19:37:04.968292Z
+addr = 0xa88de0
 name = ""
-size = 0xc94
+size = 0xc90
