@@ -265,8 +265,8 @@ addr = 0xa898b8
 name = ""
 size = 0x1b8
 
-[0xa88c60]
-last_change = 2026-01-09T19:48:50.418892Z
-addr = 0xa88c60
-name = "byte_E89C60"
+[0xa88ca0]
+last_change = 2026-01-09T19:48:50.508049Z
+addr = 0xa88ca0
+name = "byte_E89CA0"
 size = 0x1
