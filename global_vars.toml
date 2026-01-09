@@ -451,14 +451,14 @@ addr = 0xa89740
 name = "byte_E8A740"
 size = 0x1
 
-[0xa898d4]
-last_change = 2026-01-09T19:49:00.234762Z
-addr = 0xa898d4
-name = "byte_E8A8D4"
+[0xa898cc]
+last_change = 2026-01-09T19:49:00.301077Z
+addr = 0xa898cc
+name = "byte_E8A8CC"
 size = 0x1
 
-[0xa89a08]
-last_change = 2026-01-09T19:49:00.625702Z
-addr = 0xa89a08
-name = "byte_E8AA08"
+[0xa899f0]
+last_change = 2026-01-09T19:49:00.696824Z
+addr = 0xa899f0
+name = "byte_E8A9F0"
 size = 0x1
