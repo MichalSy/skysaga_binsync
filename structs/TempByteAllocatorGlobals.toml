@@ -1,11 +1,11 @@
-last_change = 2026-01-09T19:55:59.762910Z
+last_change = 2026-01-09T19:56:25.744264Z
 name = "TempByteAllocatorGlobals"
-size = 0xff0
+size = 0x88
 
 [members.0x0]
-name = "init_flags"
+name = "lazy_init_flag"
 offset = 0x0
-type = "int32_t"
+type = "uint32_t"
 size = 0x4
 
 [members.0x4]
@@ -15,25 +15,7 @@ type = "int32_t"
 size = 0x4
 
 [members.0x8]
-name = "cs_padding"
+name = "cs_reserved"
 offset = 0x8
-type = "char[64]"
-size = 0x40
-
-[members.0x48]
-name = "alloc_count"
-offset = 0x48
-type = "int32_t"
-size = 0x4
-
-[members.0x4c]
-name = "pool_padding"
-offset = 0x4c
-type = "char[4]"
-size = 0x4
-
-[members.0x50]
-name = "byte_pool"
-offset = 0x50
-type = "char[4000]"
-size = 0xfa0
+type = "uint8_t[128]"
+size = 0x80
