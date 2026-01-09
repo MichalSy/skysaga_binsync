@@ -1,6 +1,6 @@
-last_change = 2026-01-09T20:03:37.920334Z
+last_change = 2026-01-09T20:04:16.983881Z
 name = "TempByteAllocatorGlobals"
-size = 0xfb0
+size = 0xfe8
 
 [members.0x0]
 name = "init_flags"
@@ -21,13 +21,19 @@ type = "LPCRITICAL_SECTION"
 size = 0x4
 
 [members.0xc]
-name = "alloc_count"
+name = "padC"
 offset = 0xc
+type = "BYTE[56]"
+size = 0x38
+
+[members.0x44]
+name = "alloc_count"
+offset = 0x44
 type = "int32_t"
 size = 0x4
 
-[members.0x10]
+[members.0x48]
 name = "byte_pool"
-offset = 0x10
+offset = 0x48
 type = "char[4000]"
 size = 0xfa0
