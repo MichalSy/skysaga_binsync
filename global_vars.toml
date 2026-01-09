@@ -11,11 +11,11 @@ name = "g_TempByteAllocCount"
 size = 0x4
 
 [0xa88a88]
-last_change = 2026-01-09T19:16:43.214843Z
+last_change = 2026-01-09T19:36:53.823165Z
 addr = 0xa88a88
-name = "lpCriticalSection__1"
+name = ""
 type = "struct _RTL_CRITICAL_SECTION"
-size = 0x18
+size = 0xfe8
 
 [0xa88a80]
 last_change = 2026-01-09T19:35:39.213639Z
@@ -25,10 +25,10 @@ type = "TempByteAllocatorGlobals"
 size = 0x4
 
 [0xa88a84]
-last_change = 2026-01-09T19:36:53.760132Z
+last_change = 2026-01-09T19:35:39.510866Z
 addr = 0xa88a84
-name = ""
-size = 0xfec
+name = "dword_E89A84"
+size = 0x4
 
 [0xa88aa4]
 last_change = 2026-01-09T19:35:39.713949Z
@@ -169,50 +169,50 @@ addr = 0xa89254
 name = "qword_E8A254"
 size = 0x8
 
-[0xa8934c]
-last_change = 2026-01-09T19:36:22.528707Z
-addr = 0xa8934c
-name = "dword_E8A34C"
+[0xa89354]
+last_change = 2026-01-09T19:36:22.685032Z
+addr = 0xa89354
+name = "dword_E8A354"
 size = 0x4
 
-[0xa89418]
-last_change = 2026-01-09T19:36:25.936487Z
-addr = 0xa89418
-name = "dword_E8A418"
+[0xa89420]
+last_change = 2026-01-09T19:36:26.139631Z
+addr = 0xa89420
+name = "dword_E8A420"
 size = 0x4
 
-[0xa894f0]
-last_change = 2026-01-09T19:36:31.126095Z
-addr = 0xa894f0
-name = "dword_E8A4F0"
+[0xa894f8]
+last_change = 2026-01-09T19:36:31.266724Z
+addr = 0xa894f8
+name = "dword_E8A4F8"
 size = 0x4
 
-[0xa895e0]
-last_change = 2026-01-09T19:36:36.738075Z
-addr = 0xa895e0
-name = "dword_E8A5E0"
+[0xa895e8]
+last_change = 2026-01-09T19:36:36.909876Z
+addr = 0xa895e8
+name = "dword_E8A5E8"
 size = 0x4
 
-[0xa89709]
-last_change = 2026-01-09T19:36:43.146963Z
-addr = 0xa89709
-name = "byte_E8A709"
-size = 0x1
-
-[0xa89954]
-last_change = 2026-01-09T19:36:47.055064Z
-addr = 0xa89954
-name = "dword_E8A954"
+[0xa89718]
+last_change = 2026-01-09T19:36:43.209462Z
+addr = 0xa89718
+name = "dword_E8A718"
 size = 0x4
 
-[0xa88d14]
-last_change = 2026-01-09T19:37:01.432494Z
-addr = 0xa88d14
+[0xa89958]
+last_change = 2026-01-09T19:36:47.133190Z
+addr = 0xa89958
+name = "dword_E8A958"
+size = 0x4
+
+[0xa88d18]
+last_change = 2026-01-09T19:37:01.498084Z
+addr = 0xa88d18
 name = ""
-size = 0xd5c
+size = 0xd58
 
-[0xa88e3c]
-last_change = 2026-01-09T19:37:05.968298Z
-addr = 0xa88e3c
+[0xa88e40]
+last_change = 2026-01-09T19:37:06.030793Z
+addr = 0xa88e40
 name = ""
-size = 0xc34
+size = 0xc30
