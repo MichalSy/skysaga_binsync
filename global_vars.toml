@@ -439,20 +439,20 @@ addr = 0xa896dc
 name = "byte_E8A6DC"
 size = 0x1
 
-[0xa893c4]
-last_change = 2026-01-09T19:48:59.559410Z
-addr = 0xa893c4
-name = "byte_E8A3C4"
+[0xa89730]
+last_change = 2026-01-09T19:48:59.622380Z
+addr = 0xa89730
+name = "byte_E8A730"
 size = 0x1
 
-[0xa8988c]
-last_change = 2026-01-09T19:48:59.854945Z
-addr = 0xa8988c
-name = "byte_E8A88C"
+[0xa89740]
+last_change = 2026-01-09T19:48:59.900149Z
+addr = 0xa89740
+name = "byte_E8A740"
 size = 0x1
 
-[0xa898dc]
-last_change = 2026-01-09T19:49:00.159226Z
-addr = 0xa898dc
-name = "byte_E8A8DC"
+[0xa898d4]
+last_change = 2026-01-09T19:49:00.234762Z
+addr = 0xa898d4
+name = "byte_E8A8D4"
 size = 0x1
