@@ -4,3 +4,10 @@ addr = 0x33e4f6
 func_addr = 0x33e4d0
 comment = "\"Unknown\""
 decompiled = true
+
+[0x2e3071]
+last_change = 2026-01-09T19:38:25.094528Z
+addr = 0x2e3071
+func_addr = 0x2e3060
+comment = "\n"
+decompiled = true
