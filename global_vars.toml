@@ -145,62 +145,62 @@ addr = 0xa88f74
 name = "dword_E89F74"
 size = 0x4
 
-[0xa8900c]
-last_change = 2026-01-09T19:36:02.349046Z
-addr = 0xa8900c
-name = "dword_E8A00C"
+[0xa89010]
+last_change = 2026-01-09T19:36:02.425014Z
+addr = 0xa89010
+name = "dword_E8A010"
 size = 0x4
 
-[0xa8909c]
-last_change = 2026-01-09T19:36:05.976182Z
-addr = 0xa8909c
-name = "dword_E8A09C"
+[0xa890a8]
+last_change = 2026-01-09T19:36:06.179308Z
+addr = 0xa890a8
+name = "dword_E8A0A8"
 size = 0x4
 
-[0xa89148]
-last_change = 2026-01-09T19:36:10.243067Z
-addr = 0xa89148
-name = "dword_E8A148"
+[0xa89154]
+last_change = 2026-01-09T19:36:10.461051Z
+addr = 0xa89154
+name = "dword_E8A154"
 size = 0x4
 
-[0xa89200]
-last_change = 2026-01-09T19:36:14.775448Z
-addr = 0xa89200
-name = "dword_E8A200"
+[0xa89208]
+last_change = 2026-01-09T19:36:15.010224Z
+addr = 0xa89208
+name = "dword_E8A208"
 size = 0x4
 
-[0xa892d0]
-last_change = 2026-01-09T19:36:19.480571Z
-addr = 0xa892d0
-name = "dword_E8A2D0"
+[0xa892e4]
+last_change = 2026-01-09T19:36:19.621279Z
+addr = 0xa892e4
+name = "dword_E8A2E4"
 size = 0x4
 
-[0xa893d0]
-last_change = 2026-01-09T19:36:24.607902Z
-addr = 0xa893d0
-name = "dword_E8A3D0"
+[0xa893d8]
+last_change = 2026-01-09T19:36:24.748510Z
+addr = 0xa893d8
+name = "dword_E8A3D8"
 size = 0x4
 
-[0xa894ac]
-last_change = 2026-01-09T19:36:29.860044Z
-addr = 0xa894ac
-name = "dword_E8A4AC"
+[0xa894b4]
+last_change = 2026-01-09T19:36:30.016356Z
+addr = 0xa894b4
+name = "dword_E8A4B4"
 size = 0x4
 
-[0xa89564]
-last_change = 2026-01-09T19:36:35.159011Z
-addr = 0xa89564
-name = "byte_E8A564"
+[0xa89570]
+last_change = 2026-01-09T19:36:35.362143Z
+addr = 0xa89570
+name = "dword_E8A570"
+size = 0x4
+
+[0xa8969c]
+last_change = 2026-01-09T19:36:39.084229Z
+addr = 0xa8969c
+name = "byte_E8A69C"
 size = 0x1
 
-[0xa89694]
-last_change = 2026-01-09T19:36:38.943609Z
-addr = 0xa89694
-name = "dword_E8A694"
+[0xa898cc]
+last_change = 2026-01-09T19:36:45.319986Z
+addr = 0xa898cc
+name = "dword_E8A8CC"
 size = 0x4
-
-[0xa898c5]
-last_change = 2026-01-09T19:36:45.179375Z
-addr = 0xa898c5
-name = "byte_E8A8C5"
-size = 0x3
