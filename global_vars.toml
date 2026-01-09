@@ -158,10 +158,10 @@ name = "dword_E8A0A8"
 size = 0x4
 
 [0xa89154]
-last_change = 2026-01-09T19:36:10.461051Z
+last_change = 2026-01-09T19:37:26.478822Z
 addr = 0xa89154
-name = "dword_E8A154"
-size = 0x4
+name = ""
+size = 0x91c
 
 [0xa8920c]
 last_change = 2026-01-09T19:36:15.072722Z
@@ -229,14 +229,8 @@ addr = 0xa88f08
 name = ""
 size = 0xb68
 
-[0xa89038]
-last_change = 2026-01-09T19:37:17.554488Z
-addr = 0xa89038
+[0xa89040]
+last_change = 2026-01-09T19:37:17.616921Z
+addr = 0xa89040
 name = ""
-size = 0xa38
-
-[0xa89150]
-last_change = 2026-01-09T19:37:26.404176Z
-addr = 0xa89150
-name = ""
-size = 0x920
+size = 0xa30
