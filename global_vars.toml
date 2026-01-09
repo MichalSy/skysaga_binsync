@@ -140,10 +140,10 @@ name = "dword_E89F38"
 size = 0x4
 
 [0xa88fb0]
-last_change = 2026-01-09T19:36:00.004039Z
+last_change = 2026-01-09T19:48:57.784107Z
 addr = 0xa88fb0
-name = "dword_E89FB0"
-size = 0x4
+name = "byte_E89FB0"
+size = 0x1
 
 [0xa89044]
 last_change = 2026-01-09T19:36:04.432753Z
