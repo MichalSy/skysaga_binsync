@@ -121,32 +121,32 @@ addr = 0xa88de0
 name = "dword_E89DE0"
 size = 0x4
 
-[0xa88e49]
-last_change = 2026-01-09T19:35:52.673146Z
-addr = 0xa88e49
-name = "byte_E89E49"
-size = 0x1
-
-[0xa88ec8]
-last_change = 2026-01-09T19:35:54.877020Z
-addr = 0xa88ec8
-name = "byte_E89EC8"
-size = 0x1
-
-[0xa88f30]
-last_change = 2026-01-09T19:35:57.175094Z
-addr = 0xa88f30
-name = "dword_E89F30"
+[0xa88e58]
+last_change = 2026-01-09T19:35:52.735640Z
+addr = 0xa88e58
+name = "dword_E89E58"
 size = 0x4
 
-[0xa88fa8]
-last_change = 2026-01-09T19:35:59.847842Z
-addr = 0xa88fa8
-name = "dword_E89FA8"
+[0xa88ecc]
+last_change = 2026-01-09T19:35:54.939544Z
+addr = 0xa88ecc
+name = "dword_E89ECC"
+size = 0x4
+
+[0xa88f38]
+last_change = 2026-01-09T19:35:57.315717Z
+addr = 0xa88f38
+name = "dword_E89F38"
+size = 0x4
+
+[0xa88fb0]
+last_change = 2026-01-09T19:36:00.004039Z
+addr = 0xa88fb0
+name = "dword_E89FB0"
 size = 0x4
 
 [0xa89040]
-last_change = 2026-01-09T19:36:03.287075Z
+last_change = 2026-01-09T19:36:03.349577Z
 addr = 0xa89040
 name = "dword_E8A040"
 size = 0x4
