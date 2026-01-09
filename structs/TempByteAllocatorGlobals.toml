@@ -1,6 +1,6 @@
-last_change = 2026-01-09T19:48:14.087106Z
+last_change = 2026-01-09T19:48:50.133642Z
 name = "TempByteAllocatorGlobals"
-size = 0x60
+size = 0x24
 
 [members.0x0]
 name = "flags"
@@ -15,43 +15,43 @@ type = "int32_t"
 size = 0x4
 
 [members.0x8]
-name = "critical_section"
+name = "CriticalSection"
 offset = 0x8
-type = "char[64]"
-size = 0x40
+type = "LPCRITICAL_SECTION"
+size = 0x4
 
-[members.0x48]
+[members.0xc]
 name = "cs_DebugInfo"
-offset = 0x48
+offset = 0xc
 type = "void *"
 size = 0x4
 
-[members.0x4c]
+[members.0x10]
 name = "cs_LockCount"
-offset = 0x4c
+offset = 0x10
 type = "LONG"
 size = 0x4
 
-[members.0x50]
+[members.0x14]
 name = "cs_RecursionCount"
-offset = 0x50
+offset = 0x14
 type = "LONG"
 size = 0x4
 
-[members.0x54]
+[members.0x18]
 name = "cs_OwningThread"
-offset = 0x54
+offset = 0x18
 type = "HANDLE"
 size = 0x4
 
-[members.0x58]
+[members.0x1c]
 name = "cs_LockSemaphore"
-offset = 0x58
+offset = 0x1c
 type = "HANDLE"
 size = 0x4
 
-[members.0x5c]
+[members.0x20]
 name = "cs_SpinCount"
-offset = 0x5c
+offset = 0x20
 type = "ULONG_PTR"
 size = 0x4
