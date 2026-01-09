@@ -474,3 +474,9 @@ last_change = 2026-01-09T19:49:01.760904Z
 addr = 0xa8923c
 name = "dword_E8A23C"
 size = 0x4
+
+[0xa88aa0]
+last_change = 2026-01-09T19:53:40.991541Z
+addr = 0xa88aa0
+name = "byte_E89AA0"
+size = 0x1
