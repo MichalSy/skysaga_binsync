@@ -1,9 +1,9 @@
-last_change = 2026-01-09T19:54:49.813519Z
+last_change = 2026-01-09T19:52:44.388826Z
 name = "TempByteAllocatorGlobals"
-size = 0x88
+size = 0x38
 
 [members.0x0]
-name = "lazy_init_flag"
+name = "init_and_use_flags"
 offset = 0x0
 type = "uint32_t"
 size = 0x4
@@ -15,7 +15,43 @@ type = "int32_t"
 size = 0x4
 
 [members.0x8]
-name = "cs_reserved"
+name = "cs"
 offset = 0x8
-type = "uint8_t[128]"
-size = 0x80
+type = "RTL_CRITICAL_SECTION"
+size = 0x18
+
+[members.0x20]
+name = "cs_DebugInfo"
+offset = 0x20
+type = "void *"
+size = 0x4
+
+[members.0x24]
+name = "cs_LockCount"
+offset = 0x24
+type = "LONG"
+size = 0x4
+
+[members.0x28]
+name = "cs_RecursionCount"
+offset = 0x28
+type = "LONG"
+size = 0x4
+
+[members.0x2c]
+name = "cs_OwningThread"
+offset = 0x2c
+type = "HANDLE"
+size = 0x4
+
+[members.0x30]
+name = "cs_LockSemaphore"
+offset = 0x30
+type = "HANDLE"
+size = 0x4
+
+[members.0x34]
+name = "cs_SpinCount"
+offset = 0x34
+type = "ULONG_PTR"
+size = 0x4
