@@ -18,11 +18,11 @@ type = "struct _RTL_CRITICAL_SECTION"
 size = 0x18
 
 [0xa88a80]
-last_change = 2026-01-09T19:35:39.213639Z
+last_change = 2026-01-09T19:38:32.550640Z
 addr = 0xa88a80
-name = "dword_E89A80"
+name = "g_TempByteCS"
 type = "TempByteAllocatorGlobals"
-size = 0x4
+size = 0xff0
 
 [0xa88a84]
 last_change = 2026-01-09T19:35:39.510866Z
