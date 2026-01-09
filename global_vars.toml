@@ -86,10 +86,10 @@ name = "byte_E89C7C"
 size = 0x1
 
 [0xa88cb0]
-last_change = 2026-01-09T19:35:44.060045Z
+last_change = 2026-01-09T19:36:56.949006Z
 addr = 0xa88cb0
-name = "dword_E89CB0"
-size = 0x4
+name = ""
+size = 0xdc0
 
 [0xa88cd8]
 last_change = 2026-01-09T19:35:45.154127Z
@@ -210,9 +210,3 @@ last_change = 2026-01-09T19:36:52.650366Z
 addr = 0xa89a04
 name = "dword_E8AA04"
 size = 0x4
-
-[0xa88cb4]
-last_change = 2026-01-09T19:36:57.011572Z
-addr = 0xa88cb4
-name = ""
-size = 0xdbc
