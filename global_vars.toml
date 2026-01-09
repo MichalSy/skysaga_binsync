@@ -9,3 +9,10 @@ last_change = 2026-01-09T19:10:03.706561Z
 addr = 0xa88ac8
 name = "g_TempByteAllocCount"
 size = 0x4
+
+[0xa88a88]
+last_change = 2026-01-09T19:16:43.214843Z
+addr = 0xa88a88
+name = "lpCriticalSection__1"
+type = "struct _RTL_CRITICAL_SECTION"
+size = 0x18
