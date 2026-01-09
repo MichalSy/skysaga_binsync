@@ -37,98 +37,104 @@ name = "stru_E89AA4"
 type = "struct _RTL_CRITICAL_SECTION"
 size = 0x18
 
-[0xa88bd0]
-last_change = 2026-01-09T19:35:40.151503Z
-addr = 0xa88bd0
-name = "byte_E89BD0"
-size = 0x1
+[0xa88ac0]
+last_change = 2026-01-09T19:35:39.932751Z
+addr = 0xa88ac0
+name = "dword_E89AC0"
+size = 0x4
 
 [0xa88bd4]
-last_change = 2026-01-09T19:35:40.406656Z
+last_change = 2026-01-09T19:35:40.323367Z
 addr = 0xa88bd4
 name = "dword_E89BD4"
 size = 0x4
 
-[0xa88bdc]
-last_change = 2026-01-09T19:35:40.652913Z
-addr = 0xa88bdc
-name = "dword_E89BDC"
+[0xa88bd8]
+last_change = 2026-01-09T19:35:40.574773Z
+addr = 0xa88bd8
+name = "dword_E89BD8"
 size = 0x4
 
-[0xa88c04]
-last_change = 2026-01-09T19:35:41.043457Z
-addr = 0xa88c04
-name = "byte_E89C04"
+[0xa88bfc]
+last_change = 2026-01-09T19:35:40.902898Z
+addr = 0xa88bfc
+name = "dword_E89BFC"
+size = 0x4
+
+[0xa88c1c]
+last_change = 2026-01-09T19:35:41.371657Z
+addr = 0xa88c1c
+name = "dword_E89C1C"
+size = 0x4
+
+[0xa88c30]
+last_change = 2026-01-09T19:35:42.121491Z
+addr = 0xa88c30
+name = "byte_E89C30"
 size = 0x1
 
-[0xa88c24]
-last_change = 2026-01-09T19:35:41.637048Z
-addr = 0xa88c24
-name = "dword_E89C24"
+[0xa88c4c]
+last_change = 2026-01-09T19:35:42.621401Z
+addr = 0xa88c4c
+name = "dword_E89C4C"
 size = 0x4
 
-[0xa88c48]
-last_change = 2026-01-09T19:35:42.543278Z
-addr = 0xa88c48
-name = "dword_E89C48"
+[0xa88c78]
+last_change = 2026-01-09T19:35:43.324525Z
+addr = 0xa88c78
+name = "dword_E89C78"
 size = 0x4
 
-[0xa88c70]
-last_change = 2026-01-09T19:35:43.152650Z
-addr = 0xa88c70
-name = "dword_E89C70"
+[0xa88c98]
+last_change = 2026-01-09T19:35:43.919357Z
+addr = 0xa88c98
+name = "byte_E89C98"
+size = 0x1
+
+[0xa88cc8]
+last_change = 2026-01-09T19:35:44.622812Z
+addr = 0xa88cc8
+name = "dword_E89CC8"
 size = 0x4
 
-[0xa88c94]
-last_change = 2026-01-09T19:35:43.841261Z
-addr = 0xa88c94
-name = "dword_E89C94"
+[0xa88cf4]
+last_change = 2026-01-09T19:35:45.435488Z
+addr = 0xa88cf4
+name = "dword_E89CF4"
 size = 0x4
 
-[0xa88cc4]
-last_change = 2026-01-09T19:35:44.544276Z
-addr = 0xa88cc4
-name = "dword_E89CC4"
+[0xa88d2c]
+last_change = 2026-01-09T19:35:46.414131Z
+addr = 0xa88d2c
+name = "dword_E89D2C"
 size = 0x4
 
-[0xa88ce4]
-last_change = 2026-01-09T19:35:45.357254Z
-addr = 0xa88ce4
-name = "dword_E89CE4"
+[0xa88d5c]
+last_change = 2026-01-09T19:35:47.952349Z
+addr = 0xa88d5c
+name = "dword_E89D5C"
 size = 0x4
 
-[0xa88d28]
-last_change = 2026-01-09T19:35:46.341743Z
-addr = 0xa88d28
-name = "dword_E89D28"
+[0xa88da8]
+last_change = 2026-01-09T19:35:49.484156Z
+addr = 0xa88da8
+name = "dword_E89DA8"
 size = 0x4
 
-[0xa88d58]
-last_change = 2026-01-09T19:35:47.530474Z
-addr = 0xa88d58
-name = "dword_E89D58"
+[0xa88dec]
+last_change = 2026-01-09T19:35:51.094227Z
+addr = 0xa88dec
+name = "dword_E89DEC"
 size = 0x4
 
-[0xa88da0]
-last_change = 2026-01-09T19:35:49.343537Z
-addr = 0xa88da0
-name = "dword_E89DA0"
-size = 0x4
+[0xa88e64]
+last_change = 2026-01-09T19:35:52.938767Z
+addr = 0xa88e64
+name = "byte_E89E64"
+size = 0x1
 
-[0xa88de4]
-last_change = 2026-01-09T19:35:50.953535Z
-addr = 0xa88de4
-name = "dword_E89DE4"
-size = 0x4
-
-[0xa88e5c]
-last_change = 2026-01-09T19:35:52.813769Z
-addr = 0xa88e5c
-name = "dword_E89E5C"
-size = 0x4
-
-[0xa88ed4]
-last_change = 2026-01-09T19:35:55.080144Z
-addr = 0xa88ed4
-name = "dword_E89ED4"
+[0xa88ed8]
+last_change = 2026-01-09T19:35:55.142636Z
+addr = 0xa88ed8
+name = "dword_E89ED8"
 size = 0x4
