@@ -140,10 +140,10 @@ name = "dword_E89F38"
 size = 0x4
 
 [0xa88fb0]
-last_change = 2026-01-09T19:36:00.004039Z
+last_change = 2026-01-09T19:48:57.784107Z
 addr = 0xa88fb0
-name = "dword_E89FB0"
-size = 0x4
+name = "byte_E89FB0"
+size = 0x1
 
 [0xa89044]
 last_change = 2026-01-09T19:36:04.432753Z
@@ -355,14 +355,8 @@ addr = 0xa88fc0
 name = "byte_E89FC0"
 size = 0x1
 
-[0xa89010]
-last_change = 2026-01-09T19:48:57.846583Z
-addr = 0xa89010
-name = "byte_E8A010"
-size = 0x1
-
-[0xa89038]
-last_change = 2026-01-09T19:48:57.965693Z
-addr = 0xa89038
-name = "byte_E8A038"
+[0xa89024]
+last_change = 2026-01-09T19:48:57.918755Z
+addr = 0xa89024
+name = "byte_E8A024"
 size = 0x1
