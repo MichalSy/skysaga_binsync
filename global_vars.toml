@@ -25,10 +25,10 @@ type = "TempByteAllocatorGlobals"
 size = 0x4
 
 [0xa88a84]
-last_change = 2026-01-09T19:35:39.510866Z
+last_change = 2026-01-09T19:36:53.760132Z
 addr = 0xa88a84
-name = "dword_E89A84"
-size = 0x4
+name = ""
+size = 0xfec
 
 [0xa88aa4]
 last_change = 2026-01-09T19:35:39.713949Z
@@ -193,20 +193,14 @@ addr = 0xa895e0
 name = "dword_E8A5E0"
 size = 0x4
 
-[0xa89708]
-last_change = 2026-01-09T19:36:43.068771Z
-addr = 0xa89708
-name = "byte_E8A708"
+[0xa89709]
+last_change = 2026-01-09T19:36:43.146963Z
+addr = 0xa89709
+name = "byte_E8A709"
 size = 0x1
 
-[0xa89950]
-last_change = 2026-01-09T19:36:46.977002Z
-addr = 0xa89950
-name = "dword_E8A950"
-size = 0x4
-
-[0xa89a6c]
-last_change = 2026-01-09T19:36:53.681940Z
-addr = 0xa89a6c
-name = "dword_E8AA6C"
+[0xa89954]
+last_change = 2026-01-09T19:36:47.055064Z
+addr = 0xa89954
+name = "dword_E8A954"
 size = 0x4
