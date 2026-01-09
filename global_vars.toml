@@ -3,3 +3,9 @@ last_change = 2026-01-03T15:33:47.898793Z
 addr = 0xa18dec
 name = ""
 size = 0x1
+
+[0xa88ac8]
+last_change = 2026-01-09T19:10:03.706561Z
+addr = 0xa88ac8
+name = "g_TempByteAllocCount"
+size = 0x4
