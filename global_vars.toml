@@ -61,14 +61,14 @@ addr = 0xa88c04
 name = "byte_E89C04"
 size = 0x1
 
-[0xa88c20]
-last_change = 2026-01-09T19:35:41.574612Z
-addr = 0xa88c20
-name = "dword_E89C20"
+[0xa88c24]
+last_change = 2026-01-09T19:35:41.637048Z
+addr = 0xa88c24
+name = "dword_E89C24"
 size = 0x4
 
-[0xa88c44]
-last_change = 2026-01-09T19:35:42.465150Z
-addr = 0xa88c44
-name = "dword_E89C44"
+[0xa88c48]
+last_change = 2026-01-09T19:35:42.543278Z
+addr = 0xa88c48
+name = "dword_E89C48"
 size = 0x4
