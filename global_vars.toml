@@ -127,32 +127,32 @@ addr = 0xa88e20
 name = "dword_E89E20"
 size = 0x4
 
-[0xa88e94]
-last_change = 2026-01-09T19:35:54.158572Z
-addr = 0xa88e94
-name = "dword_E89E94"
+[0xa88e98]
+last_change = 2026-01-09T19:35:54.236640Z
+addr = 0xa88e98
+name = "dword_E89E98"
 size = 0x4
 
-[0xa88f04]
-last_change = 2026-01-09T19:35:56.395810Z
-addr = 0xa88f04
-name = "dword_E89F04"
+[0xa88f0c]
+last_change = 2026-01-09T19:35:56.534472Z
+addr = 0xa88f0c
+name = "dword_E89F0C"
 size = 0x4
 
-[0xa88f74]
-last_change = 2026-01-09T19:35:59.128736Z
-addr = 0xa88f74
-name = "dword_E89F74"
+[0xa88f88]
+last_change = 2026-01-09T19:35:59.269337Z
+addr = 0xa88f88
+name = "dword_E89F88"
 size = 0x4
 
-[0xa89010]
-last_change = 2026-01-09T19:36:02.425014Z
-addr = 0xa89010
-name = "dword_E8A010"
+[0xa89014]
+last_change = 2026-01-09T19:36:02.458966Z
+addr = 0xa89014
+name = "dword_E8A014"
 size = 0x4
 
-[0xa890a8]
-last_change = 2026-01-09T19:36:06.179308Z
-addr = 0xa890a8
-name = "dword_E8A0A8"
+[0xa890ac]
+last_change = 2026-01-09T19:36:06.241795Z
+addr = 0xa890ac
+name = "dword_E8A0AC"
 size = 0x4
