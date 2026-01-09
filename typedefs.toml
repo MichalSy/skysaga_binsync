@@ -2,8 +2,3 @@
 last_change = 2026-01-09T19:52:44.308452Z
 name = "RTL_CRITICAL_SECTION"
 type = "_RTL_CRITICAL_SECTION"
-
-[uint8_t]
-last_change = 2026-01-09T19:54:49.969899Z
-name = "uint8_t"
-type = "unsigned char"
