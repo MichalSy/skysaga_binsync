@@ -23,15 +23,3 @@ addr = 0xa88a80
 name = "dword_E89A80"
 type = "TempByteAllocatorGlobals"
 size = 0x4
-
-[0xa88aa0]
-last_change = 2026-01-09T19:35:39.573361Z
-addr = 0xa88aa0
-name = "dword_E89AA0"
-size = 0x4
-
-[0xa88abc]
-last_change = 2026-01-09T19:35:39.760791Z
-addr = 0xa88abc
-name = "dword_E89ABC"
-size = 0x4
