@@ -37,62 +37,62 @@ name = "stru_E89AA4"
 type = "struct _RTL_CRITICAL_SECTION"
 size = 0x18
 
-[0xa88ac0]
-last_change = 2026-01-09T19:35:39.932751Z
-addr = 0xa88ac0
-name = "dword_E89AC0"
-size = 0x4
+[0xa88bd0]
+last_change = 2026-01-09T19:35:40.151503Z
+addr = 0xa88bd0
+name = "byte_E89BD0"
+size = 0x1
 
 [0xa88bd4]
-last_change = 2026-01-09T19:35:40.323367Z
+last_change = 2026-01-09T19:35:40.406656Z
 addr = 0xa88bd4
 name = "dword_E89BD4"
 size = 0x4
 
-[0xa88bd8]
-last_change = 2026-01-09T19:35:40.574773Z
-addr = 0xa88bd8
-name = "dword_E89BD8"
+[0xa88bdc]
+last_change = 2026-01-09T19:35:40.652913Z
+addr = 0xa88bdc
+name = "dword_E89BDC"
 size = 0x4
 
-[0xa88bfc]
-last_change = 2026-01-09T19:35:40.902898Z
-addr = 0xa88bfc
-name = "dword_E89BFC"
-size = 0x4
-
-[0xa88c1c]
-last_change = 2026-01-09T19:35:41.371657Z
-addr = 0xa88c1c
-name = "dword_E89C1C"
-size = 0x4
-
-[0xa88c40]
-last_change = 2026-01-09T19:35:42.199547Z
-addr = 0xa88c40
-name = "dword_E89C40"
-size = 0x4
-
-[0xa88c50]
-last_change = 2026-01-09T19:35:42.699526Z
-addr = 0xa88c50
-name = "dword_E89C50"
-size = 0x4
-
-[0xa88c7c]
-last_change = 2026-01-09T19:35:43.408491Z
-addr = 0xa88c7c
-name = "byte_E89C7C"
+[0xa88c04]
+last_change = 2026-01-09T19:35:41.043457Z
+addr = 0xa88c04
+name = "byte_E89C04"
 size = 0x1
 
-[0xa88cb0]
-last_change = 2026-01-09T19:35:44.060045Z
-addr = 0xa88cb0
-name = "dword_E89CB0"
+[0xa88c20]
+last_change = 2026-01-09T19:35:41.574612Z
+addr = 0xa88c20
+name = "dword_E89C20"
 size = 0x4
 
-[0xa88cd8]
-last_change = 2026-01-09T19:35:45.154127Z
-addr = 0xa88cd8
-name = "dword_E89CD8"
+[0xa88c44]
+last_change = 2026-01-09T19:35:42.465150Z
+addr = 0xa88c44
+name = "dword_E89C44"
+size = 0x4
+
+[0xa88c60]
+last_change = 2026-01-09T19:35:43.043278Z
+addr = 0xa88c60
+name = "dword_E89C60"
+size = 0x4
+
+[0xa88c90]
+last_change = 2026-01-09T19:35:43.779273Z
+addr = 0xa88c90
+name = "dword_E89C90"
+size = 0x4
+
+[0xa88cb4]
+last_change = 2026-01-09T19:35:44.341296Z
+addr = 0xa88cb4
+name = "dword_E89CB4"
+size = 0x4
+
+[0xa88cdc]
+last_change = 2026-01-09T19:35:45.216625Z
+addr = 0xa88cdc
+name = "dword_E89CDC"
 size = 0x4
