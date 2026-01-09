@@ -11,11 +11,11 @@ name = "g_TempByteAllocCount"
 size = 0x4
 
 [0xa88a88]
-last_change = 2026-01-09T19:36:53.823165Z
+last_change = 2026-01-09T19:16:43.214843Z
 addr = 0xa88a88
-name = ""
+name = "lpCriticalSection__1"
 type = "struct _RTL_CRITICAL_SECTION"
-size = 0xfe8
+size = 0x18
 
 [0xa88a80]
 last_change = 2026-01-09T19:35:39.213639Z
@@ -204,3 +204,9 @@ last_change = 2026-01-09T19:36:47.133190Z
 addr = 0xa89958
 name = "dword_E8A958"
 size = 0x4
+
+[0xa88aa0]
+last_change = 2026-01-09T19:36:53.901297Z
+addr = 0xa88aa0
+name = ""
+size = 0xfd0
