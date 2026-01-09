@@ -25,10 +25,10 @@ type = "TempByteAllocatorGlobals"
 size = 0x4
 
 [0xa88a84]
-last_change = 2026-01-09T19:35:39.510866Z
+last_change = 2026-01-09T19:36:53.760132Z
 addr = 0xa88a84
-name = "dword_E89A84"
-size = 0x4
+name = ""
+size = 0xfec
 
 [0xa88aa4]
 last_change = 2026-01-09T19:35:39.713949Z
@@ -193,44 +193,38 @@ addr = 0xa895e0
 name = "dword_E8A5E0"
 size = 0x4
 
-[0xa89708]
-last_change = 2026-01-09T19:36:43.068771Z
-addr = 0xa89708
-name = "byte_E8A708"
+[0xa89709]
+last_change = 2026-01-09T19:36:43.146963Z
+addr = 0xa89709
+name = "byte_E8A709"
 size = 0x1
 
-[0xa89950]
-last_change = 2026-01-09T19:36:46.977002Z
-addr = 0xa89950
-name = "dword_E8A950"
+[0xa89954]
+last_change = 2026-01-09T19:36:47.055064Z
+addr = 0xa89954
+name = "dword_E8A954"
 size = 0x4
 
-[0xa89a6c]
-last_change = 2026-01-09T19:36:53.681940Z
-addr = 0xa89a6c
-name = "dword_E8AA6C"
-size = 0x4
-
-[0xa88d10]
-last_change = 2026-01-09T19:37:01.356862Z
-addr = 0xa88d10
+[0xa88d14]
+last_change = 2026-01-09T19:37:01.432494Z
+addr = 0xa88d14
 name = ""
-size = 0xd60
+size = 0xd5c
 
-[0xa88e28]
-last_change = 2026-01-09T19:37:05.827746Z
-addr = 0xa88e28
+[0xa88e3c]
+last_change = 2026-01-09T19:37:05.968298Z
+addr = 0xa88e3c
 name = ""
-size = 0xc48
+size = 0xc34
 
-[0xa88f84]
-last_change = 2026-01-09T19:37:14.493655Z
-addr = 0xa88f84
+[0xa88f8c]
+last_change = 2026-01-09T19:37:14.631814Z
+addr = 0xa88f8c
 name = ""
-size = 0xaec
+size = 0xae4
 
-[0xa890a8]
-last_change = 2026-01-09T19:37:19.501988Z
-addr = 0xa890a8
+[0xa890ac]
+last_change = 2026-01-09T19:37:19.576284Z
+addr = 0xa890ac
 name = ""
-size = 0x9c8
+size = 0x9c4
