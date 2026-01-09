@@ -181,9 +181,8 @@ addr = 0xa893ec
 name = "dword_E8A3EC"
 size = 0x4
 
-[0xa894c4]
-last_change = 2026-01-09T19:36:30.297540Z
-addr = 0xa894c4
-name = "dword_E8A4C4"
-type = "unsigned int"
+[0xa894c8]
+last_change = 2026-01-09T19:36:30.375665Z
+addr = 0xa894c8
+name = "dword_E8A4C8"
 size = 0x4
