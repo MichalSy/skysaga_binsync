@@ -67,32 +67,32 @@ addr = 0xa88c1c
 name = "dword_E89C1C"
 size = 0x4
 
-[0xa88c30]
-last_change = 2026-01-09T19:35:42.121491Z
-addr = 0xa88c30
-name = "byte_E89C30"
+[0xa88c40]
+last_change = 2026-01-09T19:35:42.199547Z
+addr = 0xa88c40
+name = "dword_E89C40"
+size = 0x4
+
+[0xa88c50]
+last_change = 2026-01-09T19:35:42.699526Z
+addr = 0xa88c50
+name = "dword_E89C50"
+size = 0x4
+
+[0xa88c7c]
+last_change = 2026-01-09T19:35:43.408491Z
+addr = 0xa88c7c
+name = "byte_E89C7C"
 size = 0x1
 
-[0xa88c4c]
-last_change = 2026-01-09T19:35:42.621401Z
-addr = 0xa88c4c
-name = "dword_E89C4C"
+[0xa88cb0]
+last_change = 2026-01-09T19:35:44.060045Z
+addr = 0xa88cb0
+name = "dword_E89CB0"
 size = 0x4
 
-[0xa88c78]
-last_change = 2026-01-09T19:35:43.324525Z
-addr = 0xa88c78
-name = "dword_E89C78"
-size = 0x4
-
-[0xa88ca0]
-last_change = 2026-01-09T19:35:43.981922Z
-addr = 0xa88ca0
-name = "dword_E89CA0"
-size = 0x4
-
-[0xa88ccc]
-last_change = 2026-01-09T19:35:44.700997Z
-addr = 0xa88ccc
-name = "dword_E89CCC"
+[0xa88cd0]
+last_change = 2026-01-09T19:35:44.763433Z
+addr = 0xa88cd0
+name = "dword_E89CD0"
 size = 0x4
