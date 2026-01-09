@@ -248,15 +248,14 @@ addr = 0xa89540
 name = ""
 size = 0x530
 
-[0xa896fc]
-last_change = 2026-01-09T19:37:56.599375Z
-addr = 0xa896fc
+[0xa89700]
+last_change = 2026-01-09T19:37:56.677496Z
+addr = 0xa89700
 name = ""
-size = 0x374
+size = 0x370
 
-[0xa899bc]
-last_change = 2026-01-09T19:38:02.757935Z
-addr = 0xa899bc
+[0xa899cc]
+last_change = 2026-01-09T19:38:02.851698Z
+addr = 0xa899cc
 name = ""
-type = "ModeHomeWorld *"
-size = 0xb4
+size = 0xa4
