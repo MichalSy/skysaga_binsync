@@ -253,15 +253,14 @@ addr = 0xa89448
 name = ""
 size = 0x628
 
-[0xa895cc]
-last_change = 2026-01-09T19:37:47.860975Z
-addr = 0xa895cc
+[0xa895d0]
+last_change = 2026-01-09T19:37:47.923462Z
+addr = 0xa895d0
 name = ""
-size = 0x4a4
+size = 0x4a0
 
-[0xa898ac]
-last_change = 2026-01-09T19:37:58.506881Z
-addr = 0xa898ac
+[0xa898b0]
+last_change = 2026-01-09T19:37:58.569388Z
+addr = 0xa898b0
 name = ""
-type = "size_t"
-size = 0x1c4
+size = 0x1c0
