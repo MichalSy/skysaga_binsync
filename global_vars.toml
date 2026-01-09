@@ -145,8 +145,8 @@ addr = 0xa88f54
 name = "dword_E89F54"
 size = 0x4
 
-[0xa88fdc]
-last_change = 2026-01-09T19:36:01.520922Z
-addr = 0xa88fdc
-name = "byte_E89FDC"
-size = 0x1
+[0xa88fe0]
+last_change = 2026-01-09T19:36:01.583425Z
+addr = 0xa88fe0
+name = "dword_E89FE0"
+size = 0x4
