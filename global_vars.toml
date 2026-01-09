@@ -37,8 +37,14 @@ name = "stru_E89AA4"
 type = "struct _RTL_CRITICAL_SECTION"
 size = 0x18
 
-[0xa88bd0]
-last_change = 2026-01-09T19:35:40.151503Z
-addr = 0xa88bd0
-name = "byte_E89BD0"
-size = 0x1
+[0xa88ac0]
+last_change = 2026-01-09T19:35:39.932751Z
+addr = 0xa88ac0
+name = "dword_E89AC0"
+size = 0x4
+
+[0xa88bd4]
+last_change = 2026-01-09T19:35:40.323367Z
+addr = 0xa88bd4
+name = "dword_E89BD4"
+size = 0x4
