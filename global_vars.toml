@@ -247,15 +247,14 @@ addr = 0xa89214
 name = ""
 size = 0x85c
 
-[0xa8936c]
-last_change = 2026-01-09T19:37:39.075619Z
-addr = 0xa8936c
+[0xa89370]
+last_change = 2026-01-09T19:37:39.138188Z
+addr = 0xa89370
 name = ""
-size = 0x704
+size = 0x700
 
-[0xa894c4]
-last_change = 2026-01-09T19:37:43.937788Z
-addr = 0xa894c4
+[0xa894c8]
+last_change = 2026-01-09T19:37:44.031480Z
+addr = 0xa894c8
 name = ""
-type = "unsigned int"
-size = 0x5ac
+size = 0x5a8
