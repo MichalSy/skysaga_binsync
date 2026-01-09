@@ -127,14 +127,14 @@ addr = 0xa88e48
 name = "byte_E89E48"
 size = 0x1
 
-[0xa88ec4]
-last_change = 2026-01-09T19:35:54.783263Z
-addr = 0xa88ec4
-name = "dword_E89EC4"
+[0xa88ec0]
+last_change = 2026-01-09T19:35:54.720768Z
+addr = 0xa88ec0
+name = "dword_E89EC0"
 size = 0x4
 
-[0xa88f28]
-last_change = 2026-01-09T19:35:57.034405Z
-addr = 0xa88f28
-name = "dword_E89F28"
+[0xa88f2c]
+last_change = 2026-01-09T19:35:57.112592Z
+addr = 0xa88f2c
+name = "dword_E89F2C"
 size = 0x4
