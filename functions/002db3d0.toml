@@ -1,0 +1,11 @@
+last_change = 2026-01-09T19:49:29.453582Z
+addr = 0x2db3d0
+size = 0x14
+name = "LeaveCriticalSectionW"
+
+[header]
+last_change = 2026-01-09T19:49:29.453582Z
+name = "LeaveCriticalSectionW"
+addr = 0x2db3d0
+
+[header.args]
