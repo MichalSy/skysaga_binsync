@@ -1,11 +1,11 @@
-last_change = 2026-01-09T19:49:29.453582Z
+last_change = 2026-01-09T19:49:40.622464Z
 addr = 0x2db3d0
 size = 0x14
-name = "LeaveCriticalSectionW"
+name = "TryLeaveCriticalSection"
 
 [header]
-last_change = 2026-01-09T19:49:29.453582Z
-name = "LeaveCriticalSectionW"
+last_change = 2026-01-09T19:49:40.622464Z
+name = "TryLeaveCriticalSection"
 addr = 0x2db3d0
 
 [header.args]
