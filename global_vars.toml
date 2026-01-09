@@ -109,8 +109,8 @@ addr = 0xa88d50
 name = "dword_E89D50"
 size = 0x4
 
-[0xa88d94]
-last_change = 2026-01-09T19:35:48.718602Z
-addr = 0xa88d94
-name = "dword_E89D94"
+[0xa88d98]
+last_change = 2026-01-09T19:35:49.187361Z
+addr = 0xa88d98
+name = "dword_E89D98"
 size = 0x4
