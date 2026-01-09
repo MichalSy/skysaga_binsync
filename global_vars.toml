@@ -16,3 +16,10 @@ addr = 0xa88a88
 name = "lpCriticalSection__1"
 type = "struct _RTL_CRITICAL_SECTION"
 size = 0x18
+
+[0xa88a80]
+last_change = 2026-01-09T19:35:39.213639Z
+addr = 0xa88a80
+name = "dword_E89A80"
+type = "TempByteAllocatorGlobals"
+size = 0x4
