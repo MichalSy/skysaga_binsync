@@ -18,14 +18,27 @@ type = "struct _RTL_CRITICAL_SECTION"
 size = 0x18
 
 [0xa88a80]
-last_change = 2026-01-09T19:35:39.354293Z
+last_change = 2026-01-09T19:35:39.213639Z
 addr = 0xa88a80
 name = "dword_E89A80"
 type = "TempByteAllocatorGlobals"
 size = 0x4
 
-[0xa88aa0]
-last_change = 2026-01-09T19:35:39.573361Z
-addr = 0xa88aa0
-name = "dword_E89AA0"
+[0xa88a84]
+last_change = 2026-01-09T19:35:39.510866Z
+addr = 0xa88a84
+name = "dword_E89A84"
 size = 0x4
+
+[0xa88aa4]
+last_change = 2026-01-09T19:35:39.713949Z
+addr = 0xa88aa4
+name = "stru_E89AA4"
+type = "struct _RTL_CRITICAL_SECTION"
+size = 0x18
+
+[0xa88ad0]
+last_change = 2026-01-09T19:35:40.073295Z
+addr = 0xa88ad0
+name = "dword_E89AD0"
+size = 0x100
