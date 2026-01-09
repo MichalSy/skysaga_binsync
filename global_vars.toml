@@ -127,62 +127,62 @@ addr = 0xa88dec
 name = "dword_E89DEC"
 size = 0x4
 
-[0xa88e68]
-last_change = 2026-01-09T19:35:53.016892Z
-addr = 0xa88e68
-name = "dword_E89E68"
+[0xa88e6c]
+last_change = 2026-01-09T19:35:53.079327Z
+addr = 0xa88e6c
+name = "dword_E89E6C"
 size = 0x4
 
-[0xa88edc]
-last_change = 2026-01-09T19:35:55.220707Z
-addr = 0xa88edc
-name = "dword_E89EDC"
+[0xa88ee4]
+last_change = 2026-01-09T19:35:55.361395Z
+addr = 0xa88ee4
+name = "dword_E89EE4"
 size = 0x4
 
-[0xa88f54]
-last_change = 2026-01-09T19:35:58.566204Z
-addr = 0xa88f54
-name = "dword_E89F54"
+[0xa88f5c]
+last_change = 2026-01-09T19:35:58.706836Z
+addr = 0xa88f5c
+name = "dword_E89F5C"
 size = 0x4
 
-[0xa88fd8]
-last_change = 2026-01-09T19:36:01.442743Z
-addr = 0xa88fd8
-name = "dword_E89FD8"
+[0xa88fe4]
+last_change = 2026-01-09T19:36:01.661572Z
+addr = 0xa88fe4
+name = "dword_E89FE4"
 size = 0x4
 
-[0xa89064]
-last_change = 2026-01-09T19:36:04.976433Z
-addr = 0xa89064
-name = "dword_E8A064"
+[0xa89070]
+last_change = 2026-01-09T19:36:05.210804Z
+addr = 0xa89070
+name = "dword_E8A070"
 size = 0x4
 
-[0xa89108]
-last_change = 2026-01-09T19:36:09.116600Z
-addr = 0xa89108
-name = "dword_E8A108"
+[0xa89114]
+last_change = 2026-01-09T19:36:09.319721Z
+addr = 0xa89114
+name = "dword_E8A114"
 size = 0x4
 
-[0xa891b8]
-last_change = 2026-01-09T19:36:13.556135Z
-addr = 0xa891b8
-name = "dword_E8A1B8"
+[0xa891c0]
+last_change = 2026-01-09T19:36:13.712465Z
+addr = 0xa891c0
+name = "dword_E8A1C0"
 size = 0x4
 
-[0xa89288]
-last_change = 2026-01-09T19:36:18.182932Z
-addr = 0xa89288
-name = "dword_E8A288"
+[0xa89290]
+last_change = 2026-01-09T19:36:18.339260Z
+addr = 0xa89290
+name = "dword_E8A290"
 size = 0x4
 
-[0xa89370]
-last_change = 2026-01-09T19:36:23.278781Z
-addr = 0xa89370
-name = "dword_E8A370"
+[0xa8937c]
+last_change = 2026-01-09T19:36:23.498132Z
+addr = 0xa8937c
+name = "dword_E8A37C"
 size = 0x4
 
-[0xa89450]
-last_change = 2026-01-09T19:36:28.844050Z
-addr = 0xa89450
-name = "byte_E8A450"
-size = 0x1
+[0xa89454]
+last_change = 2026-01-09T19:36:28.906531Z
+addr = 0xa89454
+name = "dword_E8A454"
+size = 0x4
