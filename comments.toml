@@ -11,3 +11,10 @@ addr = 0x2e3071
 func_addr = 0x2e3060
 comment = "\n"
 decompiled = true
+
+[0x2e3076]
+last_change = 2026-01-09T19:38:41.411332Z
+addr = 0x2e3076
+func_addr = 0x2e3060
+comment = "\n"
+decompiled = true
