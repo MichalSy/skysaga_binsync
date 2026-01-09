@@ -265,8 +265,8 @@ addr = 0xa8966c
 name = ""
 size = 0x404
 
-[0xa89934]
-last_change = 2026-01-09T19:38:00.616792Z
-addr = 0xa89934
+[0xa89938]
+last_change = 2026-01-09T19:38:00.694847Z
+addr = 0xa89938
 name = ""
-size = 0x13c
+size = 0x138
