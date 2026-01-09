@@ -151,14 +151,14 @@ addr = 0xa89038
 name = "dword_E8A038"
 size = 0x4
 
-[0xa890d0]
-last_change = 2026-01-09T19:36:08.107175Z
-addr = 0xa890d0
-name = "dword_E8A0D0"
+[0xa890d4]
+last_change = 2026-01-09T19:36:08.185399Z
+addr = 0xa890d4
+name = "dword_E8A0D4"
 size = 0x4
 
-[0xa8917c]
-last_change = 2026-01-09T19:36:12.477557Z
-addr = 0xa8917c
-name = "dword_E8A17C"
+[0xa89180]
+last_change = 2026-01-09T19:36:12.539994Z
+addr = 0xa89180
+name = "dword_E8A180"
 size = 0x4
