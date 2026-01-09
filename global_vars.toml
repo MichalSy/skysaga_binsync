@@ -366,3 +366,9 @@ last_change = 2026-01-09T19:48:58.129078Z
 addr = 0xa88fec
 name = "byte_E89FEC"
 size = 0x1
+
+[0xa89004]
+last_change = 2026-01-09T19:48:58.207129Z
+addr = 0xa89004
+name = "byte_E8A004"
+size = 0x1
