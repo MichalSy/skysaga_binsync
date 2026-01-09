@@ -242,10 +242,10 @@ name = ""
 size = 0x8ac
 
 [0xa89314]
-last_change = 2026-01-09T19:49:01.481339Z
+last_change = 2026-01-09T19:37:33.495617Z
 addr = 0xa89314
-name = "byte_E8A314"
-size = 0x1
+name = ""
+size = 0x75c
 
 [0xa89454]
 last_change = 2026-01-09T19:37:42.562164Z
@@ -463,8 +463,14 @@ addr = 0xa88cd4
 name = "byte_E89CD4"
 size = 0x1
 
-[0xa88ff4]
-last_change = 2026-01-09T19:49:00.915025Z
-addr = 0xa88ff4
-name = "byte_E89FF4"
+[0xa88fe4]
+last_change = 2026-01-09T19:49:00.985089Z
+addr = 0xa88fe4
+name = "byte_E89FE4"
+size = 0x1
+
+[0xa88fa8]
+last_change = 2026-01-09T19:49:01.544442Z
+addr = 0xa88fa8
+name = "byte_E89FA8"
 size = 0x1
